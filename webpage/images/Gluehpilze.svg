@@ -1,0 +1,306 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 148.36 252.41">
+  <defs>
+    <linearGradient id="Unbenannter_Verlauf_206" x1="34.1" y1="68.33" x2="121.38" y2="12.71" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#00246a" stop-opacity=".98"/>
+      <stop offset=".32" stop-color="#0043a7" stop-opacity=".99"/>
+      <stop offset=".51" stop-color="#1b1464" stop-opacity=".99"/>
+      <stop offset=".72" stop-color="#1b1464" stop-opacity=".99"/>
+      <stop offset=".85" stop-color="#0043a7" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".99"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_203" x1="93.54" y1="31.06" x2="93.54" y2="13.98" gradientTransform="matrix(1.29, 0.17, -0.13, 0.99, -20.79, -15.55)" gradientUnits="userSpaceOnUse">
+      <stop offset=".33" stop-color="#0043a7" stop-opacity="0"/>
+      <stop offset=".35" stop-color="#2860b5" stop-opacity=".12"/>
+      <stop offset=".39" stop-color="#7498cf" stop-opacity=".36"/>
+      <stop offset=".43" stop-color="#b0c5e4" stop-opacity=".55"/>
+      <stop offset=".46" stop-color="#dbe4f3" stop-opacity=".69"/>
+      <stop offset=".49" stop-color="#f5f8fc" stop-opacity=".77"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".8"/>
+      <stop offset=".69" stop-color="#0043a7" stop-opacity="0"/>
+      <stop offset=".7" stop-color="#094aaa" stop-opacity=".03"/>
+      <stop offset=".75" stop-color="#608ac8" stop-opacity=".26"/>
+      <stop offset=".8" stop-color="#a5bce0" stop-opacity=".45"/>
+      <stop offset=".84" stop-color="#d6e1f1" stop-opacity=".59"/>
+      <stop offset=".88" stop-color="#f4f7fb" stop-opacity=".67"/>
+      <stop offset=".9" stop-color="#fff" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#0043a7" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_125" x1="30.11" y1="143.81" x2="179.5" y2="103.46" gradientUnits="userSpaceOnUse">
+      <stop offset=".03" stop-color="#00246a" stop-opacity=".98"/>
+      <stop offset=".05" stop-color="#02266b" stop-opacity=".98"/>
+      <stop offset=".06" stop-color="#092c6f" stop-opacity=".98"/>
+      <stop offset=".07" stop-color="#153676" stop-opacity=".98"/>
+      <stop offset=".08" stop-color="#264580" stop-opacity=".98"/>
+      <stop offset=".08" stop-color="#3d588d" stop-opacity=".98"/>
+      <stop offset=".09" stop-color="#58709e" stop-opacity=".98"/>
+      <stop offset=".09" stop-color="#798cb1" stop-opacity=".98"/>
+      <stop offset=".09" stop-color="#a0adc8" stop-opacity=".98"/>
+      <stop offset=".1" stop-color="#cbd2e1" stop-opacity=".98"/>
+      <stop offset=".1" stop-color="#fafbfc" stop-opacity=".98"/>
+      <stop offset=".1" stop-color="#fff" stop-opacity=".98"/>
+      <stop offset=".11" stop-color="#dadfe9" stop-opacity=".98"/>
+      <stop offset=".12" stop-color="#acb8cf" stop-opacity=".98"/>
+      <stop offset=".13" stop-color="#8395b7" stop-opacity=".98"/>
+      <stop offset=".14" stop-color="#6076a2" stop-opacity=".98"/>
+      <stop offset=".15" stop-color="#425c90" stop-opacity=".98"/>
+      <stop offset=".17" stop-color="#2a4882" stop-opacity=".98"/>
+      <stop offset=".19" stop-color="#173877" stop-opacity=".98"/>
+      <stop offset=".2" stop-color="#0a2c70" stop-opacity=".98"/>
+      <stop offset=".23" stop-color="#02266b" stop-opacity=".98"/>
+      <stop offset=".28" stop-color="#00246a" stop-opacity=".98"/>
+      <stop offset=".38" stop-color="#13297a" stop-opacity=".98"/>
+      <stop offset=".49" stop-color="#2e3192" stop-opacity=".98"/>
+      <stop offset=".67" stop-color="#2c3293" stop-opacity=".98"/>
+      <stop offset=".73" stop-color="#253496" stop-opacity=".98"/>
+      <stop offset=".77" stop-color="#19399c" stop-opacity=".98"/>
+      <stop offset=".81" stop-color="#0840a3" stop-opacity=".99"/>
+      <stop offset=".82" stop-color="#0043a7" stop-opacity=".99"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_36" x1="17.08" y1="120.89" x2="79.19" y2="47.74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-opacity=".98"/>
+      <stop offset=".34" stop-color="#00246a" stop-opacity=".98"/>
+      <stop offset=".64" stop-color="#0043a7" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_101" x1="54.15" y1="71.84" x2="54.05" y2="68.42" gradientTransform="translate(2.01 -1.47) rotate(1.62)" gradientUnits="userSpaceOnUse">
+      <stop offset=".13" stop-opacity="0"/>
+      <stop offset=".29" stop-color="#030303" stop-opacity=".01"/>
+      <stop offset=".41" stop-color="#0c0c0c" stop-opacity=".05"/>
+      <stop offset=".51" stop-color="#1c1c1c" stop-opacity=".11"/>
+      <stop offset=".6" stop-color="#323232" stop-opacity=".2"/>
+      <stop offset=".69" stop-color="#4f4f4f" stop-opacity=".31"/>
+      <stop offset=".77" stop-color="#737373" stop-opacity=".45"/>
+      <stop offset=".85" stop-color="#9d9d9d" stop-opacity=".61"/>
+      <stop offset=".93" stop-color="#ccc" stop-opacity=".8"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_101-2" x1="49.92" y1="66.94" x2="49.83" y2="63.51" gradientTransform="matrix(0.71, -0.06, 0.09, 1, 4.02, 2.92)" xlink:href="#Unbenannter_Verlauf_101"/>
+    <linearGradient id="Unbenannter_Verlauf_60" x1="16.22" y1="159.82" x2="101.7" y2="159.82" gradientUnits="userSpaceOnUse">
+      <stop offset=".1" stop-opacity=".98"/>
+      <stop offset=".26" stop-color="#00246a" stop-opacity=".98"/>
+      <stop offset=".63" stop-color="#0043a7" stop-opacity=".99"/>
+      <stop offset=".66" stop-color="#094aaa" stop-opacity=".99"/>
+      <stop offset=".71" stop-color="#215bb2" stop-opacity=".99"/>
+      <stop offset=".78" stop-color="#4979c0" stop-opacity=".99"/>
+      <stop offset=".85" stop-color="#7fa1d3" stop-opacity=".99"/>
+      <stop offset=".94" stop-color="#c4d4eb"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_60-2" x1="97.23" y1="201.02" x2="127.64" y2="201.02" xlink:href="#Unbenannter_Verlauf_60"/>
+    <linearGradient id="Unbenannter_Verlauf_36-2" x1="18.72" y1="221.76" x2="35.56" y2="210.87" xlink:href="#Unbenannter_Verlauf_36"/>
+    <linearGradient id="Unbenannter_Verlauf_36-3" x1="39.21" y1="221.65" x2="49.68" y2="226.92" xlink:href="#Unbenannter_Verlauf_36"/>
+    <linearGradient id="Unbenannter_Verlauf_36-4" x1="37.88" y1="197.23" x2="50.93" y2="193.85" xlink:href="#Unbenannter_Verlauf_36"/>
+    <radialGradient id="Unbenannter_Verlauf_207" cx="76.97" cy="56.67" fx="12.04296613" fy="66.12761881" r="100.19" gradientUnits="userSpaceOnUse">
+      <stop offset=".16" stop-color="#fcee21" stop-opacity=".98"/>
+      <stop offset=".28" stop-color="#7ed621" stop-opacity=".98"/>
+      <stop offset=".6" stop-color="#0043a7" stop-opacity=".99"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_92" cx="90.05" cy="4.99" r="12.51" gradientUnits="userSpaceOnUse">
+      <stop offset=".32" stop-color="#0043a7" stop-opacity="0"/>
+      <stop offset=".34" stop-color="#0849aa" stop-opacity=".03"/>
+      <stop offset=".48" stop-color="#527fc3" stop-opacity=".32"/>
+      <stop offset=".62" stop-color="#8fadd9" stop-opacity=".56"/>
+      <stop offset=".74" stop-color="#c0d0e9" stop-opacity=".75"/>
+      <stop offset=".85" stop-color="#e2eaf5" stop-opacity=".89"/>
+      <stop offset=".94" stop-color="#f7f9fc" stop-opacity=".97"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_59" cx="47.56" cy="81.73" r="57.44" gradientTransform="translate(189.32 42.23) rotate(93.29) scale(1 1.7)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fcee21" stop-opacity=".98"/>
+      <stop offset=".26" stop-color="#7ed621" stop-opacity=".98"/>
+      <stop offset=".64" stop-color="#0043a7" stop-opacity=".99"/>
+      <stop offset=".69" stop-color="#4677bf" stop-opacity=".99"/>
+      <stop offset=".76" stop-color="#a9bfe1"/>
+      <stop offset=".81" stop-color="#e7edf7"/>
+      <stop offset=".84" stop-color="#fff"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_92-2" cx="34.04" cy="61.66" r="14.92" xlink:href="#Unbenannter_Verlauf_92"/>
+    <radialGradient id="Unbenannter_Verlauf_59-2" cx="44.14" cy="225" r="9.87" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#Unbenannter_Verlauf_59"/>
+    <radialGradient id="Unbenannter_Verlauf_59-3" cx="42.97" cy="196.14" r="14.66" gradientTransform="matrix(1, 0, 0, 1, 0, 0)" xlink:href="#Unbenannter_Verlauf_59"/>
+    <style>
+      .cls-1,.cls-10,.cls-13,.cls-17,.cls-28,.cls-3,.cls-9{fill:none}.cls-1,.cls-3{stroke:#0b1b7a}.cls-1,.cls-10,.cls-13,.cls-17,.cls-28,.cls-3,.cls-9{stroke-miterlimit:10}.cls-1,.cls-10,.cls-13,.cls-9{stroke-width:.5px}.cls-2{fill:#0b1b7a}.cls-17,.cls-28,.cls-3{stroke-width:.25px}.cls-9{stroke:#0c0b3a}.cls-10{stroke:#749e00}.cls-13{stroke:#a3ba74}.cls-17{stroke:#271959}.cls-21{fill:#749e00}.cls-28{stroke:#c7d000}.cls-29{fill:#c7d000}
+    
+      #Bläschen {
+          animation-name: drop;          
+          animation-duration: 5s;             
+          animation-iteration-count: infinite;
+          animation-timing-function: ease-in;
+        }
+
+        @keyframes drop {
+          0% { transform: translateY(0px); opacity: 0}
+          20% {opacity: 1}
+          90% {opacity: 1}
+          100% { transform: translateY(219px); opacity: 0}
+        }
+        #Ebene_2 {
+          cursor: pointer;
+        }
+        #Ebene_2:hover .path {
+          stroke-dasharray: 320;
+          stroke-dashoffset: 0;
+          animation: dash 4s linear;
+        }
+
+        @keyframes dash {
+          from {
+            stroke-dashoffset: 320;
+          }
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+    </style>
+  </defs>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g id="Wickelpilz">
+      <g id="Boden">
+        <path class="cls-1 path" d="M97.23 245.24s-10.19-3.33-.53-9.06-11.75-2 .53-9.55 1-6.39 1-6.39-8.75.19 3.91-4.58c0 0 3.52-1.46-1.91-2.26s1.53-4.66 1.53-4.66 2.53-2.06-1.41-3.44 4.85-1.76.53-4.78"/>
+        <path class="cls-1 path" d="M104.84 244.43s2.16-7.43-23.3-11.31 31.18-9.44 13.64-14.6-15.13-5.46 0-10.64-20.73-6.88-1.08-10.53-13.14-5.06 1.08-9.89c0 0 3-1-2.18-4M63.08 242.68s-10.66-3.52-2.07-7.76-12-2 .12-9-10.25.42.92-7.48c0 0 2.86-1-1.95-3"/>
+        <ellipse class="cls-1" cx="61.68" cy="249.19" rx="3.04" ry="2.14" transform="translate(-34.62 11.23) rotate(-8.13)"/>
+        <path class="cls-1" d="M77.56 246.8s-3.67-3.44-6.11.46 8.41 1.84 6.11-.46zM92.54 244.43s-5.19-1.81-7.87 1 11.38 2.14 7.87-1z"/>
+        <path class="cls-2" d="M79.78 248.71s2.07-3.51 4.55 0c0 0 .69 1.3-2.28 1.23s-2.19-.54-2.27-1.23zM122.5 249.45s-4.44-1-4.93 1 7 .03 4.93-1zM103.26 246.8s.41-2.21 2.16-.91a1.14 1.14 0 01-.93 2c-1.68-.51-1.23-1.09-1.23-1.09zM72.56 250.13s-3.83-1.87-4 1.11 6.74-.58 4-1.11zM70.38 244h-1.51s-1.73-13.12-5.3-17.36c0-.01 3.98 4.6 6.81 17.36zM73.2 243.25h-1.5s-1.74-11.37-5.3-15c0-.04 2.93 1.43 6.8 15zM80 243.6h.62s.72-14.19 2.19-18.77c-.01 0-1.65 4.99-2.81 18.77zM88 242.2l.61.12s3.56-13.75 5.93-17.94c0 0-2.62 4.56-6.54 17.82z"/>
+        <path class="cls-3" d="M100 247.42s-2.37 1.23.31 2 1.56-2.6-.31-2zM112.28 249.72s-8-.61-4.22 1.06 6-.96 4.22-1.06z"/>
+        <path class="cls-2" d="M63 241.3s-.23-7.83-3.06-12.25c.06 0 3.56 5.95 3.06 12.25zM98.66 245.51s1-8.3 3.36-8.87a20.09 20.09 0 00-2.6 8.87s-.3.7-.76 0zM91.78 243.25s1.76-12.27 6.88-15.4c0 0-3.83 2.68-6.12 15.4 0 0-.84.49-.76 0zM85 241.68s1.84-14.83 9.56-21c0 0-7.19 7.42-8.49 21-.02 0-.07.84-1.07 0z"/>
+        <path class="cls-3" d="M53.71 245.82s-2.9-.37-1.83 1.6 3.12-.89 1.83-1.6zM54.86 239.62s.84-3-1.45-3.89c0 0 1.75 2.21.72 4.5zM54.13 229.76s-2.94.61-1.64 2.52 2.82-1.99 1.64-2.52zM78.86 218.68s-3.13.3-2.22 2.67 3.75-.84 2.22-2.67zM113.71 242.68s-7.22-.51-1.28 1.31 2.36-1.26 1.28-1.31z"/>
+      </g>
+      <g id="hinterer_Pilz" data-name="hinterer Pilz">
+        <g id="Schirm">
+          <path id="Schirm-2" data-name="Schirm" d="M83.53 3.29s16.73-11.16 20.1 7.64c0 0 28.88 19 28.43 40.66 0 0-29.1-35.93-101.46-24.31 0 0 24.13-25.06 52.93-23.99z" fill="url(#Unbenannter_Verlauf_206)"/>
+          <path d="M82.3 26.19c1.25-.27 3.08-1 3.67.18.7 1.34 2-.44 3.59.38 2.87 1.47 1.34-1.56 4 1.3s1.77-1.4 3.82 1.13 1.72-.77 3.44 1.18 3.52-3.43 4 1.67c.38 3.66 1.79-.07 5.12-.48s-1.83 4.79 2.52 3.76-1.13 3.11 2.54 1.32-.47 2 1.59 2.24 2-1.61 2.59.8 3.57-1.16 3.29 1.91c-.15 1.68 2.37-.53 2.37 2.22s.81-.69 2.3 2.18.11-.61 2.29 1 2.71.64 2.6 4.54 3.13-.73-.31 4.54.47-.41.46 2.07.46 2.86-1.26 3.55 2.18 3.44-.69 3.61.12 2-1.72 2.07-.23 1.19-3.1 1.89 2.64 3.21-2.51 3.9.33 2.18-4.59 1.37 2.87.59-2.41 2.19 1.84 2.28-3.67 1.54 1.72 2.61-2.75 1.27-1.56 1.57-5 .32-1.57 3-3.86 1-2.3 1.43-3.39-.35-2 1.15-3.14.41.17-2-3.16-.69.42-2.38-2.81-1.15S41 66.57 35 55.87c0 0 1.81-2.39-2-3.36s2.2-2-2-4.41 3-1.49-.38-4.13 2.09-1.66-1-3.78 4.3-5.16-.4-5.68.59-8.31 3.82-8 3 .29 4.84-1.78 3 2.47 5.61 0 .81 2.41 3.21.41 1.44-3 3.21-1.09 2.3-2.41 5.39.17.62-3.86 5.38-.48c0 0 2.76 1.85 3.91.71s.23 1 2.75.06 2-2 5.14.38.42-3.35 3.11-.08 1.77-1.36 4.21.31c1.7 1.2 1.43 1.29 2.5 1.07z" fill="url(#Unbenannter_Verlauf_207)" stroke="#363b7f" stroke-width=".25" stroke-miterlimit="10"/>
+          <path d="M93.08 1.45s7.64-.15 7.72 8.18A15.07 15.07 0 0092 6.5c-5.5-.23-1.56-5.5 1.08-5.05z" fill="url(#Unbenannter_Verlauf_92)"/>
+          <path d="M82.41 12.65s8-.81 24.53 8.11c0 0 7.64 4.53-15.4-2 0 0-12.19-3-12.92.8S86 19 115 32.9" stroke="url(#Unbenannter_Verlauf_203)" stroke-miterlimit="10" fill="none"/>
+          <g id="Punkte">
+            <path d="M57.26 13.64s-3.81 4.93 1.23 2.76-.14-4.51-1.23-2.76z" fill="#100f38"/>
+            <path class="cls-9" d="M70.19 16.05s-2.53 3.56 1.14 1.49-1.25-3.48-1.14-1.49zM118.34 29.58s0 3 1.37 1.61-1.49-2.7-1.37-1.61zM72.69 9.63s-3.19 2.18-.55 2.29 1.66-3.22.55-2.29z"/>
+          </g>
+          <g id="Schirm_innen" data-name="Schirm innen">
+            <path class="cls-10 path" d="M83.53 42.88s5 11.39 20.4 16.89 27.82 14.83 16.51 17.66-10.85 5.65-.38 8-8.41 8-5 10.86 16.36 3.51 7 7.49-5.42 7.87-3.82 8.56 1.91 3-1.76 5.73 3.9.38 1.68 4.74-.91 7.49-.91 7.49"/>
+            <path class="cls-10 path" d="M81.66 41.58s10.2 17.12 31.6 11.62 31.87 10 22.24 7.87-18.88 2.91-1.53 4c0 0 9.86.3-2.68 2.75s2.53 1.91 1.15 4.51-8.94 2.75-4 5-2.83 1.91.07 4.36-.38 3-.38 3"/>
+            <path d="M80.39 69.25s4.51-10.85-.61-26.37c0 0 8.02 1.68.61 26.37z" fill="#dff590" stroke="#749e00" stroke-width=".5" stroke-miterlimit="10"/>
+          </g>
+        </g>
+        <path id="Stiel" d="M82.34 240.88S63 219.67 78.67 211.19c17.18-9.28 17-28.9-3.55-33.37s-25.8-10.66-4.93-28.66 15.59-33.36 1.14-45.29 2.41-35.77 9.86-58.47c0 0 4.86-2.83 7.38 24 0 0-.61-19-4.59-24.61 0 0 10.47 12.76 15.06 22.62 0 0-8.41-17.65-13.45-22.62 0 0 10.77 10.09 24.76 5.35s13.84-2.75 13.84-2.75.68-3.82-18.58 2.83c0 0-9.4 1.37-16.2-4.21 0 0 13.68 4.28 25.53-3.82 0 0-12.31 7.34-25.38 2.75 0 0 11.47 1 16.13-2.75 0 0-11.85 4-17.58.54 0 0 13.38-.61 17.12-5 0 0-6 3.82-17 3.67 0 0 4.28-4.28 5.42-6.88 0 0-3 4.51-7.87 5.88s-5.12-9.24-5.12-9.24-1 5.42-.15 6.8-5.28-7.87-7.57-8.1a15.49 15.49 0 015.58 7.33s-4.89 1.46-10.32-8.17a17.2 17.2 0 007.64 9.09S65.33 33.78 62 28.36c0 0 3.9 7 11.39 9.78 0 0-6.27 1.76-18.88-8.94 0 0 7.72 9.55 17.88 10.78 0 0-9.7-.62-13.6-3.44s-8-9.48-17-9.25c0 0 7.65.69 12.62 6.72s12.23 6 18.19 6.58c0 0-7 4.66-21.4-5.12A27.56 27.56 0 0037 28.74s6.24 1.26 13.5 7.41c0 0 3.67 3.44 14.37 6.35a20.57 20.57 0 007.8.46s-14.22 2.29-25.22-6.12c0 0-8-5.35-12.92-3.51 0 0 4.82-.69 10.62 3.74s14.45 8.87 26 7.26c0 0-3.44 4.89-19.26 1.61S37.74 46 37.74 46s3.75-2.81 15.26 2a31 31 0 0018.34-1.07s-10.54 7.8-21.93 7.19c0 0 7.87 3 22.78-6.12 0 0-4.06 7-10.71 10.24 0 0 7.8-3.59 11.32-8.1 0 0 .76 6.73-6.88 10.7 0 0 6.49 1 12.07-18.65 0 0 1.61 2.52-10.24 29.43s.84 33.48.84 33.48S82.16 116.17 80 127.72c-1.53 8.22-4.36 15-19.11 25.68S53.33 176.33 66 179s15.38 4.13 20.33 10.62-5.53 17.12-11.77 20.1c-7.18 3.44-7.64 12-2.37 21.71 5.81 10.7 4.43 12.46 4.43 12.46s5.53.93 5.72-3.01z" fill="url(#Unbenannter_Verlauf_125)" stroke="#363b7f" stroke-width=".25" stroke-miterlimit="10"/>
+      </g>
+      <g id="lange_Liane" data-name="lange Liane">
+        <path class="cls-13" d="M50.5 92.26s23.62-3.75 34.63 3.94-19.72 7.14-3.44 11.11-7 7.57 1.6 10.55-8.25 3.67-1.1 7-2.85 2.73.19 5.89c5.86 6.09-.17 3.78-.17 3.78M80.88 145s.86 3.29-9.23 3c0 0-19.64-.44-10.75 5.41M62.62 156.39s8.9 7-12.12 4.41c0 0-11.6 0 2.18 5.1M56.91 166.64s13.89-1.72-1.7 7.51 1.12 6.62 5.61 3.08M64.81 174.89s7.44-4.92 4.69 3.22 2.35 4.65 2.35 4.65M78 178.46s4.36-3.29 2.86 3.2 1.88 3.86 1.88 3.86M86.63 183.5s3.45-1.15 1.84 6.7-1.69 7.13-1.69 7.13M83.59 207.88s-8.76 5.54-12.37 11.33-3.76 7.66 4.65 20a6.86 6.86 0 01.77 4.67"/>
+      </g>
+      <g id="vorderer_Pilz" data-name="vorderer Pilz">
+        <g id="Schirmgruppe">
+          <path id="Schirm-3" data-name="Schirm" d="M32.85 61.57s1.54-.28-1.84-1.68c-1.75-.73 2.56-3.37 5.22-4.63s3.54-3.55 10.38 1.61c0 0 30.8 2.4 43 27.05 0 0-49.76-26.36-85.76 21.79-.05 0 4.27-36.8 29-44.14z" fill="url(#Unbenannter_Verlauf_36)"/>
+          <path d="M71.38 70.66s-19.59-5-34.52 1" stroke="url(#Unbenannter_Verlauf_101)" stroke-width=".5" stroke-miterlimit="10" fill="none"/>
+          <path d="M57.26 63.76S42.9 60.53 33 67.84" stroke="url(#Unbenannter_Verlauf_101-2)" stroke-width=".5" stroke-miterlimit="10" fill="none"/>
+          <g id="Schirmskreise">
+            <path class="cls-17" d="M24.86 75.35s-2.45 2.13 0 2.74.64-3.44 0-2.74zM20.37 77s-1.95 1.91 0 2.48.75-2.48 0-2.48zM29.83 65.29s-2.06 1-.69 2.35 2.12-2.12.69-2.35zM47.31 59.05s-.76 2.57.71 1.66.98-2.47-.71-1.66zM54.42 70.17s-1.6.28-.34 2 2.18-2 .34-2zM62.56 65s-1 3.64.46 3 .52-4.94-.46-3zM67.78 67.36s-1.09.46 0 1.43 1.83-1.49 0-1.43zM48.13 71.45a1.08 1.08 0 00-1.88-.86c-.28.37-.27.82.51 1.3s1.24.17 1.37-.44z"/>
+          </g>
+          <path d="M56.39 113.27s3.44 3.52 4.36-1.6.91 2.55 2.9 1.39.46-.16 2.83-.24-1.91-1.69 3.67-1.15-2.07-2.14 3.28-1.22-4.05-2.14 3.37-1.61c0 0 1.45 1.15.3-1.68s3.44.69 4.21-.76-1.76-2.4 1.37-2.47-1.75-2 3.14-1.66-1.07-5.35 2.52-3.14-2.29-5 1.15-3.89-2.37-2.21.76-3.9-2.17-1 .37-4.21 1.68-.3-1.06-3.21-2.63-5.08-5.46-3.17-2.63-6.12-6.35-2.41c-2.1 2.11-1.45-2.9-4.2-.84s-1.11-2.75-3.86-.76-1.8-4.27-5.08-.8-3.22-4.58-6.61-1-1.42-.16-4.86 1.52-2.87-2.67-4.24.12-3.4-1.15-3.78.15-1.42 2.41-4.78 1.22c-5.49-1.93-.11 2.88-4 1.76-1-.29-1.58-.62-2.4 0s-2.18 2.3-3.63 1.76c-2.68-1-1.26 3.63-4.25 2.41s-.94 3.06-2.4 2.44-2.19-2.72-5.2 3.06-2.37 0-4.43 3.82-4.44 1.76-4.28 3.9-2.14 3.44-4.06 4-2.5 6.11-.82 9.93 1.25-5.92 2.81.29c2 8 2.6.71 3.44 2.39s.46 4.43 3.59 2.67.84 4.51 4.59 2.37.84 1.45 3.21 1.22.6-1.77 4.28.62-.15-3.44 5.05 0c0 0 .76.38 1.52-.62s1.34 2.22 2.85.69 1.36.57 2 .52 2.67-4 4.43-1.21 1.15-3.51 2.75-1.07.73-3.15 2.39-1.08-1-2.24 3.12-1.92-.9-3.9 4.26-1.63-3.16-2.14 1.23-1z" fill="url(#Unbenannter_Verlauf_59)" stroke="#363b7f" stroke-width=".25" stroke-miterlimit="10"/>
+          <path d="M39.75 55s2.81.11 4 2-7.22 2.88-7.22 2.88-5.1-2.15 3.22-4.88z" fill="url(#Unbenannter_Verlauf_92-2)"/>
+        </g>
+        <g id="Stiel_vorne" data-name="Stiel vorne">
+          <path class="cls-13 path" d="M28.87 141.86s-3.82-2.37-.38-4.74-7.41-1.91 1.38-5-13.07-4.2-2.75-7.56-4.44-4.74-1.53-12.31 14.83-22.55 18.72-15.9"/>
+          <path class="cls-13 path" d="M47.77 97.18s-6.3-10.61-25.05-2.51c-22.91 9.89-30.73 24-12 23 17.72-.84-17.5 9.1-4 14.39s-6 6.22.84 10.3-6.35 3.48-1.77 6.64 1.07 6.12 1.07 6.12M46.61 98.14C35.22 87 32.85 115.85 32.85 115.85M41.49 111.67s-2.6-23.27 6.11-12.73M83.68 86.68S68.77 82 46.61 92.26M36.23 83.24s4.59-.12 10.38 15.24"/>
+          <path d="M87.73 242.68s-9.48-8.56 1.07-25.53-26.91-26.45-14.52-42.35 14.72-21.17 4.58-32.18S48 130 44.31 96.38a8.42 8.42 0 00-9.55-1.66c-8.24 3.85-18.83 14.3-18.54 14 19.06-21.64 27.43-14.78 27.32-15.09-2.09-5.86-13-6.84-14.25-7.07A29.41 29.41 0 0142.94 90a12.1 12.1 0 00-3.21-8.86s2.9 1.25 4.28 7.79c.79.86 1.85-2.81-.39-7.2 0 0 2.53 3.38 2 6.82 0 0 .69-9.25 2.22-9.71a36 36 0 00-1.45 7.65s3-7.72 8.94-9.48c0 0-6.57 5.12-7.8 9.86 0 0 6.88-8 11.77-9.1 0 0-6.67 3.86-10.38 9.39l-.16.24C45.08 93 55 78.42 68.08 79.19 68.08 79.19 56 81 48.9 90c0 0 13.45-8.18 26.22-5.43 0 0-15.9-.61-25 6.5 0 0 19.42-7 37.07 5.35 0 0-14.6-10-36.69-4.2 0 0 8.57-2.3 23.93 7.72 0 0-12.77-7.8-24.38-6.65 0 0 7.18.3 14.67 11.46 0 0-10.32-10.7-16-10.78a22.5 22.5 0 018.4 14.68s-3.9-12.1-8.33-13.45c0 0 1.91 21.55 13.68 29.73 12.41 8.62 38.07 26.29 23.55 41s-11.61 17 2.9 33.93c10.4 12.16 1.84 22 1.84 22s-5.28 6.57-.77 19.72c.01.03.8.94-2.26 1.1z" fill="url(#Unbenannter_Verlauf_60)" stroke="#363b7f" stroke-width=".25" stroke-miterlimit="10"/>
+        </g>
+      </g>
+      <g id="Bläschen">
+        <ellipse class="cls-10" cx="132.06" cy="46.85" rx="2.45" ry="3.06"/>
+        <ellipse class="cls-10" cx="137.03" cy="40.74" rx="2.07" ry="3.06"/>
+        <ellipse class="cls-10" cx="143.29" cy="49.53" rx="2.83" ry="2.06"/>
+        <circle class="cls-10" cx="146.37" cy="59.16" r="1.74"/>
+        <ellipse class="cls-10" cx="141.58" cy="86.75" rx="4.55" ry="3.52"/>
+        <ellipse class="cls-10" cx="101.51" cy="109.44" rx="4.71" ry="3.73"/>
+        <ellipse class="cls-10" cx="105.61" cy="86.81" rx="3.21" ry="2.12" transform="translate(-15.39 23.18) rotate(-11.68)"/>
+        <circle class="cls-10" cx="123.76" cy="110.55" r="1.11"/>
+        <ellipse class="cls-10" cx="137.75" cy="69.56" rx=".72" ry="1.62"/>
+        <circle class="cls-10" cx="137.28" cy="80.72" r="1.2"/>
+        <circle class="cls-10" cx="97.4" cy="84.69" r="1.91"/>
+        <ellipse class="cls-21" cx="100.05" cy="97.55" rx="2.35" ry="1.97"/>
+        <ellipse class="cls-21" cx="90.73" cy="122.93" rx="1.4" ry="1.81"/>
+        <circle class="cls-21" cx="41.18" cy="128.71" r="1.45"/>
+        <circle class="cls-21" cx="71" cy="152.82" r="1.26"/>
+        <circle class="cls-10" cx="65.08" cy="144.17" r="1.32"/>
+        <circle class="cls-10" cx="92.42" cy="111.12" r="1.68"/>
+        <ellipse class="cls-10" cx="93.12" cy="96.83" rx=".98" ry="2.11"/>
+        <circle class="cls-10" cx="94.65" cy="89.81" r="1.53"/>
+        <ellipse class="cls-10" cx="25.5" cy="51.59" rx="3.62" ry="2.64" transform="translate(-29.01 33.14) rotate(-45)"/>
+        <circle class="cls-21" cx="27.06" cy="43.84" r=".96"/>
+        <ellipse class="cls-21" cx="30.12" cy="56.2" rx=".48" ry="1.22"/>
+        <ellipse class="cls-10" cx="49.42" cy="132.75" rx="4.03" ry="2.31" transform="translate(-90.25 109.17) rotate(-60)"/>
+        <ellipse class="cls-10" cx="58.38" cy="140.1" rx="1.49" ry="2.75"/>
+        <ellipse class="cls-10" cx="66.22" cy="138.44" rx="1.08" ry="1.66"/>
+        <ellipse class="cls-10" cx="37.59" cy="125.08" rx="2.14" ry="1.71"/>
+        <circle class="cls-10" cx="46.5" cy="125.7" r="1.65"/>
+        <circle class="cls-10" cx="65.93" cy="118.01" r="2.17"/>
+        <circle class="cls-10" cx="55.5" cy="148.82" r="1.38"/>
+        <ellipse class="cls-10" cx="74.66" cy="126" rx="1.38" ry="1.95"/>
+        <ellipse class="cls-10" cx="73.25" cy="119.09" rx="1.4" ry="2.03"/>
+        <ellipse class="cls-10" cx="87.33" cy="131.21" rx=".97" ry="1.54"/>
+        <circle class="cls-10" cx="96.7" cy="173.38" r="1.52"/>
+        <circle class="cls-10" cx="50.83" cy="169.49" r="1.41"/>
+        <ellipse class="cls-10" cx="72.43" cy="191.75" rx="2.69" ry="2.01"/>
+        <circle class="cls-10" cx="112.32" cy="192.55" r="2.81"/>
+        <circle class="cls-10" cx="85.96" cy="177.2" r="1.68"/>
+        <circle class="cls-10" cx="96.16" cy="179.26" r="2.06"/>
+        <circle class="cls-21" cx="101.29" cy="187.46" r="1.41"/>
+        <circle class="cls-21" cx="104.84" cy="192.76" r="1.52"/>
+        <circle class="cls-21" cx="68.76" cy="168.97" r="1.47"/>
+        <circle class="cls-21" cx="109.83" cy="102.7" r="1.23"/>
+      </g>
+      <g id="Pilz_ohne_Kappe" data-name="Pilz ohne Kappe">
+        <path class="cls-10 path" d="M120.17 196.55s11.89-1.42.65 2.79 0 2.37 0 2.37 8.72-1.07.54 1.91 1.14 1.68 1.14 1.68 4-.15-1.76 1.53 3.9.69 1.76 2.22M121.43 226.76s15.52-.82.69 1.62 12.16 2.37 2.45 4.67c-17.88 4.22 6.75 3-1.84 4.12s5.43.16-.07 2.45M107.42 213.09s-6.16 3.6.72 2.76 3.82 2.44.61 2.75-2.53 2.37.76 1.83 2.68 2.37-2.52 2.22c0 0-3.67 1 1.91 2.06 0 0 2.49 0-.32 1.18"/>
+        <path id="Stiel-2" data-name="Stiel" d="M114 250.47c20.59-7.18-1.66-12.69-1.66-12.69s-10.07-1.52-6-7.33 26 .46 20.35-11.93-20.88-3.85-20.29-13 9.6-2.9 16.6-11.76-36.65-12.23-18-15.3 18.83-10.08 11.19-12-17.58-4.09-5.66-8.22-4.14-6.72-4.14-6.72h-3.22s14.78 3.05 4.15 6.72c-11.93 4.12-2 6.36 5.65 8.22s7.44 8.88-11.18 12 26.78 8.09 18.06 15.3-18.49 3.37-16.68 12.38c2.86 14.22 12.79 1.74 20.35 12.38 6.79 9.57-9.7 1.91-20.35 11.93-5.18 4.87 6 7.33 6 7.33s22.25 5.51 1.66 12.69z" fill="url(#Unbenannter_Verlauf_60-2)" stroke="#363b7f" stroke-width=".25" stroke-miterlimit="10"/>
+        <path class="cls-10" d="M107.37 165.08s4-4.44 4.43 0 1.07 3.46 3 .32 4.68 2.71 1 3.57 9.27 1.86 5.83 2.89-8.71-2.43-7.56 1.56.87 4.86-1.67 1.48-2.7-1.3-2.61.63 2.06 8.37-1.84 0c0 0-2.87-4-1.61 2.14a7.7 7.7 0 00.57 1.82c.34.71.58 2.17-2.92 2.71-4.67.71.52 5.51 3 .94s-.4 3.51.82 3.51 1.92-3.29 4.36-3.59-1.88 4.28.24 5 4.16-6.06 5.43-1.35"/>
+      </g>
+      <g id="kleine_Pilze" data-name="kleine Pilze">
+        <path d="M26.26 210.16s-10.36 5.78-6.05 8.49a5.67 5.67 0 003.71-.4s1.87 2.75 4.78.4 1 3.15 6-.24-4.63-7-4.78-8-2.2-2.28-3.66-.25z" fill="url(#Unbenannter_Verlauf_36-2)"/>
+        <path d="M39.22 225.23s4.05 4.67 8.06 3.78c0-.01 1.3-7.93-8.06-3.78z" fill="url(#Unbenannter_Verlauf_59-2)" stroke="#363b7f" stroke-width=".25" stroke-miterlimit="10"/>
+        <path d="M45.17 222.25s-8.1-.24-6.06 2.95c0 0 6.75-1.66 8.15 3.93 0 0 2.87-.63.78-5.16-.04.03.83-2.72-2.87-1.72z" fill="url(#Unbenannter_Verlauf_36-3)"/>
+        <path d="M37.29 193.45s5.76-.91 13.22 6.33c0 0 1.68-2.06-1.5-7 0 0 .11-3.73-4.41-2.38 0-.02-5.45-.82-7.31 3.05z" fill="url(#Unbenannter_Verlauf_36-4)"/>
+        <path d="M37.29 193.6S39 191.07 41 193a.81.81 0 00.88.35c1.83-.67.8-.52 2.52.78 1.33 1 1.47-.55 2.45 1.78.59 1.39 1.3-.62 1.89 2.25 0 0 .06.4.61.11s2.29 1.69.14 2.21-1.84-.09-2.81.26-2.35-1.29-3.35-1.44-2.47-2.12-3.07-2.2-1.61-2-2.18-2.07-.79-1.43-.79-1.43z" fill="url(#Unbenannter_Verlauf_59-3)" stroke="#363b7f" stroke-width=".25" stroke-miterlimit="10"/>
+        <path class="cls-1" d="M26 219.53s-3.28 5 1.91 6.57-1.91 7.42 5.28 10.32a8.6 8.6 0 013.81 6.73"/>
+        <path class="cls-1" d="M44.44 196s-9.93 7.41-4.2 16.58-7 8-4.51 17.28-1.76 9.7-.92 13.3"/>
+        <path class="cls-3" d="M44 226.41s.23 1.83-2.59 2.29 1.07 3.29-1.15 6-.67 4.82-.67 4.82a5.4 5.4 0 01-1.17 6"/>
+        <path class="cls-3" d="M41.61 236.27s2.54.17.46 2.52 3.11.35.18 2.9 2.33 1.91-.68 4.51"/>
+        <path class="cls-2" d="M46.58 235.35s-2.51 2.06-2.59 7.8h.76a12.11 12.11 0 011.83-7.8z"/>
+        <path class="cls-1" d="M36.34 218.69s1.38.38-.38 2 4.69 3.44.89 4.9 0 2.29 0 2.29 3.66 1.28-1.69 3.13 7.1 1.15 2.91 4.36-1.07 4.57-1.07 4.57 3.68 1.52-.57 3.21M25 226.41s-2.33 1.53 0 1.68-4.58 3.13-.52 3.25-4.26 4.32 1 4.62-5.51 2.91 1.3 3.75-2.41 1.68.21 4.58"/>
+        <path class="cls-2" d="M22.58 245.52s-1.83-8.72-4.66-11.85c0 0 3.16 1.76 5.25 11.31 0 .02-.05.69-.59.54zM19.14 243.15S18.3 239 17.39 238s.45-1.76 2.44 5.12z"/>
+        <path class="cls-2" d="M22.74 232.45s-1.84 7.18 1 12.38c0 0 .53.61.69 0s-2.53-3.29-1.69-12.38zM17.61 244.6s-1.14-2.91-2.21-3.36c0 0 2.29.22 2.21 3.36z"/>
+        <g id="Bubbles_klein">
+          <ellipse class="cls-2" cx="25.76" cy="196.78" rx="1.06" ry=".79"/>
+          <ellipse class="cls-2" cx="45.04" cy="208.19" rx=".59" ry=".87"/>
+          <ellipse class="cls-2" cx="16.68" cy="223.35" rx=".83" ry=".67"/>
+          <ellipse class="cls-2" cx="27.09" cy="247.61" rx=".83" ry=".67"/>
+          <ellipse class="cls-2" cx="29.79" cy="249.81" rx="1.28" ry=".87" transform="translate(-36.32 7.07) rotate(-8.43)"/>
+          <ellipse class="cls-2" cx="48.82" cy="246.17" rx=".83" ry=".87" transform="translate(-35.58 9.82) rotate(-8.43)"/>
+          <ellipse class="cls-2" cx="54.03" cy="244.14" rx=".83" ry=".87" transform="translate(-35.22 10.57) rotate(-8.43)"/>
+          <ellipse class="cls-2" cx="22.47" cy="249.17" rx="1.28" ry=".87" transform="translate(-36.3 5.99) rotate(-8.43)"/>
+          <ellipse class="cls-2" cx="21.01" cy="246.65" rx=".98" ry=".87" transform="translate(-35.95 5.75) rotate(-8.43)"/>
+          <circle class="cls-2" cx="21.2" cy="223.68" r=".65"/>
+          <ellipse class="cls-2" cx="22.66" cy="221.35" rx=".51" ry=".68"/>
+          <circle class="cls-3" cx="32" cy="223.96" r="1.28"/>
+          <circle class="cls-3" cx="29.1" cy="221.61" r=".93"/>
+          <ellipse class="cls-28" cx="44.56" cy="233.91" rx="1.63" ry="2.05"/>
+          <circle class="cls-28" cx="19.7" cy="220.44" r=".84"/>
+          <circle class="cls-28" cx="42.12" cy="202.78" r=".56"/>
+          <ellipse class="cls-28" cx="33.93" cy="196.67" rx=".4" ry=".68"/>
+          <ellipse class="cls-29" cx="47.75" cy="205.11" rx=".4" ry=".6"/>
+          <circle class="cls-29" cx="14.61" cy="230.99" r=".57"/>
+          <circle class="cls-29" cx="18.04" cy="226.26" r=".42"/>
+          <ellipse class="cls-29" cx="21.52" cy="227.15" rx=".33" ry=".57"/>
+          <ellipse class="cls-29" cx="35.37" cy="194.71" rx=".4" ry=".57"/>
+          <ellipse class="cls-29" cx="32.48" cy="204.57" rx=".48" ry=".29"/>
+          <circle class="cls-29" cx="34.85" cy="205.08" r=".52"/>
+          <circle class="cls-29" cx="32.37" cy="209.75" r=".37"/>
+          <circle class="cls-2" cx="44.49" cy="204.19" r=".37"/>
+          <circle class="cls-2" cx="46.91" cy="202.01" r=".43"/>
+          <circle class="cls-2" cx="50.56" cy="229.94" r=".81"/>
+          <circle class="cls-2" cx="47.78" cy="232.2" r=".87"/>
+          <circle class="cls-3" cx="38.04" cy="198.18" r="1.28"/>
+          <ellipse class="cls-3" cx="34.1" cy="245.98" rx="2.6" ry="1.16"/>
+          <ellipse class="cls-3" cx="46.58" cy="249.62" rx="2.6" ry="1.16"/>
+          <ellipse class="cls-3" cx="39.73" cy="247.92" rx="2.6" ry="1.45" transform="translate(-72.73 23.43) rotate(-17.5)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Offensive Mushroom</title>
+    <link rel="icon" type="image/png" href="images/Fliegenpilz.png" sizes="32x32">
+    <link rel="stylesheet" href="style/mushroom.css">
+</head>
+<body>
+    <div id="page-container">
+        <h1>Consult the Offensive Mushroom!</h1>
+        <nav>
+            <li id="low">Echter Pilz</li>
+            <li id="middle">Harte Beleidigung</li>
+            <li id="hard">Tiefbayerisch</li>
+        </nav>
+        <h2>Welcher Pilz bist du?</h2>
+        <div id="output"></div>
+    </div>
+    <footer>
+        <object data="images/Blaue_Pilze_mitBoden.svg" type="image/svg+xml" height="293">
+            <!-- Für Browser ohne SVG-Unterstützung -->
+            <img src="images/Blaue_Pilze.png" height="193" alt="Blaue Pilze">
+        </object>
+        <object id="mushroom_right" data="images/Gluehpilze.svg" type="image/svg+xml" height="293">
+            <!-- Für Browser ohne SVG-Unterstützung -->
+            <img src="images/Glühpilze.png" height="193" alt="Glühpilze">
+        </object>
+    </footer>
+
+    <script type="module" src="Mushroom.js"></script>
+</body>
+</html>

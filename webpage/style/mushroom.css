@@ -1,0 +1,109 @@
+@font-face {
+    font-family: "Schoolbell";
+    src: url("../style/fonts/Schoolbell/Schoolbell-Regular.ttf");
+}
+@font-face {
+    font-family: "Nothing";
+    src: url("../style/fonts/Waiting_for_the_Sunrise/WaitingfortheSunrise-Regular.ttf");
+}
+
+body {
+    max-width: 960px;
+    margin: 0 auto;
+
+    position: relative;
+    min-height: 100vh;
+
+    font-family: 'Nothing';
+}
+  
+#page-container {
+    padding-top: 10px;
+    padding-bottom: 200px;
+}
+  
+footer {
+  position: absolute;
+  bottom: 0;
+  height: 200px;
+  margin-bottom: 100px;
+  width: 100%;
+}
+footer > object {    
+  padding-left: 50px;
+}
+#mushroom_right {
+    position: absolute;
+    right: 20px;
+    bottom: -77px;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-family: 'Schoolbell';
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav li {
+    display: inline-block;
+    width: 27%;
+    margin: 0 1%;
+    text-align: center;
+    cursor: pointer;
+    height: 40px;
+    line-height: 40px;
+    background-color: #1a7ea4;
+    text-transform: uppercase;
+    color: white;
+
+    box-shadow: 2px 2px 2px #0a4a63;
+}
+nav li:hover {
+    background-color: #0a4a63;
+    transition: background-color .5s;
+}
+
+footer {
+    display: inline-flex;
+}
+
+#output {
+    border-bottom: 1px solid #606060;
+    width: 75%;
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 20px;
+
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Schoolbell';
+}
+
+#mushroom_right {
+    
+}
+
+@media (max-width: 420px){
+    h1,h2 {
+        font-size: 30px !important;
+    }
+    nav li {
+        width: 30%;
+    }
+    #output {
+        font-size: 20px;
+    }
+    footer {
+        margin-bottom: 0;
+    }
+    object {
+        height: 200px;
+    }
+}

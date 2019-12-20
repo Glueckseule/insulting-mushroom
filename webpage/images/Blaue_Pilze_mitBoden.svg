@@ -1,0 +1,1494 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 140.59 266.88" id="blue_shrooms">
+  <defs>
+    <linearGradient id="Laub_15" x1="90.68" y1="238.86" x2="98.2" y2="238.86" gradientTransform="rotate(-13.62 67.04 610.686) scale(1.18 1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3c7f7a"/>
+      <stop offset=".52" stop-color="#006860"/>
+      <stop offset="1" stop-color="#00473c"/>
+    </linearGradient>
+    <linearGradient id="Laub_4" x1="91.86" y1="237.33" x2="98.61" y2="237.33" gradientTransform="rotate(-13.62 67.04 610.686) scale(1.18 1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a7be5f"/>
+      <stop offset=".5" stop-color="#83ab29"/>
+      <stop offset="1" stop-color="#658520"/>
+    </linearGradient>
+    <linearGradient id="Laub_11" x1="94.36" y1="236.26" x2="98.95" y2="236.26" gradientTransform="rotate(-13.62 67.04 610.686) scale(1.18 1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#4e7e56"/>
+      <stop offset=".5" stop-color="#006445"/>
+      <stop offset="1" stop-color="#004931"/>
+    </linearGradient>
+    <linearGradient id="Laub_2" x1="92.07" y1="235.52" x2="96.21" y2="235.52" gradientTransform="rotate(-13.62 67.04 610.686) scale(1.18 1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#56a964"/>
+      <stop offset=".49" stop-color="#009c3d"/>
+      <stop offset="1" stop-color="#00712c"/>
+    </linearGradient>
+    <linearGradient id="Laub_16" x1="96.59" y1="235.37" x2="98.61" y2="235.37" gradientTransform="rotate(-13.62 67.04 610.686) scale(1.18 1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#719f77"/>
+      <stop offset=".5" stop-color="#00743c"/>
+      <stop offset="1" stop-color="#004d27"/>
+    </linearGradient>
+    <linearGradient id="Laub_16-2" x1="51.76" y1="247.78" x2="53.64" y2="247.78" gradientTransform="rotate(166.38 43.677 238.552) scale(1.18 1)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-2" x1="89.31" y1="231.71" x2="96.82" y2="231.71" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-2" x1="90.49" y1="230.19" x2="97.24" y2="230.19" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-2" x1="92.98" y1="229.11" x2="97.58" y2="229.11" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-2" x1="90.69" y1="228.37" x2="94.83" y2="228.37" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-3" x1="95.21" y1="228.22" x2="97.24" y2="228.22" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-4" x1="53.14" y1="254.92" x2="55.01" y2="254.92" gradientTransform="matrix(-1.17 -.01 .1 -1.01 62.49 491.49)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-3" x1="111.85" y1="243.27" x2="119.36" y2="243.27" gradientTransform="matrix(-2.04 -.53 -.42 1.85 396.57 -151.26)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-3" x1="113.03" y1="241.74" x2="119.78" y2="241.74" gradientTransform="matrix(-2.04 -.53 -.42 1.85 396.57 -151.26)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-3" x1="115.52" y1="240.67" x2="120.12" y2="240.67" gradientTransform="matrix(-2.04 -.53 -.42 1.85 396.57 -151.26)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-3" x1="113.23" y1="239.93" x2="117.37" y2="239.93" gradientTransform="matrix(-2.04 -.53 -.42 1.85 396.57 -151.26)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-5" x1="117.75" y1="239.78" x2="119.78" y2="239.78" gradientTransform="matrix(-2.04 -.53 -.42 1.85 396.57 -151.26)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-6" x1="30.6" y1="243.37" x2="32.47" y2="243.37" gradientTransform="matrix(2.04 .53 .42 -1.85 -109.32 662.35)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-4" x1="110.85" y1="229.88" x2="118.36" y2="229.88" gradientTransform="matrix(-2.07 .02 .18 1.93 253.71 -209.39)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-4" x1="112.03" y1="228.35" x2="118.78" y2="228.35" gradientTransform="matrix(-2.07 .02 .18 1.93 253.71 -209.39)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-4" x1="114.52" y1="227.28" x2="119.12" y2="227.28" gradientTransform="matrix(-2.07 .02 .18 1.93 253.71 -209.39)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-4" x1="112.23" y1="226.54" x2="116.37" y2="226.54" gradientTransform="matrix(-2.07 .02 .18 1.93 253.71 -209.39)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-7" x1="116.75" y1="226.39" x2="118.78" y2="226.39" gradientTransform="matrix(-2.07 .02 .18 1.93 253.71 -209.39)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-8" x1="31.6" y1="256.76" x2="33.47" y2="256.76" gradientTransform="matrix(2.07 -.02 -.18 -1.93 32.73 722.1)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-5" x1="160.82" y1="261.39" x2="174.73" y2="261.39" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-5" x1="163.01" y1="258.56" x2="175.49" y2="258.56" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-5" x1="167.62" y1="256.57" x2="176.13" y2="256.57" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-5" x1="163.38" y1="255.2" x2="171.04" y2="255.2" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-9" x1="171.75" y1="254.93" x2="175.49" y2="254.93" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-10" x1="-23.87" y1="229.13" x2="-20.4" y2="229.13" gradientTransform="rotate(166.38 43.677 238.552) scale(1.18 1)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-6" x1="163.09" y1="231.37" x2="177" y2="231.37" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-6" x1="165.28" y1="228.54" x2="177.77" y2="228.54" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-6" x1="169.89" y1="226.55" x2="178.4" y2="226.55" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-6" x1="165.65" y1="225.18" x2="173.32" y2="225.18" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-11" x1="174.02" y1="224.91" x2="177.77" y2="224.91" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-12" x1="-26.14" y1="259.15" x2="-22.68" y2="259.15" gradientTransform="matrix(-1.17 -.01 .1 -1.01 62.49 491.49)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-7" x1="142.01" y1="271.58" x2="158.36" y2="271.58" gradientTransform="matrix(1.16 .23 -.19 .98 -27.31 -46.61)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-7" x1="144.65" y1="268.33" x2="159.25" y2="268.33" gradientTransform="matrix(1.16 .23 -.19 .98 -27.31 -46.61)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-7" x1="150.12" y1="266.09" x2="159.99" y2="266.09" gradientTransform="matrix(1.16 .23 -.19 .98 -27.31 -46.61)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-7" x1="145.11" y1="264.62" x2="154.07" y2="264.62" gradientTransform="matrix(1.16 .23 -.19 .98 -27.31 -46.61)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-13" x1="154.97" y1="264.23" x2="159.26" y2="264.23" gradientTransform="matrix(1.16 .23 -.19 .98 -27.31 -46.61)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-14" x1="-7.21" y1="220.01" x2="-3.21" y2="220.01" gradientTransform="matrix(-1.16 -.23 .19 -.98 51.69 460.35)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-8" x1="148.13" y1="245.97" x2="164.33" y2="245.97" gradientTransform="matrix(1.05 .5 -.52 .87 58.35 -40.68)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-8" x1="150.85" y1="242.58" x2="165.2" y2="242.58" gradientTransform="matrix(1.05 .5 -.52 .87 58.35 -40.68)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-8" x1="156.33" y1="240.29" x2="165.93" y2="240.29" gradientTransform="matrix(1.05 .5 -.52 .87 58.35 -40.68)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-8" x1="151.33" y1="238.87" x2="160.15" y2="238.87" gradientTransform="matrix(1.05 .5 -.52 .87 58.35 -40.68)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-15" x1="161.13" y1="238.39" x2="165.24" y2="238.39" gradientTransform="matrix(1.05 .5 -.52 .87 58.35 -40.68)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-16" x1="-13.28" y1="245.83" x2="-9.42" y2="245.83" gradientTransform="matrix(-1.05 -.5 .52 -.87 -33.91 455.38)" xlink:href="#Laub_16"/>
+    <linearGradient id="Unbenannter_Verlauf_62" x1="55.2" y1="211.05" x2="95.53" y2="230.77" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebe3e0"/>
+      <stop offset=".05" stop-color="#cec8c3"/>
+      <stop offset=".12" stop-color="#aeaba4"/>
+      <stop offset=".18" stop-color="#b19e97"/>
+      <stop offset=".49" stop-color="#62584e"/>
+      <stop offset=".5" stop-color="#60564c"/>
+      <stop offset=".5" stop-color="#574e44"/>
+      <stop offset=".51" stop-color="#494037"/>
+      <stop offset=".52" stop-color="#352d25"/>
+      <stop offset=".52" stop-color="#1c140e"/>
+      <stop offset=".52" stop-color="#150e08"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_61" x1="-7.37" y1="177.01" x2="53.6" y2="207.18" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ebe3e0"/>
+      <stop offset=".1" stop-color="#cec8c3"/>
+      <stop offset=".23" stop-color="#aeaba4"/>
+      <stop offset=".47" stop-color="#b19e97"/>
+      <stop offset=".78" stop-color="#62584e"/>
+      <stop offset=".85" stop-color="#60564c"/>
+      <stop offset=".9" stop-color="#574e44"/>
+      <stop offset=".93" stop-color="#494037"/>
+      <stop offset=".97" stop-color="#352d25"/>
+      <stop offset=".99" stop-color="#1c140e"/>
+      <stop offset="1" stop-color="#150e08"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_12" x1="4.17" y1="147.98" x2="13.81" y2="147.98" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a4d8ed"/>
+      <stop offset="1" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_19" x1="11.38" y1="141.75" x2="17.77" y2="125.44" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a4d8ed"/>
+      <stop offset=".12" stop-color="#a0d5eb"/>
+      <stop offset=".24" stop-color="#93cde4"/>
+      <stop offset=".37" stop-color="#7ebfd9"/>
+      <stop offset=".5" stop-color="#60acc9"/>
+      <stop offset=".53" stop-color="#5aa8c6"/>
+      <stop offset=".62" stop-color="#56a5c4"/>
+      <stop offset=".72" stop-color="#499dbd"/>
+      <stop offset=".82" stop-color="#338fb2"/>
+      <stop offset=".93" stop-color="#167ca2"/>
+      <stop offset=".96" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_19-2" x1="16.61" y1="127.41" x2="29.58" y2="94.3" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1" x1="29.7" y1="109.56" x2="39.26" y2="85.17" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-2" x1="37.21" y1="96.56" x2="50.45" y2="79.95" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-3" x1="38.83" y1="83.03" x2="45.02" y2="86.48" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-4" x1="46.32" y1="79.67" x2="53.21" y2="83.51" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-5" x1="53.42" y1="79.54" x2="57.55" y2="81.84" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-6" x1="11.05" y1="154.94" x2="17.07" y2="158.29" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-7" x1="15.46" y1="154.82" x2="25.78" y2="160.57" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Unbenannter_Verlauf_21" x1="14.71" y1="135.7" x2="23.65" y2="144.19" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".53" stop-color="#5aa8c6"/>
+      <stop offset=".63" stop-color="#5eabc8"/>
+      <stop offset=".75" stop-color="#6bb3cf"/>
+      <stop offset=".86" stop-color="#81c1da"/>
+      <stop offset=".98" stop-color="#9ed4ea"/>
+      <stop offset="1" stop-color="#a4d8ed"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_21-2" x1="28.85" y1="133.82" x2="36.23" y2="140.83" xlink:href="#Unbenannter_Verlauf_21"/>
+    <linearGradient id="Unbenannter_Verlauf_21-3" x1="20.88" y1="141.04" x2="39.94" y2="159.15" xlink:href="#Unbenannter_Verlauf_21"/>
+    <linearGradient id="Unbenannter_Verlauf_19-3" x1="32.61" y1="149.11" x2="55.83" y2="137.8" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Unbenannter_Verlauf_33" x1="33.53" y1="163.26" x2="73.08" y2="149.57" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".07" stop-color="#a0d5eb"/>
+      <stop offset=".13" stop-color="#93cde4"/>
+      <stop offset=".19" stop-color="#7ebfd9"/>
+      <stop offset=".26" stop-color="#60acc9"/>
+      <stop offset=".27" stop-color="#5aa8c6"/>
+      <stop offset=".37" stop-color="#56a5c4"/>
+      <stop offset=".47" stop-color="#499dbd"/>
+      <stop offset=".58" stop-color="#338fb2"/>
+      <stop offset=".69" stop-color="#167ca2"/>
+      <stop offset=".72" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_33-2" x1="39.56" y1="172.4" x2="79.86" y2="158.45" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-3" x1="49.73" y1="145.68" x2="96.64" y2="129.44" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_34" x1="84.62" y1="109.64" x2="100.56" y2="117.24" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".04" stop-color="#a0d5eb"/>
+      <stop offset=".07" stop-color="#93cde4"/>
+      <stop offset=".1" stop-color="#7ebfd9"/>
+      <stop offset=".14" stop-color="#60acc9"/>
+      <stop offset=".14" stop-color="#5aa8c6"/>
+      <stop offset=".25" stop-color="#56a5c4"/>
+      <stop offset=".36" stop-color="#499dbd"/>
+      <stop offset=".48" stop-color="#338fb2"/>
+      <stop offset=".6" stop-color="#167ca2"/>
+      <stop offset=".64" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_34-2" x1="63.26" y1="111.41" x2="94.91" y2="126.52" xlink:href="#Unbenannter_Verlauf_34"/>
+    <linearGradient id="Unbenannter_Verlauf_34-3" x1="69.18" y1="108.6" x2="83.15" y2="115.26" xlink:href="#Unbenannter_Verlauf_34"/>
+    <linearGradient id="Unbenannter_Verlauf_34-4" x1="72.13" y1="97.89" x2="90" y2="106.42" xlink:href="#Unbenannter_Verlauf_34"/>
+    <linearGradient id="Unbenannter_Verlauf_34-5" x1="80.29" y1="90.51" x2="104.75" y2="102.18" xlink:href="#Unbenannter_Verlauf_34"/>
+    <linearGradient id="Unbenannter_Verlauf_34-6" x1="84.02" y1="66.67" x2="119.97" y2="83.83" xlink:href="#Unbenannter_Verlauf_34"/>
+    <linearGradient id="Unbenannter_Verlauf_34-7" x1="118.88" y1="77.35" x2="106.66" y2="70.94" xlink:href="#Unbenannter_Verlauf_34"/>
+    <linearGradient id="Unbenannter_Verlauf_35" x1="48.88" y1="135.98" x2="66.7" y2="125.05" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".08" stop-color="#99d1e7"/>
+      <stop offset=".37" stop-color="#6cb3cf"/>
+      <stop offset=".51" stop-color="#5aa8c6"/>
+      <stop offset=".92" stop-color="#187da3"/>
+      <stop offset="1" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_35-2" x1="39.42" y1="122.28" x2="50.66" y2="115.38" xlink:href="#Unbenannter_Verlauf_35"/>
+    <linearGradient id="Unbenannter_Verlauf_35-3" x1="33.31" y1="118.67" x2="14.46" y2="123.62" xlink:href="#Unbenannter_Verlauf_35"/>
+    <linearGradient id="Unbenannter_Verlauf_35-4" x1="73.19" y1="87.04" x2="74.26" y2="99.11" xlink:href="#Unbenannter_Verlauf_35"/>
+    <linearGradient id="Unbenannter_Verlauf_35-5" x1="91.68" y1="107.01" x2="60.62" y2="87.76" xlink:href="#Unbenannter_Verlauf_35"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-8" x1="72.21" y1="134.74" x2="59.6" y2="64.14" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-9" x1="64.67" y1="74.17" x2="61.71" y2="57.62" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-10" x1="99.74" y1="61.45" x2="97.28" y2="47.65" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-11" x1="122" y1="53.54" x2="119.96" y2="42.16" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-12" x1="114.38" y1="62.38" x2="109.6" y2="35.6" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-13" x1="124.5" y1="39.37" x2="122.54" y2="28.39" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-14" x1="118.17" y1="33.82" x2="116.14" y2="22.43" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-15" x1="105.15" y1="34.9" x2="103.57" y2="26.08" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-16" x1="104.05" y1="45.29" x2="101.5" y2="30.98" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Neues_Verlaufsfeld_1-17" x1="87.82" y1="54.59" x2="84.59" y2="36.52" xlink:href="#Unbenannter_Verlauf_19"/>
+    <linearGradient id="Unbenannter_Verlauf_33-4" x1="89.12" y1="200.32" x2="96.22" y2="200.32" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-5" x1="86.92" y1="193.4" x2="108.95" y2="193.4" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-6" x1="61.43" y1="197.15" x2="102.51" y2="197.15" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_63" x1="83.87" y1="189.56" x2="71.12" y2="186.06" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".06" stop-color="#a0d5eb"/>
+      <stop offset=".1" stop-color="#93cde4"/>
+      <stop offset=".15" stop-color="#7ebfd9"/>
+      <stop offset=".2" stop-color="#60acc9"/>
+      <stop offset=".21" stop-color="#5aa8c6"/>
+      <stop offset=".54" stop-color="#2e8baf"/>
+      <stop offset=".85" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_33-7" x1="51.17" y1="189.5" x2="68.08" y2="189.5" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-8" x1="45.48" y1="180.9" x2="74.44" y2="180.9" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-9" x1="93.17" y1="186.83" x2="50.62" y2="177.96" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_64" x1="84.14" y1="191.72" x2="79.22" y2="150.07" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".06" stop-color="#a0d5eb"/>
+      <stop offset=".11" stop-color="#93cde4"/>
+      <stop offset=".16" stop-color="#7ebfd9"/>
+      <stop offset=".22" stop-color="#60acc9"/>
+      <stop offset=".22" stop-color="#5aa8c6"/>
+      <stop offset=".33" stop-color="#56a5c4"/>
+      <stop offset=".45" stop-color="#499dbd"/>
+      <stop offset=".56" stop-color="#338fb2"/>
+      <stop offset=".68" stop-color="#167ca2"/>
+      <stop offset=".72" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_33-10" x1="98.3" y1="182.09" x2="97.03" y2="160.23" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-11" x1="96.61" y1="184.63" x2="116.27" y2="184.63" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-12" x1="93.87" y1="165.72" x2="109.16" y2="176.25" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-13" x1="124.07" y1="184.39" x2="91.55" y2="177.13" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-14" x1="98.84" y1="177.57" x2="87.47" y2="148.77" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_65" x1="132.79" y1="154.78" x2="88.1" y2="148.28" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".11" stop-color="#a0d5eb"/>
+      <stop offset=".22" stop-color="#93cde4"/>
+      <stop offset=".33" stop-color="#7ebfd9"/>
+      <stop offset=".44" stop-color="#60acc9"/>
+      <stop offset=".46" stop-color="#5aa8c6"/>
+      <stop offset=".49" stop-color="#4da0bf"/>
+      <stop offset=".55" stop-color="#308db0"/>
+      <stop offset=".61" stop-color="#1b7fa5"/>
+      <stop offset=".67" stop-color="#0e779e"/>
+      <stop offset=".72" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_66" x1="122.17" y1="135.24" x2="98.8" y2="133.11" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".11" stop-color="#a0d5eb"/>
+      <stop offset=".22" stop-color="#93cde4"/>
+      <stop offset=".33" stop-color="#7ebfd9"/>
+      <stop offset=".45" stop-color="#60acc9"/>
+      <stop offset=".47" stop-color="#5aa8c6"/>
+      <stop offset=".53" stop-color="#3c94b6"/>
+      <stop offset=".61" stop-color="#2083a8"/>
+      <stop offset=".67" stop-color="#10789f"/>
+      <stop offset=".72" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_67" x1="84.67" y1="158.11" x2="105.25" y2="126.67" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".06" stop-color="#a4d8ed"/>
+      <stop offset=".12" stop-color="#a0d5eb"/>
+      <stop offset=".19" stop-color="#93cde4"/>
+      <stop offset=".26" stop-color="#7ebfd9"/>
+      <stop offset=".32" stop-color="#60acc9"/>
+      <stop offset=".34" stop-color="#5aa8c6"/>
+      <stop offset=".4" stop-color="#489cbd"/>
+      <stop offset=".54" stop-color="#2686ab"/>
+      <stop offset=".65" stop-color="#1279a0"/>
+      <stop offset=".72" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_68" x1="107.27" y1="153.21" x2="72.2" y2="146.26" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".12" stop-color="#a0d5eb"/>
+      <stop offset=".23" stop-color="#93cde4"/>
+      <stop offset=".34" stop-color="#7ebfd9"/>
+      <stop offset=".45" stop-color="#60acc9"/>
+      <stop offset=".47" stop-color="#5aa8c6"/>
+      <stop offset=".53" stop-color="#56a5c4"/>
+      <stop offset=".58" stop-color="#499dbd"/>
+      <stop offset=".64" stop-color="#338fb2"/>
+      <stop offset=".7" stop-color="#167ca2"/>
+      <stop offset=".72" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_69" x1="101.94" y1="135.42" x2="83.13" y2="129.61" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".1" stop-color="#a0d5eb"/>
+      <stop offset=".2" stop-color="#93cde4"/>
+      <stop offset=".3" stop-color="#7ebfd9"/>
+      <stop offset=".4" stop-color="#60acc9"/>
+      <stop offset=".42" stop-color="#5aa8c6"/>
+      <stop offset=".44" stop-color="#50a2c1"/>
+      <stop offset=".57" stop-color="#2a89ad"/>
+      <stop offset=".66" stop-color="#137aa1"/>
+      <stop offset=".72" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_33-15" x1="109.06" y1="123.35" x2="88.07" y2="115.12" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-16" x1="114.43" y1="153.12" x2="118.01" y2="153.12" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-17" x1="127.2" y1="137.31" x2="110.79" y2="135.91" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-18" x1="109.99" y1="137.51" x2="107.71" y2="111.63" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_33-19" x1="128.15" y1="125.58" x2="115.41" y2="108.96" xlink:href="#Unbenannter_Verlauf_33"/>
+    <linearGradient id="Unbenannter_Verlauf_70" x1="112.81" y1="111.34" x2="113.57" y2="95.57" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#a4d8ed"/>
+      <stop offset=".1" stop-color="#a0d5eb"/>
+      <stop offset=".19" stop-color="#93cde4"/>
+      <stop offset=".28" stop-color="#7ebfd9"/>
+      <stop offset=".38" stop-color="#60acc9"/>
+      <stop offset=".4" stop-color="#5aa8c6"/>
+      <stop offset=".47" stop-color="#56a5c4"/>
+      <stop offset=".54" stop-color="#499dbd"/>
+      <stop offset=".62" stop-color="#338fb2"/>
+      <stop offset=".7" stop-color="#167ca2"/>
+      <stop offset=".72" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_73" x1="116.5" y1="113.85" x2="99.72" y2="97.73" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".39" stop-color="#a4d8ed"/>
+      <stop offset=".45" stop-color="#a0d5eb"/>
+      <stop offset=".52" stop-color="#93cde4"/>
+      <stop offset=".58" stop-color="#7ebfd9"/>
+      <stop offset=".65" stop-color="#60acc9"/>
+      <stop offset=".66" stop-color="#5aa8c6"/>
+      <stop offset=".72" stop-color="#56a5c4"/>
+      <stop offset=".78" stop-color="#499dbd"/>
+      <stop offset=".85" stop-color="#338fb2"/>
+      <stop offset=".92" stop-color="#167ca2"/>
+      <stop offset=".94" stop-color="#0a749c"/>
+    </linearGradient>
+    <linearGradient id="Laub_14" x1="32.43" y1="233.35" x2="37.13" y2="233.35" gradientTransform="matrix(.93 .42 -.59 1.31 138.37 -88.12)" gradientUnits="userSpaceOnUse">
+      <stop offset=".01" stop-color="#009d84"/>
+      <stop offset=".5" stop-color="#008b6a"/>
+      <stop offset="1" stop-color="#065"/>
+    </linearGradient>
+    <linearGradient id="Laub_18" x1="32.09" y1="233.41" x2="37.4" y2="233.41" gradientTransform="matrix(.93 .42 -.59 1.31 138.37 -88.12)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9dad9c"/>
+      <stop offset=".51" stop-color="#829b86"/>
+      <stop offset="1" stop-color="#517a61"/>
+    </linearGradient>
+    <linearGradient id="Laub_16-17" x1="33.56" y1="232.49" x2="38.09" y2="232.49" gradientTransform="matrix(.93 .42 -.59 1.31 138.37 -88.12)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-18" x1="35.95" y1="233.52" x2="38.09" y2="233.52" gradientTransform="matrix(.93 .42 -.59 1.31 138.37 -88.12)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-19" x1="35.29" y1="233.85" x2="38.47" y2="233.85" gradientTransform="matrix(.93 .42 -.59 1.31 138.37 -88.12)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_14-2" x1="31.11" y1="236.11" x2="35.81" y2="236.11" gradientTransform="matrix(-1.18 .23 .28 1.4 10.13 -107.97)" xlink:href="#Laub_14"/>
+    <linearGradient id="Laub_18-2" x1="30.77" y1="236.17" x2="36.08" y2="236.17" gradientTransform="matrix(-1.18 .23 .28 1.4 10.13 -107.97)" xlink:href="#Laub_18"/>
+    <linearGradient id="Laub_16-20" x1="32.24" y1="235.25" x2="36.77" y2="235.25" gradientTransform="matrix(-1.18 .23 .28 1.4 10.13 -107.97)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-21" x1="34.63" y1="236.29" x2="36.77" y2="236.29" gradientTransform="matrix(-1.18 .23 .28 1.4 10.13 -107.97)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-22" x1="33.97" y1="236.62" x2="37.15" y2="236.62" gradientTransform="matrix(-1.18 .23 .28 1.4 10.13 -107.97)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-9" x1="84.06" y1="237.64" x2="103.92" y2="237.64" gradientTransform="matrix(-.83 -.28 -.17 .97 166.32 32.96)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-9" x1="86.94" y1="234.41" x2="105.04" y2="234.41" gradientTransform="matrix(-.83 -.28 -.17 .97 166.32 32.96)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-9" x1="93.38" y1="231.99" x2="105.96" y2="231.99" gradientTransform="matrix(-.83 -.28 -.17 .97 166.32 32.96)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-9" x1="87.4" y1="230.03" x2="98.49" y2="230.03" gradientTransform="matrix(-.83 -.28 -.17 .97 166.32 32.96)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-23" x1="99.26" y1="230" x2="104.99" y2="230" gradientTransform="matrix(-.83 -.28 -.17 .97 166.32 32.96)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-24" x1="47.95" y1="254.72" x2="53.17" y2="254.72" gradientTransform="matrix(.83 .28 .17 -.97 -39.34 460.11)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-10" x1="82.85" y1="229.46" x2="102.93" y2="229.46" gradientTransform="matrix(-.84 .01 .07 1.01 108.24 2.44)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-10" x1="86.12" y1="225.89" x2="104.02" y2="225.89" gradientTransform="matrix(-.84 .01 .07 1.01 108.24 2.44)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-10" x1="92.85" y1="223.39" x2="104.92" y2="223.39" gradientTransform="matrix(-.84 .01 .07 1.01 108.24 2.44)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-10" x1="86.69" y1="221.68" x2="97.68" y2="221.68" gradientTransform="matrix(-.84 .01 .07 1.01 108.24 2.44)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-25" x1="98.8" y1="221.33" x2="104.04" y2="221.33" gradientTransform="matrix(-.84 .01 .07 1.01 108.24 2.44)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-26" x1="48.72" y1="263.23" x2="53.6" y2="263.23" gradientTransform="matrix(.84 -.01 -.07 -1.01 18.41 491.49)" xlink:href="#Laub_16"/>
+    <linearGradient id="Unbenannter_Verlauf_113" x1="1.39" y1="214.8" x2="-9.93" y2="211.25" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c4000"/>
+      <stop offset=".09" stop-color="#ae6405"/>
+      <stop offset=".18" stop-color="#ca8109"/>
+      <stop offset=".23" stop-color="#d58c0b"/>
+      <stop offset=".25" stop-color="#d5910b"/>
+      <stop offset=".39" stop-color="#d6ac09"/>
+      <stop offset=".51" stop-color="#d7bc07"/>
+      <stop offset=".6" stop-color="#d7c207"/>
+      <stop offset=".82" stop-color="#bfbd59"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_164" x1="96.17" y1="257.39" x2="80.17" y2="251.54" gradientTransform="matrix(.74 -.53 .52 .71 -70.1 100.15)" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#583500"/>
+      <stop offset=".49" stop-color="#803d00"/>
+      <stop offset=".57" stop-color="#864200"/>
+      <stop offset=".68" stop-color="#975100"/>
+      <stop offset=".8" stop-color="#b26a00"/>
+      <stop offset=".82" stop-color="#ba7100"/>
+      <stop offset=".91" stop-color="#c77e05"/>
+      <stop offset=".98" stop-color="#d58c0b"/>
+      <stop offset="1" stop-color="#bfbd59"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_254" x1="87.43" y1="244.86" x2="94.83" y2="239.45" gradientTransform="matrix(.74 -.53 .52 .71 -70.1 100.15)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c4000"/>
+      <stop offset=".01" stop-color="#964b01"/>
+      <stop offset=".05" stop-color="#b16803"/>
+      <stop offset=".07" stop-color="#bb7304"/>
+      <stop offset=".3" stop-color="#c88008"/>
+      <stop offset=".47" stop-color="#d58c0b"/>
+      <stop offset=".66" stop-color="#e9ad1b"/>
+      <stop offset=".74" stop-color="#e0b711"/>
+      <stop offset=".81" stop-color="#d7c207"/>
+      <stop offset=".98" stop-color="#bfbd59"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_264" x1="85.87" y1="239.09" x2="56.43" y2="229.88" gradientTransform="matrix(.94 .34 -.44 1.24 139.96 -96.49)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8c4000"/>
+      <stop offset=".09" stop-color="#ae6405"/>
+      <stop offset=".18" stop-color="#ca8109"/>
+      <stop offset=".23" stop-color="#d58c0b"/>
+      <stop offset=".25" stop-color="#d99614"/>
+      <stop offset=".36" stop-color="#eabb37"/>
+      <stop offset=".45" stop-color="#f5d650"/>
+      <stop offset=".54" stop-color="#fce65f"/>
+      <stop offset=".6" stop-color="#ffec64"/>
+      <stop offset=".82" stop-color="#bfbd59"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_261" x1="85.18" y1="232.18" x2="99.13" y2="222.03" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset=".05" stop-color="#8c4000"/>
+      <stop offset=".06" stop-color="#944900"/>
+      <stop offset=".12" stop-color="#b06600"/>
+      <stop offset=".15" stop-color="#ba7100"/>
+      <stop offset=".3" stop-color="#d58c0b"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_139" x1="9.57" y1="237.71" x2="-6.99" y2="231.66" gradientTransform="rotate(-23 57.95 145.118)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#803d00"/>
+      <stop offset=".04" stop-color="#864200"/>
+      <stop offset=".1" stop-color="#975100"/>
+      <stop offset=".17" stop-color="#b26a00"/>
+      <stop offset=".18" stop-color="#ba7100"/>
+      <stop offset=".24" stop-color="#c77e05"/>
+      <stop offset=".28" stop-color="#d58c0b"/>
+      <stop offset=".43" stop-color="#bfbd59"/>
+    </linearGradient>
+    <linearGradient id="Unbenannter_Verlauf_139-2" x1="29.72" y1="227.57" x2="14.05" y2="221.84" gradientTransform="rotate(-31.8 56.789 172.28)" xlink:href="#Unbenannter_Verlauf_139"/>
+    <linearGradient id="Unbenannter_Verlauf_139-3" x1="40.96" y1="229.11" x2="30.73" y2="225.37" gradientTransform="rotate(-31.8 56.789 172.28)" xlink:href="#Unbenannter_Verlauf_139"/>
+    <linearGradient id="Unbenannter_Verlauf_139-4" x1="33.56" y1="231.92" x2="24.57" y2="228.63" gradientTransform="rotate(-14 66.682 97.544)" xlink:href="#Unbenannter_Verlauf_139"/>
+    <linearGradient id="Unbenannter_Verlauf_139-5" x1="46.31" y1="232.83" x2="35.38" y2="228.83" gradientTransform="rotate(-14 66.682 97.544)" xlink:href="#Unbenannter_Verlauf_139"/>
+    <linearGradient id="Unbenannter_Verlauf_164-2" x1="46.02" y1="211.78" x2="30.02" y2="205.93" gradientTransform="rotate(-23 57.95 145.118)" xlink:href="#Unbenannter_Verlauf_164"/>
+    <linearGradient id="Unbenannter_Verlauf_254-2" x1="35.65" y1="203.69" x2="43.05" y2="198.29" gradientTransform="rotate(-23 57.95 145.118)" xlink:href="#Unbenannter_Verlauf_254"/>
+    <linearGradient id="Unbenannter_Verlauf_139-6" x1="56.66" y1="254.65" x2="49.26" y2="251.95" gradientTransform="rotate(-41.9 73.745 200.912)" xlink:href="#Unbenannter_Verlauf_139"/>
+    <linearGradient id="Unbenannter_Verlauf_139-7" x1="63.86" y1="263.6" x2="56.46" y2="260.89" gradientTransform="rotate(-19.89 60.843 134.619)" xlink:href="#Unbenannter_Verlauf_139"/>
+    <linearGradient id="Laub_16-27" x1="21.18" y1="230.87" x2="24.42" y2="230.87" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-11" x1="23.25" y1="229.79" x2="24.42" y2="229.79" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-11" x1="24.07" y1="229" x2="26.63" y2="229" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-28" x1="22.63" y1="230.78" x2="25.87" y2="230.78" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-12" x1="24.7" y1="229.7" x2="25.87" y2="229.7" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-12" x1="25.52" y1="228.91" x2="28.08" y2="228.91" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-29" x1="19.9" y1="231.04" x2="23.14" y2="231.04" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-13" x1="21.97" y1="229.96" x2="23.14" y2="229.96" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-13" x1="22.79" y1="229.16" x2="25.35" y2="229.16" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-30" x1="19.64" y1="229.01" x2="22.89" y2="229.01" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-14" x1="21.71" y1="227.75" x2="22.89" y2="227.75" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-14" x1="22.54" y1="226.81" x2="25.1" y2="226.81" gradientTransform="rotate(-37.8 52.287 182.054)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-31" x1="20.46" y1="230.05" x2="22.95" y2="230.05" gradientTransform="matrix(.91 -.4 .4 .91 -52.98 36.2)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-15" x1="22.34" y1="228.69" x2="23.09" y2="228.69" gradientTransform="matrix(.91 -.4 .4 .91 -52.98 36.2)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-15" x1="22.66" y1="227.65" x2="25.86" y2="227.65" gradientTransform="matrix(.91 -.4 .4 .91 -52.98 36.2)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-32" x1="28.72" y1="245.17" x2="31.96" y2="245.17" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-16" x1="30.79" y1="244.1" x2="31.96" y2="244.1" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-16" x1="31.61" y1="243.3" x2="34.17" y2="243.3" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-33" x1="30.16" y1="245.08" x2="33.41" y2="245.08" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-17" x1="32.23" y1="244.01" x2="33.41" y2="244.01" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-17" x1="33.06" y1="243.21" x2="35.62" y2="243.21" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-34" x1="27.44" y1="245.34" x2="30.68" y2="245.34" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-18" x1="29.51" y1="244.26" x2="30.68" y2="244.26" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-18" x1="30.33" y1="243.47" x2="32.89" y2="243.47" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-35" x1="27.18" y1="243.31" x2="30.43" y2="243.31" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-19" x1="29.25" y1="242.05" x2="30.43" y2="242.05" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-19" x1="30.08" y1="241.11" x2="32.64" y2="241.11" gradientTransform="rotate(-13.52 55.333 68.71)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-36" x1="31.22" y1="242.12" x2="33.72" y2="242.12" gradientTransform="rotate(.42 -441.012 5852.66)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-20" x1="33.1" y1="240.75" x2="33.85" y2="240.75" gradientTransform="rotate(.42 -441.012 5852.66)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-20" x1="33.42" y1="239.72" x2="36.62" y2="239.72" gradientTransform="rotate(.42 -441.012 5852.66)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-37" x1="36.78" y1="238.54" x2="38.08" y2="238.54" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-21" x1="37.66" y1="238.08" x2="38.08" y2="238.08" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-21" x1="37.94" y1="237.73" x2="39.06" y2="237.73" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-38" x1="37.39" y1="238.49" x2="38.68" y2="238.49" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-22" x1="38.26" y1="238.03" x2="38.69" y2="238.03" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-22" x1="38.54" y1="237.68" x2="39.67" y2="237.68" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-39" x1="36.25" y1="238.63" x2="37.54" y2="238.63" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-23" x1="37.12" y1="238.16" x2="37.55" y2="238.16" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-23" x1="37.4" y1="237.81" x2="38.53" y2="237.81" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-40" x1="36.16" y1="237.77" x2="37.45" y2="237.77" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-24" x1="37.04" y1="237.23" x2="37.46" y2="237.23" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-24" x1="37.31" y1="236.82" x2="38.45" y2="236.82" gradientTransform="rotate(-5.02 32.594 -185.65)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-41" x1="36.51" y1="234.19" x2="37.49" y2="234.19" gradientTransform="rotate(8.92 41.912 479.462)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-25" x1="37.26" y1="233.6" x2="37.56" y2="233.6" gradientTransform="rotate(8.92 41.912 479.462)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-25" x1="37.37" y1="233.15" x2="38.75" y2="233.15" gradientTransform="rotate(8.92 41.912 479.462)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-42" x1="27.29" y1="233.46" x2="29.54" y2="233.46" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-26" x1="28.69" y1="232.79" x2="29.54" y2="232.79" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-26" x1="29.28" y1="232.3" x2="31" y2="232.3" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-43" x1="28.28" y1="233.41" x2="30.53" y2="233.41" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-27" x1="29.68" y1="232.75" x2="30.52" y2="232.75" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-27" x1="30.26" y1="232.26" x2="31.99" y2="232.26" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-44" x1="26.43" y1="233.55" x2="28.67" y2="233.55" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-28" x1="27.82" y1="232.89" x2="28.67" y2="232.89" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-28" x1="28.41" y1="232.4" x2="30.14" y2="232.4" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-45" x1="26.24" y1="232.29" x2="28.49" y2="232.29" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-29" x1="27.63" y1="231.51" x2="28.48" y2="231.51" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-29" x1="28.22" y1="230.93" x2="29.95" y2="230.93" gradientTransform="rotate(-6.08 91.195 -88.72)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-46" x1="26.55" y1="231.35" x2="28.19" y2="231.35" gradientTransform="rotate(7.86 -3.9 499.928)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-30" x1="27.8" y1="230.49" x2="28.31" y2="230.49" gradientTransform="rotate(7.86 -3.9 499.928)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-30" x1="28" y1="229.84" x2="30.24" y2="229.84" gradientTransform="rotate(7.86 -3.9 499.928)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-47" x1="47.96" y1="242.41" x2="50.56" y2="242.41" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-31" x1="49.93" y1="240.86" x2="50.73" y2="240.86" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-31" x1="50.25" y1="239.66" x2="53.77" y2="239.66" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-48" x1="49.5" y1="242.1" x2="52.1" y2="242.1" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-32" x1="51.47" y1="240.55" x2="52.27" y2="240.55" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-32" x1="51.79" y1="239.35" x2="55.31" y2="239.35" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-49" x1="46.59" y1="242.8" x2="49.18" y2="242.8" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-33" x1="48.56" y1="241.24" x2="49.36" y2="241.24" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-33" x1="48.88" y1="240.05" x2="52.4" y2="240.05" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-50" x1="46.67" y1="240.17" x2="49.11" y2="240.17" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-34" x1="48.54" y1="238.37" x2="49.35" y2="238.37" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-34" x1="48.81" y1="236.99" x2="52.48" y2="236.99" gradientTransform="rotate(-22.73 40.904 144.923)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-51" x1="49.14" y1="234.66" x2="51.25" y2="234.66" gradientTransform="rotate(-8.1 44.438 -10.57)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-35" x1="50.76" y1="232.73" x2="51.58" y2="232.73" gradientTransform="rotate(-8.1 44.438 -10.57)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-35" x1="50.97" y1="231.26" x2="54.64" y2="231.26" gradientTransform="rotate(-8.1 44.438 -10.57)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-52" x1="47.63" y1="241.9" x2="50.23" y2="241.9" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-36" x1="49.6" y1="240.34" x2="50.4" y2="240.34" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-36" x1="49.92" y1="239.14" x2="53.44" y2="239.14" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-53" x1="49.17" y1="241.59" x2="51.76" y2="241.59" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-37" x1="51.14" y1="240.03" x2="51.94" y2="240.03" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-37" x1="51.46" y1="238.84" x2="54.98" y2="238.84" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-54" x1="46.26" y1="242.29" x2="48.85" y2="242.29" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-38" x1="48.23" y1="240.73" x2="49.03" y2="240.73" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-38" x1="48.54" y1="239.53" x2="52.07" y2="239.53" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-55" x1="46.33" y1="239.66" x2="48.78" y2="239.66" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-39" x1="48.21" y1="237.85" x2="49.02" y2="237.85" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-39" x1="48.48" y1="236.47" x2="52.15" y2="236.47" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-56" x1="48.69" y1="234.24" x2="50.8" y2="234.24" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-40" x1="50.32" y1="232.31" x2="51.14" y2="232.31" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-40" x1="50.53" y1="230.84" x2="54.19" y2="230.84" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-57" x1="84.8" y1="280.74" x2="85.71" y2="280.74" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-41" x1="85.46" y1="279.12" x2="86.57" y2="279.12" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-41" x1="85.53" y1="277.85" x2="88.55" y2="277.85" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-58" x1="85.8" y1="280.28" x2="86.71" y2="280.28" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-42" x1="86.45" y1="278.66" x2="87.56" y2="278.66" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-42" x1="86.52" y1="277.38" x2="89.54" y2="277.38" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-59" x1="83.91" y1="281.27" x2="84.82" y2="281.27" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-43" x1="84.57" y1="279.65" x2="85.67" y2="279.65" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-43" x1="84.63" y1="278.37" x2="87.65" y2="278.37" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-60" x1="84.27" y1="278.78" x2="84.98" y2="278.78" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-44" x1="84.73" y1="276.92" x2="86.1" y2="276.92" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-44" x1="84.77" y1="275.47" x2="88.03" y2="275.47" gradientTransform="matrix(.96 -.57 .6 .83 -208.72 68.54)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-61" x1="93.22" y1="263.16" x2="94.41" y2="263.16" gradientTransform="matrix(1.08 -.35 .35 .94 -150.98 37.26)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-45" x1="94.14" y1="261.24" x2="94.67" y2="261.24" gradientTransform="matrix(1.08 -.35 .35 .94 -150.98 37.26)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-45" x1="94.25" y1="259.77" x2="96.5" y2="259.77" gradientTransform="matrix(1.08 -.35 .35 .94 -150.98 37.26)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-62" x1="32.24" y1="237.61" x2="34.77" y2="237.61" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-46" x1="33.95" y1="236.67" x2="34.78" y2="236.67" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-46" x1="34.49" y1="235.98" x2="36.68" y2="235.98" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-63" x1="33.42" y1="237.5" x2="35.95" y2="237.5" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-47" x1="35.13" y1="236.57" x2="35.96" y2="236.57" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-47" x1="35.67" y1="235.88" x2="37.86" y2="235.88" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-64" x1="31.2" y1="237.77" x2="33.72" y2="237.77" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-48" x1="32.9" y1="236.84" x2="33.74" y2="236.84" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-48" x1="33.45" y1="236.14" x2="35.64" y2="236.14" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-65" x1="31.04" y1="236.06" x2="33.54" y2="236.06" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-49" x1="32.74" y1="234.96" x2="33.56" y2="234.96" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-49" x1="33.27" y1="234.15" x2="35.48" y2="234.15" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-66" x1="32.49" y1="234.06" x2="34.45" y2="234.06" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-50" x1="33.98" y1="232.88" x2="34.58" y2="232.88" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-50" x1="34.22" y1="231.99" x2="36.86" y2="231.99" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-67" x1="37.19" y1="240.57" x2="40.09" y2="240.57" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-51" x1="38.83" y1="239.41" x2="40.07" y2="239.41" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-51" x1="39.6" y1="238.56" x2="41.67" y2="238.56" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-68" x1="38.38" y1="240.51" x2="41.28" y2="240.51" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-52" x1="40.02" y1="239.35" x2="41.25" y2="239.35" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-52" x1="40.79" y1="238.5" x2="42.86" y2="238.5" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-69" x1="36.15" y1="240.72" x2="39.05" y2="240.72" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-53" x1="37.78" y1="239.56" x2="39.02" y2="239.56" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-53" x1="38.55" y1="238.71" x2="40.62" y2="238.71" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-70" x1="35.84" y1="238.46" x2="38.78" y2="238.46" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-54" x1="37.47" y1="237.09" x2="38.75" y2="237.09" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-54" x1="38.25" y1="236.09" x2="40.32" y2="236.09" gradientTransform="matrix(-.98 .2 .2 .98 94.73 -7.38)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-71" x1="37.75" y1="235.73" x2="40.62" y2="235.73" gradientTransform="matrix(-.9 .43 .43 .9 37.9 6.71)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-55" x1="39.43" y1="234.36" x2="40.6" y2="234.36" gradientTransform="matrix(-.9 .43 .43 .9 37.9 6.71)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-55" x1="40.19" y1="233.36" x2="42.29" y2="233.36" gradientTransform="matrix(-.9 .43 .43 .9 37.9 6.71)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-72" x1="42.88" y1="240.69" x2="45.47" y2="240.69" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-56" x1="44.85" y1="239.13" x2="45.64" y2="239.13" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-56" x1="45.16" y1="237.93" x2="48.68" y2="237.93" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-73" x1="44.42" y1="240.38" x2="47.01" y2="240.38" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-57" x1="46.39" y1="238.82" x2="47.18" y2="238.82" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-57" x1="46.7" y1="237.62" x2="50.22" y2="237.62" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-74" x1="41.51" y1="241.07" x2="44.1" y2="241.07" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-58" x1="43.48" y1="239.52" x2="44.27" y2="239.52" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-58" x1="43.79" y1="238.32" x2="47.31" y2="238.32" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-75" x1="41.58" y1="238.44" x2="44.02" y2="238.44" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-59" x1="43.45" y1="236.64" x2="44.26" y2="236.64" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-59" x1="43.72" y1="235.26" x2="47.39" y2="235.26" gradientTransform="scale(-1 1) rotate(-23 -49.529 585.192)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_16-76" x1="43.78" y1="234.21" x2="45.89" y2="234.21" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_2-60" x1="45.41" y1="232.28" x2="46.23" y2="232.28" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_11-60" x1="45.62" y1="230.81" x2="49.28" y2="230.81" gradientTransform="matrix(-.99 -.15 -.15 .99 177.3 6.56)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_15-11" x1="66.5" y1="237" x2="74.02" y2="237" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-11" x1="67.68" y1="235.47" x2="74.43" y2="235.47" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-61" x1="70.18" y1="234.39" x2="74.77" y2="234.39" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-61" x1="67.89" y1="233.65" x2="72.03" y2="233.65" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-77" x1="72.41" y1="233.51" x2="74.43" y2="233.51" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-78" x1="75.94" y1="249.64" x2="77.82" y2="249.64" gradientTransform="rotate(180 74.455 241.04)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-12" x1="65.6" y1="236.85" x2="73.12" y2="236.85" gradientTransform="rotate(16.64 72.904 241.576)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-12" x1="66.79" y1="235.32" x2="73.53" y2="235.32" gradientTransform="rotate(16.64 72.904 241.576)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-62" x1="69.28" y1="234.25" x2="73.88" y2="234.25" gradientTransform="rotate(16.64 72.904 241.576)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-62" x1="66.99" y1="233.51" x2="71.13" y2="233.51" gradientTransform="rotate(16.64 72.904 241.576)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-79" x1="71.51" y1="233.36" x2="73.53" y2="233.36" gradientTransform="rotate(16.64 72.904 241.576)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-80" x1="76.84" y1="249.79" x2="78.71" y2="249.79" gradientTransform="rotate(-163.36 74.545 241.264)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-13" x1="70.15" y1="236.89" x2="77.66" y2="236.89" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-13" x1="71.33" y1="235.36" x2="78.08" y2="235.36" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-63" x1="73.82" y1="234.28" x2="78.42" y2="234.28" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-63" x1="71.53" y1="233.54" x2="75.67" y2="233.54" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-81" x1="76.05" y1="233.39" x2="78.08" y2="233.39" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-82" x1="72.3" y1="249.75" x2="74.17" y2="249.75" gradientTransform="matrix(1 0 0 -1 5.07 482.08)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-14" x1="69.06" y1="235.7" x2="76.58" y2="235.7" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-14" x1="70.25" y1="234.17" x2="76.99" y2="234.17" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-64" x1="72.74" y1="233.1" x2="77.34" y2="233.1" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-64" x1="70.45" y1="232.36" x2="74.59" y2="232.36" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-83" x1="74.97" y1="232.21" x2="76.99" y2="232.21" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-84" x1="73.38" y1="250.94" x2="75.26" y2="250.94" gradientTransform="matrix(.96 -.29 -.29 -.96 77.09 493.77)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-15" x1="57.19" y1="236.69" x2="64.7" y2="236.69" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-15" x1="58.37" y1="235.16" x2="65.12" y2="235.16" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-65" x1="60.86" y1="234.09" x2="65.46" y2="234.09" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-65" x1="58.57" y1="233.34" x2="62.71" y2="233.34" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-85" x1="63.09" y1="233.2" x2="65.12" y2="233.2" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-86" x1="85.26" y1="249.95" x2="87.13" y2="249.95" gradientTransform="matrix(1 0 0 -1 5.07 482.08)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-16" x1="56.59" y1="239.22" x2="64.11" y2="239.22" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-16" x1="57.78" y1="237.69" x2="64.52" y2="237.69" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-66" x1="60.27" y1="236.62" x2="64.86" y2="236.62" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-66" x1="57.98" y1="235.88" x2="62.12" y2="235.88" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-87" x1="62.5" y1="235.73" x2="64.52" y2="235.73" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-88" x1="85.85" y1="247.41" x2="87.73" y2="247.41" gradientTransform="matrix(.96 -.29 -.29 -.96 77.09 493.77)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-17" x1="101.48" y1="256.76" x2="109" y2="256.76" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-17" x1="102.67" y1="255.23" x2="109.41" y2="255.23" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-67" x1="105.16" y1="254.15" x2="109.76" y2="254.15" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-67" x1="102.87" y1="253.41" x2="107.01" y2="253.41" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-89" x1="107.39" y1="253.27" x2="109.41" y2="253.27" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-90" x1="40.96" y1="229.88" x2="42.84" y2="229.88" gradientTransform="matrix(1 0 0 -1 5.07 482.08)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-18" x1="104.78" y1="245.77" x2="112.3" y2="245.77" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-18" x1="105.96" y1="244.24" x2="112.71" y2="244.24" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-68" x1="108.45" y1="243.17" x2="113.05" y2="243.17" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-68" x1="106.16" y1="242.42" x2="110.3" y2="242.42" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-91" x1="110.68" y1="242.28" x2="112.71" y2="242.28" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-92" x1="37.67" y1="240.87" x2="39.54" y2="240.87" gradientTransform="matrix(.96 -.29 -.29 -.96 77.09 493.77)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-19" x1="104.34" y1="256.76" x2="111.85" y2="256.76" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-19" x1="105.52" y1="255.23" x2="112.27" y2="255.23" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-69" x1="108.01" y1="254.15" x2="112.61" y2="254.15" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-69" x1="105.72" y1="253.41" x2="109.86" y2="253.41" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-93" x1="110.24" y1="253.27" x2="112.27" y2="253.27" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-94" x1="38.11" y1="229.88" x2="39.98" y2="229.88" gradientTransform="matrix(-1.18 0 0 -1 86.55 482.08)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-20" x1="107.51" y1="244.95" x2="115.03" y2="244.95" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-20" x1="108.7" y1="243.42" x2="115.44" y2="243.42" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-70" x1="111.19" y1="242.35" x2="115.79" y2="242.35" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-70" x1="108.9" y1="241.61" x2="113.04" y2="241.61" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-95" x1="113.42" y1="241.46" x2="115.44" y2="241.46" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-96" x1="34.93" y1="241.69" x2="36.8" y2="241.69" gradientTransform="matrix(-1.13 -.29 .34 -.96 1.6 493.77)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-21" x1="71.59" y1="248.66" x2="79.11" y2="248.66" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-21" x1="72.77" y1="247.13" x2="79.52" y2="247.13" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-71" x1="75.26" y1="246.06" x2="79.86" y2="246.06" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-71" x1="72.97" y1="245.32" x2="77.11" y2="245.32" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-97" x1="77.49" y1="245.17" x2="79.52" y2="245.17" gradientTransform="matrix(-1 0 0 1 153.97 0)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-98" x1="70.86" y1="237.98" x2="72.73" y2="237.98" gradientTransform="matrix(1 0 0 -1 5.07 482.08)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-22" x1="73.82" y1="246.57" x2="81.33" y2="246.57" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-22" x1="75" y1="245.04" x2="81.75" y2="245.04" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-72" x1="77.49" y1="243.97" x2="82.09" y2="243.97" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-72" x1="75.2" y1="243.22" x2="79.34" y2="243.22" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-99" x1="79.72" y1="243.08" x2="81.75" y2="243.08" gradientTransform="matrix(-.96 .29 .29 .96 81.74 -10.76)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-100" x1="68.63" y1="240.07" x2="70.5" y2="240.07" gradientTransform="matrix(.96 -.29 -.29 -.96 77.09 493.77)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-23" x1="129.68" y1="248.66" x2="137.2" y2="248.66" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-23" x1="130.87" y1="247.13" x2="137.61" y2="247.13" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-73" x1="133.36" y1="246.06" x2="137.95" y2="246.06" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-73" x1="131.07" y1="245.32" x2="135.21" y2="245.32" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-101" x1="135.59" y1="245.17" x2="137.61" y2="245.17" gradientTransform="matrix(1.18 0 0 1 -89.09 0)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-102" x1="12.76" y1="237.98" x2="14.64" y2="237.98" gradientTransform="matrix(-1.18 0 0 -1 86.55 482.08)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-24" x1="129.48" y1="229.94" x2="137" y2="229.94" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-24" x1="130.66" y1="228.41" x2="137.41" y2="228.41" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-74" x1="133.16" y1="227.33" x2="137.75" y2="227.33" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-74" x1="130.86" y1="226.59" x2="135" y2="226.59" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-103" x1="135.38" y1="226.45" x2="137.41" y2="226.45" gradientTransform="matrix(1.13 .29 -.34 .96 -3.9 -10.76)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-104" x1="12.97" y1="256.7" x2="14.84" y2="256.7" gradientTransform="matrix(-1.13 -.29 .34 -.96 1.6 493.77)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-25" x1="89.54" y1="241.47" x2="97.06" y2="241.47" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-25" x1="90.72" y1="239.94" x2="97.47" y2="239.94" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-75" x1="93.22" y1="238.86" x2="97.81" y2="238.86" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-75" x1="90.92" y1="238.12" x2="95.07" y2="238.12" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-105" x1="95.45" y1="237.97" x2="97.47" y2="237.97" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-106" x1="52.9" y1="245.17" x2="54.78" y2="245.17" gradientTransform="rotate(166.38 43.677 238.552) scale(1.18 1)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-26" x1="88.96" y1="234.54" x2="96.48" y2="234.54" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-26" x1="90.14" y1="233.01" x2="96.89" y2="233.01" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-76" x1="92.64" y1="231.93" x2="97.23" y2="231.93" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-76" x1="90.34" y1="231.19" x2="94.48" y2="231.19" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-107" x1="94.86" y1="231.05" x2="96.89" y2="231.05" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-108" x1="53.49" y1="252.1" x2="55.36" y2="252.1" gradientTransform="matrix(-1.17 -.01 .1 -1.01 62.49 491.49)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-27" x1="170.99" y1="267.58" x2="178.51" y2="267.58" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-27" x1="172.17" y1="266.05" x2="178.92" y2="266.05" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-77" x1="174.67" y1="264.97" x2="179.26" y2="264.97" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-77" x1="172.37" y1="264.23" x2="176.51" y2="264.23" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-109" x1="176.89" y1="264.08" x2="178.92" y2="264.08" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-110" x1="-28.55" y1="219.06" x2="-26.67" y2="219.06" gradientTransform="rotate(166.38 43.677 238.552) scale(1.18 1)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-28" x1="174.47" y1="236.24" x2="181.99" y2="236.24" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-28" x1="175.66" y1="234.71" x2="182.4" y2="234.71" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-78" x1="178.15" y1="233.63" x2="182.75" y2="233.63" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-78" x1="175.86" y1="232.89" x2="180" y2="232.89" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-111" x1="180.38" y1="232.74" x2="182.4" y2="232.74" gradientTransform="matrix(1.17 .01 -.1 1.01 -61.66 2.44)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-112" x1="-32.03" y1="250.4" x2="-30.15" y2="250.4" gradientTransform="matrix(-1.17 -.01 .1 -1.01 62.49 491.49)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-29" x1="179.07" y1="267.59" x2="186.58" y2="267.59" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-29" x1="180.25" y1="266.06" x2="187" y2="266.06" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-79" x1="182.74" y1="264.98" x2="187.34" y2="264.98" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-79" x1="180.45" y1="264.24" x2="184.59" y2="264.24" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-113" x1="184.97" y1="264.1" x2="187" y2="264.1" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-114" x1="-36.62" y1="219.05" x2="-34.75" y2="219.05" gradientTransform="matrix(1.14 -.34 -.28 -.96 230.23 436.25)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-30" x1="182.22" y1="233.93" x2="189.73" y2="233.93" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-30" x1="183.4" y1="232.41" x2="190.15" y2="232.41" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-80" x1="185.89" y1="231.33" x2="190.49" y2="231.33" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-80" x1="183.6" y1="230.59" x2="187.74" y2="230.59" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-115" x1="188.12" y1="230.44" x2="190.15" y2="230.44" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-116" x1="-39.77" y1="252.7" x2="-37.9" y2="252.7" gradientTransform="matrix(1.01 -.6 -.6 -.82 315.44 423.2)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-31" x1="199.51" y1="252.65" x2="207.03" y2="252.65" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-31" x1="200.69" y1="251.12" x2="207.44" y2="251.12" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-81" x1="203.19" y1="250.04" x2="207.78" y2="250.04" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-81" x1="200.89" y1="249.3" x2="205.04" y2="249.3" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-117" x1="205.42" y1="249.15" x2="207.44" y2="249.15" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-118" x1="-57.07" y1="233.99" x2="-55.19" y2="233.99" gradientTransform="matrix(1.14 -.34 -.28 -.96 230.23 436.25)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-32" x1="197.53" y1="213.76" x2="205.04" y2="213.76" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-32" x1="198.71" y1="212.24" x2="205.46" y2="212.24" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-82" x1="201.2" y1="211.16" x2="205.8" y2="211.16" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-82" x1="198.91" y1="210.42" x2="203.05" y2="210.42" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-119" x1="203.43" y1="210.27" x2="205.46" y2="210.27" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-120" x1="-55.08" y1="272.87" x2="-53.21" y2="272.87" gradientTransform="matrix(1.01 -.6 -.6 -.82 315.44 423.2)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-33" x1="201.64" y1="276.51" x2="207.11" y2="276.51" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-33" x1="202.63" y1="275.42" x2="207.39" y2="275.42" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-83" x1="204.53" y1="274.73" x2="207.63" y2="274.73" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-83" x1="202.82" y1="274.41" x2="205.75" y2="274.41" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-121" x1="206.14" y1="274.16" x2="207.42" y2="274.16" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-122" x1="-57.53" y1="208.48" x2="-56.31" y2="208.48" gradientTransform="matrix(1.14 -.34 -.28 -.96 230.23 436.25)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-34" x1="206.49" y1="236.76" x2="211.72" y2="236.76" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-34" x1="207.55" y1="235.51" x2="211.98" y2="235.51" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-84" x1="209.43" y1="234.77" x2="212.2" y2="234.77" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-84" x1="207.76" y1="234.48" x2="210.5" y2="234.48" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-123" x1="210.98" y1="234.13" x2="212.03" y2="234.13" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-124" x1="-62.25" y1="248.49" x2="-61.21" y2="248.49" gradientTransform="matrix(1.01 -.6 -.6 -.82 315.44 423.2)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-35" x1="208.66" y1="271.49" x2="214.13" y2="271.49" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-35" x1="209.66" y1="270.4" x2="214.42" y2="270.4" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-85" x1="211.55" y1="269.72" x2="214.66" y2="269.72" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-85" x1="209.84" y1="269.4" x2="212.77" y2="269.4" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-125" x1="213.17" y1="269.14" x2="214.45" y2="269.14" gradientTransform="matrix(-1.14 .34 .28 .96 263.84 -76.68)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-126" x1="-64.55" y1="213.49" x2="-63.33" y2="213.49" gradientTransform="matrix(1.14 -.34 -.28 -.96 230.23 436.25)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-36" x1="211.78" y1="229.94" x2="217.01" y2="229.94" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-36" x1="212.85" y1="228.7" x2="217.28" y2="228.7" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-86" x1="214.73" y1="227.96" x2="217.5" y2="227.96" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-86" x1="213.05" y1="227.67" x2="215.79" y2="227.67" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-127" x1="216.27" y1="227.32" x2="217.33" y2="227.32" gradientTransform="matrix(-1.01 .6 .6 .82 178.66 -62.67)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-128" x1="-67.55" y1="255.31" x2="-66.5" y2="255.31" gradientTransform="matrix(1.01 -.6 -.6 -.82 315.44 423.2)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-37" x1="217.33" y1="269.27" x2="222.79" y2="269.27" gradientTransform="matrix(.63 .11 -.01 .67 -40 51.46)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-37" x1="218.32" y1="268.18" x2="223.08" y2="268.18" gradientTransform="matrix(.63 .11 -.01 .67 -40 51.46)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-87" x1="220.21" y1="267.5" x2="223.32" y2="267.5" gradientTransform="matrix(.63 .11 -.01 .67 -40 51.46)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-87" x1="218.5" y1="267.17" x2="221.44" y2="267.17" gradientTransform="matrix(.63 .11 -.01 .67 -40 51.46)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-129" x1="221.83" y1="266.92" x2="223.11" y2="266.92" gradientTransform="matrix(.63 .11 -.01 .67 -40 51.46)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-130" x1="-73.22" y1="215.71" x2="-72" y2="215.71" gradientTransform="matrix(-.63 -.11 .01 -.67 46.16 391.23)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_15-38" x1="219.45" y1="225.34" x2="224.68" y2="225.34" gradientTransform="matrix(.6 .3 -.19 .61 5.41 52.09)" xlink:href="#Laub_15"/>
+    <linearGradient id="Laub_4-38" x1="220.51" y1="224.09" x2="224.94" y2="224.09" gradientTransform="matrix(.6 .3 -.19 .61 5.41 52.09)" xlink:href="#Laub_4"/>
+    <linearGradient id="Laub_11-88" x1="222.39" y1="223.35" x2="225.16" y2="223.35" gradientTransform="matrix(.6 .3 -.19 .61 5.41 52.09)" xlink:href="#Laub_11"/>
+    <linearGradient id="Laub_2-88" x1="220.72" y1="223.06" x2="223.46" y2="223.06" gradientTransform="matrix(.6 .3 -.19 .61 5.41 52.09)" xlink:href="#Laub_2"/>
+    <linearGradient id="Laub_16-131" x1="223.94" y1="222.71" x2="224.99" y2="222.71" gradientTransform="matrix(.6 .3 -.19 .61 5.41 52.09)" xlink:href="#Laub_16"/>
+    <linearGradient id="Laub_16-132" x1="-75.21" y1="259.92" x2="-74.17" y2="259.92" gradientTransform="matrix(-.6 -.3 .19 -.61 .87 391.25)" xlink:href="#Laub_16"/>
+    <radialGradient id="Unbenannter_Verlauf_291" cx="40.03" cy="237.9" r="50.91" gradientTransform="matrix(1.2 -.02 -.02 .2 24.1 197.33)" gradientUnits="userSpaceOnUse">
+      <stop offset=".5" stop-color="#d2db8c"/>
+      <stop offset=".55" stop-color="#ced788" stop-opacity=".94"/>
+      <stop offset=".65" stop-color="#c2cd7e" stop-opacity=".78"/>
+      <stop offset=".78" stop-color="#afbc6e" stop-opacity=".52"/>
+      <stop offset=".93" stop-color="#96a657" stop-opacity=".17"/>
+      <stop offset="1" stop-color="#8a9b4d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_124" cx="-18.97" cy="198.77" r="47.59" gradientTransform="matrix(.98 -.21 .17 .78 -7.56 66.11)" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#8c4000"/>
+      <stop offset=".09" stop-color="#944900"/>
+      <stop offset=".16" stop-color="#b06600"/>
+      <stop offset=".19" stop-color="#ba7100"/>
+      <stop offset=".34" stop-color="#d58c0b"/>
+      <stop offset=".39" stop-color="#d58e0f"/>
+      <stop offset=".43" stop-color="#d4941c"/>
+      <stop offset=".48" stop-color="#d29e31"/>
+      <stop offset=".53" stop-color="#d0ab4f"/>
+      <stop offset=".57" stop-color="#cebd75"/>
+      <stop offset=".6" stop-color="#ccc78c"/>
+      <stop offset=".62" stop-color="#cfca82"/>
+      <stop offset=".65" stop-color="#d6d167"/>
+      <stop offset=".69" stop-color="#e1dd3b"/>
+      <stop offset=".72" stop-color="#e9e61b"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_126" cx="7.87" cy="198.16" fx="-9.256" fy="184.303" r="22.03" gradientTransform="matrix(.39 -.92 .81 .35 -131.82 152.8)" gradientUnits="userSpaceOnUse">
+      <stop offset=".08" stop-color="#8c4000"/>
+      <stop offset=".09" stop-color="#944900"/>
+      <stop offset=".16" stop-color="#b06600"/>
+      <stop offset=".19" stop-color="#ba7100"/>
+      <stop offset=".31" stop-color="#c77e05"/>
+      <stop offset=".4" stop-color="#d58c0b"/>
+      <stop offset=".56" stop-color="#e9ad1b"/>
+      <stop offset=".7" stop-color="#e0b711"/>
+      <stop offset=".81" stop-color="#d7c207"/>
+      <stop offset=".98" stop-color="#bfbd59"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_257" cx="89.15" cy="247.71" r="17.14" gradientTransform="matrix(.83 .31 -.27 .65 116.29 39.55)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff6bf"/>
+      <stop offset=".04" stop-color="#f0da97"/>
+      <stop offset=".1" stop-color="#deb663"/>
+      <stop offset=".16" stop-color="#cf993a"/>
+      <stop offset=".21" stop-color="#c4851c"/>
+      <stop offset=".25" stop-color="#bd780a"/>
+      <stop offset=".28" stop-color="#bb7404"/>
+      <stop offset=".3" stop-color="#bd7705"/>
+      <stop offset=".62" stop-color="#d6a51a"/>
+      <stop offset=".86" stop-color="#e5c227"/>
+      <stop offset="1" stop-color="#ebcd2c"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_128" cx="8.17" cy="226.56" fx="1.399" r="8.57" gradientTransform="matrix(.17 -.98 1.3 .23 -252.87 196.62)" gradientUnits="userSpaceOnUse">
+      <stop offset=".07" stop-color="#ba7100"/>
+      <stop offset=".24" stop-color="#c77e05"/>
+      <stop offset=".37" stop-color="#d58c0b"/>
+      <stop offset=".61" stop-color="#e9ad1b"/>
+      <stop offset=".69" stop-color="#e0b711"/>
+      <stop offset=".75" stop-color="#d7c207"/>
+      <stop offset=".91" stop-color="#bfbd59"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_140" cx="9.01" cy="227.03" r="3.37" gradientTransform="matrix(.21 -.98 2.23 .48 -464.47 140.85)" gradientUnits="userSpaceOnUse">
+      <stop offset=".12" stop-color="#8c4000"/>
+      <stop offset=".13" stop-color="#944900"/>
+      <stop offset=".21" stop-color="#b06600"/>
+      <stop offset=".25" stop-color="#ba7100"/>
+      <stop offset=".37" stop-color="#c77e05"/>
+      <stop offset=".47" stop-color="#d58c0b"/>
+      <stop offset=".66" stop-color="#e9ad1b"/>
+      <stop offset=".74" stop-color="#e0b711"/>
+      <stop offset=".81" stop-color="#d7c207"/>
+      <stop offset=".98" stop-color="#bfbd59"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_158" cx="27.86" cy="223.05" r="19.27" gradientTransform="matrix(1.37 -1.08 2.64 3.82 -577.58 -597.18)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#dccab4"/>
+      <stop offset=".01" stop-color="#d6ba93"/>
+      <stop offset=".04" stop-color="#cca05f"/>
+      <stop offset=".06" stop-color="#c48c36"/>
+      <stop offset=".08" stop-color="#bf7d18"/>
+      <stop offset=".09" stop-color="#bb7406"/>
+      <stop offset=".11" stop-color="#ba7100"/>
+      <stop offset=".26" stop-color="#c77e05"/>
+      <stop offset=".37" stop-color="#d58c0b"/>
+      <stop offset=".61" stop-color="#e9ad1b"/>
+      <stop offset=".69" stop-color="#e0b711"/>
+      <stop offset=".75" stop-color="#d7c207"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_140-2" cx="31.72" cy="225.44" r="1.83" gradientTransform="matrix(-.01 -1.93 4.03 .37 -850.17 201.25)" xlink:href="#Unbenannter_Verlauf_140"/>
+    <radialGradient id="Unbenannter_Verlauf_149" cx="41.42" cy="225.98" r="7.44" gradientTransform="matrix(.28 1.93 -2.28 .17 574.19 93.55)" gradientUnits="userSpaceOnUse">
+      <stop offset=".07" stop-color="#ba7100"/>
+      <stop offset=".24" stop-color="#c77e05"/>
+      <stop offset=".37" stop-color="#d58c0b"/>
+      <stop offset=".61" stop-color="#e9ad1b"/>
+      <stop offset=".69" stop-color="#e0b711"/>
+      <stop offset=".75" stop-color="#d7c207"/>
+      <stop offset=".91" stop-color="#efd9c5"/>
+    </radialGradient>
+    <radialGradient id="Unbenannter_Verlauf_140-3" cx="38.05" cy="228.38" r="1.2" gradientTransform="matrix(.26 -3.04 6.86 .02 -1504.1 332.79)" xlink:href="#Unbenannter_Verlauf_140"/>
+    <radialGradient id="Unbenannter_Verlauf_128-2" cx="31.52" cy="227.62" fx="31.515" r="9.9" gradientTransform="rotate(-23 57.95 145.118)" xlink:href="#Unbenannter_Verlauf_128"/>
+    <radialGradient id="Unbenannter_Verlauf_140-4" cx="33.25" cy="226.12" r="1.83" gradientTransform="matrix(.35 -.94 2.14 .8 -428.43 80.07)" xlink:href="#Unbenannter_Verlauf_140"/>
+    <radialGradient id="Unbenannter_Verlauf_128-3" cx="42.98" cy="230.85" fx="42.98" r="9.9" gradientTransform="matrix(1.12 -.47 .47 1.12 -79.52 -9.2)" xlink:href="#Unbenannter_Verlauf_128"/>
+    <radialGradient id="Unbenannter_Verlauf_140-5" cx="45.07" cy="227.62" r="1.83" gradientTransform="matrix(.43 -1.14 2.6 .97 -532.72 57.42)" xlink:href="#Unbenannter_Verlauf_140"/>
+    <radialGradient id="Unbenannter_Verlauf_257-2" cx="37.37" cy="206.54" r="17.14" gradientTransform="matrix(.82 .57 -.45 .64 123.88 56.74)" xlink:href="#Unbenannter_Verlauf_257"/>
+    <radialGradient id="Unbenannter_Verlauf_128-4" cx="51.65" cy="252.64" fx="51.651" r="9.9" gradientTransform="matrix(.52906 -.63953 .62412 .51631 -92.3 152.85)" xlink:href="#Unbenannter_Verlauf_128"/>
+    <radialGradient id="Unbenannter_Verlauf_140-6" cx="56.86" cy="247.89" r="1.83" gradientTransform="matrix(-.1 -.81 1.86 -.25 -361.11 357.2)" xlink:href="#Unbenannter_Verlauf_140"/>
+    <radialGradient id="Unbenannter_Verlauf_128-5" cx="58.66" cy="264.83" fx="58.661" r="9.9" gradientTransform="rotate(-28.38 149.42 122.798) scale(.83 .81)" xlink:href="#Unbenannter_Verlauf_128"/>
+    <radialGradient id="Unbenannter_Verlauf_140-7" cx="65.6" cy="258.91" r="1.83" gradientTransform="matrix(.22 -.79 1.81 .46 -378.28 182.24)" xlink:href="#Unbenannter_Verlauf_140"/>
+    <style>
+      .cls-119,.cls-120,.cls-52{
+        stroke:#606060;
+        stroke-miterlimit:10;
+        stroke-width:.25px;
+      }
+      #blue_shrooms {
+        height: 500px;
+        z-index: 1
+      }
+      #blue_shrooms:hover {
+        cursor: pointer
+      }
+      #blue_shrooms .cls-119 {
+        animation: levitate 2s linear infinite
+      }
+      #blue_shrooms .cls-120 {
+        animation: levitate 3s linear infinite
+      }
+      .cls-52{
+        fill:none
+      }
+      .cls-119,.cls-120{
+        fill:#ebe6e3;
+        opacity:.5
+      }
+      .cls-120{
+        fill:#fff
+      }
+
+      @keyframes levitate {
+        0% {  
+          transform: translateY(0px);
+          transform: translateX(0px)
+        }
+        10% {
+          fill: #2887ab;
+          opacity: 1;
+        }
+        100% {
+          transform: translateY(-100px);
+          opacity: 0
+        }
+      }
+      
+    </style>
+  </defs>
+  <g id="Ebene_2" data-name="Ebene 2">
+    <g id="Boden_Hintergrund">
+      <path id="Boden" d="M35.48 232.87s-26.21 4-28.85 1.63-12.37 7.5-1.85 9.24 2.6 9.14 2.6 9.14S-2.79 265.6 19.7 266.8s57.6-11.34 63.06-8.5 31.52 10.13 39-3.21 14.58-10 13.83-13.71-5.58-7-15.52-6.94-20.28-7.59-20.28-7.59-6-9-23.4 2-29.92 1-31.44 1.29-9.47 2.73-9.47 2.73z" fill="url(#Unbenannter_Verlauf_291)"/>
+      <g id="Büschel">
+        <path d="M26.87 237.7s-9 0-8.17 3.46c0 0-2.88-4.23 8.17-3.46z" fill="url(#Laub_15)"/>
+        <path d="M18.88 236.48s5.55-.07 8 1.22c.71.38.69.26.2 0-1.21-.79-5.15-2.63-8.2-1.22z" fill="url(#Laub_4)"/>
+        <path d="M22.25 234.45a30.2 30.2 0 005.18 3.49c2.42 1.16-5.8-4.57-6.18-4.6s.6.78 1 1.11z" fill="url(#Laub_11)"/>
+        <path d="M18.88 235.45s3.77-.17 4.94.44-2.66-1.49-4.94-.44z" fill="url(#Laub_2)"/>
+        <path d="M27.24 237.17s-3.9-3.75-3.59-5 3.59 5 3.59 5z" fill="url(#Laub_16)"/>
+        <path d="M22 232.34a19.61 19.61 0 012.91 2.88c.59.96-.76-.22-2.91-2.88z" fill="url(#Laub_16-2)"/>
+        <path d="M27.46 237.68s-8.43-2.26-8.79 1.37c0 0-1.29-4.87 8.79-1.37z" fill="url(#Laub_15-2)"/>
+        <path d="M20.39 234.5s5.22 1.31 7.07 3.18c.55.55.57.43.21 0-.87-1.02-3.95-3.8-7.28-3.18z" fill="url(#Laub_4-2)"/>
+        <path d="M24.22 233.35a26.05 26.05 0 003.69 4.7c1.88 1.74-3.91-5.91-4.26-6s.35.88.57 1.3z" fill="url(#Laub_11-2)"/>
+        <path d="M20.73 233.49s3.59.77 4.48 1.66-1.99-2.15-4.48-1.66z" fill="url(#Laub_2-2)"/>
+        <path d="M28 237.25s-2.41-4.64-1.69-5.82 1.69 5.82 1.69 5.82z" fill="url(#Laub_16-3)"/>
+        <path d="M24.7 231.22a17.54 17.54 0 011.76 3.55c.23 1.09-.66-.37-1.76-3.55z" fill="url(#Laub_16-4)"/>
+      </g>
+      <g id="Büschel-2" data-name="Büschel">
+        <path d="M51.11 235.68s16-.05 14.53 6.6c0 0 5.12-8.07-14.53-6.6z" fill="url(#Laub_15-3)"/>
+        <path d="M65.32 233.35s-9.87-.13-14.21 2.33c-1.27.73-1.24.5-.35-.09 2.12-1.41 9.13-4.91 14.56-2.24z" fill="url(#Laub_4-3)"/>
+        <path d="M59.32 229.48a53.42 53.42 0 01-9.2 6.65c-4.32 2.22 10.31-8.69 11-8.75s-1.12 1.48-1.8 2.1z" fill="url(#Laub_11-3)"/>
+        <path d="M65.33 231.4s-6.72-.33-8.8.83 4.73-2.84 8.8-.83z" fill="url(#Laub_2-3)"/>
+        <path d="M50.45 234.67s6.95-7.15 6.39-9.59-6.39 9.59-6.39 9.59z" fill="url(#Laub_16-5)"/>
+        <path d="M59.75 225.47s-4.14 3.65-5.17 5.49 1.42-.35 5.17-5.49z" fill="url(#Laub_16-6)"/>
+        <path d="M50.05 235.64s15-4.31 15.65 2.61c0 0 2.3-9.25-15.65-2.61z" fill="url(#Laub_15-4)"/>
+        <path d="M62.63 229.59s-9.29 2.49-12.58 6c-1 1.05-1 .82-.36 0 1.54-1.89 7.02-7.18 12.94-6z" fill="url(#Laub_4-4)"/>
+        <path d="M55.81 227.39a49.82 49.82 0 01-6.55 9c-3.36 3.32 7-11.26 7.57-11.49s-.54 1.69-1.02 2.49z" fill="url(#Laub_11-4)"/>
+        <path d="M62 227.67s-6.39 1.46-8 3.15 3.6-4.03 8-3.15z" fill="url(#Laub_2-4)"/>
+        <path d="M49.11 234.82s4.29-8.84 3-11.08-3 11.08-3 11.08z" fill="url(#Laub_16-7)"/>
+        <path d="M55 223.35s-2.74 4.67-3.14 6.75 1.14-.71 3.14-6.75z" fill="url(#Laub_16-8)"/>
+      </g>
+      <g id="Büschel-3" data-name="Büschel">
+        <path d="M119.88 238.23s-16.69 0-15.11 6.41c0 0-5.33-7.84 15.11-6.41z" fill="url(#Laub_15-5)"/>
+        <path d="M105.1 236s10.27-.13 14.78 2.26c1.32.71 1.28.49.37-.08-2.25-1.41-9.5-4.81-15.15-2.18z" fill="url(#Laub_4-5)"/>
+        <path d="M111.34 232.21a55.42 55.42 0 009.57 6.46c4.49 2.15-10.72-8.45-11.43-8.5s1.12 1.43 1.86 2.04z" fill="url(#Laub_11-5)"/>
+        <path d="M105.09 234.07s7-.32 9.15.81-4.92-2.76-9.15-.81z" fill="url(#Laub_2-5)"/>
+        <path d="M120.57 237.25s-7.23-6.95-6.65-9.32 6.65 9.32 6.65 9.32z" fill="url(#Laub_16-9)"/>
+        <path d="M110.89 228.31s4.31 3.55 5.38 5.33-1.43-.33-5.38-5.33z" fill="url(#Laub_16-10)"/>
+        <path d="M121 238.2s-15.61-4.19-16.28 2.53c-.02 0-2.4-9 16.28-2.53z" fill="url(#Laub_15-6)"/>
+        <path d="M107.9 232.32s9.65 2.41 13.08 5.88c1 1 1 .79.38 0-1.61-1.89-7.31-7.03-13.46-5.88z" fill="url(#Laub_4-6)"/>
+        <path d="M115 230.18a48.72 48.72 0 006.82 8.7c3.48 3.23-7.23-10.94-7.88-11.17s.55 1.69 1.06 2.47z" fill="url(#Laub_11-6)"/>
+        <path d="M108.52 230.45s6.65 1.41 8.3 3.06-3.69-3.92-8.3-3.06z" fill="url(#Laub_2-6)"/>
+        <path d="M122 237.4s-4.46-8.59-3.14-10.77S122 237.4 122 237.4z" fill="url(#Laub_16-11)"/>
+        <path d="M115.87 226.25s2.85 4.54 3.26 6.56-1.23-.69-3.26-6.56z" fill="url(#Laub_16-12)"/>
+      </g>
+      <g id="Büschel-4" data-name="Büschel">
+        <path d="M103.46 255.57s-17.8-7.82-19.3-.58c0 .01-1.83-10.38 19.3.58z" fill="url(#Laub_15-7)"/>
+        <path d="M88.79 246.41s11 4.64 14.67 9.16c1.06 1.32 1.13 1.08.44.08-1.68-2.42-7.8-9.24-15.11-9.24z" fill="url(#Laub_4-7)"/>
+        <path d="M97.31 245.52a60.48 60.48 0 007 11c3.73 4.26-7.29-13.51-8-13.9s.5 1.94 1 2.9z" fill="url(#Laub_11-7)"/>
+        <path d="M89.72 244.48s7.61 2.93 9.37 5.08-3.9-5.07-9.37-5.08z" fill="url(#Laub_2-7)"/>
+        <path d="M104.68 254.89s-4.29-10.36-2.51-12.48 2.51 12.48 2.51 12.48z" fill="url(#Laub_16-13)"/>
+        <path d="M98.75 241.38s2.85 5.58 3.12 7.88-1.36-1.01-3.12-7.88z" fill="url(#Laub_16-14)"/>
+        <path d="M104.65 256s-14.6-11.45-18.65-5c0 0 1.91-10.17 18.65 5z" fill="url(#Laub_15-8)"/>
+        <path d="M93.58 244s9.12 6.93 11.07 12c.58 1.5.73 1.29.4.18-.78-2.62-4.33-10.45-11.47-12.18z" fill="url(#Laub_4-8)"/>
+        <path d="M102.21 245.17s.85 7.07 3 11.94-2.33-14.39-2.91-14.92-.24 1.96-.09 2.98z" fill="url(#Laub_11-8)"/>
+        <path d="M95.17 242.43s6.4 4.52 7.35 6.95-2.01-5.67-7.35-6.95z" fill="url(#Laub_2-8)"/>
+        <path d="M106.09 255.69s-.53-10.74 2-12.32-2 12.32-2 12.32z" fill="url(#Laub_16-15)"/>
+        <path d="M105.08 241.61s.81 5.91.26 8.14-.98-1.27-.26-8.14z" fill="url(#Laub_16-16)"/>
+      </g>
+    </g>
+    <g id="Blaue_Pilze" data-name="Blaue Pilze">
+      <path id="Stiel" d="M83.44 186.71s.89 33.67 3 40.24c0 0 5.64 10 12.13 1.4 0 0 5.74-8 5.62-37.75 0 0-1.39-7.39-6.83-.88 0 0-7.59.56-8.73-3.06.01 0-1.8-4.34-5.19.05z" fill="url(#Unbenannter_Verlauf_62)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+      <path id="Stiel-2" data-name="Stiel" d="M57.94 180.83s-4.1 46.68-8.24 53.63-21.89 6.78-23.57-.22-1.57-29.1-1.05-54.93a1.54 1.54 0 002.11.24c1.23-.84 2.11-2.14 3-1.72s.89.11 1.6 1.14 2.63-1.41 2-2.47 1.86-10 5.37-11 5.09 0 5.44 1.95c.26 1.46-1.55 9.31.92 12.41 0 0 1.22 2 6.28-4.89 0 0 2.31-3.09 3.5 1.09s2.64 4.77 2.64 4.77z" fill="url(#Unbenannter_Verlauf_61)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+      <g id="Fäden">
+        <path class="cls-52" d="M13.81 179.73s-3 .17-.65 5.17-1.33 6.55-1.33 6.55M15.91 180.67s2 .39 0 3.15 1 3.77 2.22 1.65 2.1-3.6.3-5.23M22 178.54s-1.89.6-.16 3.48-.94 3.17-.94 3.17-1.51.58.76 2.74-1.29.79-1.55 2.93 1.27 1.25.89 2.73-1 1.71 0 2.64M25.08 179.31s-1.45-.35-.51 2.44a2.79 2.79 0 01-1.57 3.72M42.9 165.73s.48 10-3.23 11.05c-2.67.74 1.19 5.53 1.19 5.53M48.32 179s1.1 2.82-3.54 5.69.65 1 .53 3.94-2.79.91-1.9 3M34 177.3s3.8 1.55.55 4.15-.45 2.74-.45 2.74 2.22 1.3-2.52 2.91c0 0-1.79.62 1.28 2s-3.6 2-2.39 4.4M64.89 185.34s-4.64 3.14 1.21 4.26M69.49 190.38s-.25 1.2-2.46 1.85 2.11.51 1.18 1.84-3.08.24-1.82 1.62 0 2.26 0 2.26"/>
+        <path class="cls-52" d="M71.69 191.58s2.59 1.36-1.78 3 1.55 3.31 1.88 4.5-4.89 1.38-3.67 3.11 3.48 2 3 4 .67 1.62.67 1.62"/>
+        <path class="cls-52" d="M74 191.67s-1.88-.17-.65 2.84-2.81.88-1 2.61 1 2.33 1 2.33M76.52 191.82s2.09 2.17-.09 3.08-.74 2.22-.74 2.22 1.93 1.09-.44 2.33"/>
+        <path class="cls-52" d="M75.4 191.79s-.94-1.1-.43 1.32 2.23.57 2.36 3.32-2.77.79-2.42 1.9M80.82 188.37s2.42 2.42-.24 4.37 2.33-.37.62 2.08-4.15 2-2 3.9"/>
+        <path class="cls-52" d="M79.06 190.76s-.94 4.18 2.23 5.34-.54 2-.54 2M107.35 190.91s2.27 1.19-.45 2.2.39.34.68 1.63-3.35.9-1.65 2.59.93 2.68.93 2.68M111.62 189.71s2.67-.17.89 2.14-1.63.68.26 3.21-1.76 0 0 2.48"/>
+      </g>
+      <path id="Kopf" d="M24.62 178.92c-2.64-1.55-3.4.59-6.82 1.52s-4.31-1.19-4.31-1.19-4.91-6.23-.71-3.09 5.67-3.69 4.22-5.16a14.2 14.2 0 01-1.72-1.94s4-.44 2.1-1.52a6.19 6.19 0 01-2.53-3.68c1.27-5.09-.66-5.94-.66-5.94-7.46-2.6-1.64 10-2.64 11.13s-5.46-2.36-3.49-4.59 1-2.09-.33-5.75S10.6 155 10.6 155s4.66 3.44 3.86.13.93-3.33.93-3.33c7-4.76 1.72-4.82 1.72-4.82S9.36 150.5 7 146.53a7.55 7.55 0 01-.74-7.14c.6-3.32 4.08-1.54 1.79 2.31s7.93 4.9 5.74 1.84A5.28 5.28 0 0113 138s6.35-6.21 2.17-8.69a13 13 0 01-5.39-7.36c-3.18-.77-1.46-2.7-1.46-2.7 2.39-8 3.86-3.85 3.86-3.85-3 4.32 2.14 10.29 2.33 6.56s2.12-4.44 2.12-4.44c5.19-.26 6.25-3.86 6.25-3.86 2.17-8.07-.91-6.59-2.52-5.41a4.31 4.31 0 00-1.24 1.38c-3.64 6.5-5.64 2.74-5.64 2.74s-3.52-4.66-.41-8.94 2.42 10.17 4.26 4.27 6.14-1.16 6.14-1.16c8.53.59 1.54-14.38-.63-8.26s-7.07 1.12-7.07 1.12c-2.94-1.09.51-4.93 1.34-2.54S19.43 98 19.43 98c3.65-2.18-3-4.72-3-4.72 4.43-4.25 4.38-7.55 4.38-7.55-2.13-5.9.76-5.53.76-5.53.24-7 3.45-7.4 3.45-7.4.14-2.93 4.65-10.8 4.65-10.8-2.48-1.78-2.15-3.22-2.15-3.22.38-3.1 4.71-2.15 4.41-2.69s3.66-3.93 3.66-3.93-1.63-2.3 1.3-4 4.32-7.52 4.32-7.52c-.66-6.93 2.23-7.55 2.23-7.55C54.79 23.38 55.36 16.6 55.36 16.6c5.31-15.47 15.93-8.06 19.21-8.35s4.34 8.63 3.4 11.34 4 13.49 4 13.49l-.72 7s2.13 5.9-.4 5.8A2.68 2.68 0 0078 48.23c-1.15 7.36-1.86 8.64-2 9.29s4.39 8.93 4.39 8.93 3.09 9 .91 12.9-.52 4.5-.52 4.5c1.4 4-.68 10-.68 10a11.17 11.17 0 01-1.2 9.94c2.62 5.53-.1 6.57-.1 6.57l-.3 9.13c3 7.88-.62 15.79-.62 15.79 1.55 3.11-1.36 11.34-1.66 11.28s2 8.83 2 8.83-1.92 1.89-2.13 6.14a10.1 10.1 0 01-3.09 6.69c1.62 5.22-.46 5.36-.46 5.36-.69 6.8-8.44 7.54-8.44 7.54-4.32 2.84-8.05-1.32-8.73-4.35s-1.45-4.28-5.19.27-4.77 3.06-4.77 3.06c-3.66-6.18 1.59-13.73-3.41-14.65s-8.14 7.28-7.93 10.57S32 179.2 32 179.2s-1.56-2.49-3.27-.75c-2.69 2.72-3.76.77-3.76.77z" fill="#ebe6e3" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+      <path id="Kopf-2" data-name="Kopf" d="M64.09 181.12s-.59 11.68 14.13 10.63c0 0 8.48-10.62 10.42-5.09s8.54 4.48 13 .85c0 0 2.11 3.67 5.36 3.43s8.6-1.72 8-7.67c0 0 4.66-1.33.9-6.47 0 0 1.34-2.16 2.31-4s4.3-4 .25-7.13c0 0 3.1-3.28.82-5.19 0 0 4.39-2.57-1.32-7 0 0 .26-9.8-1.34-11.25 0 0 5.25 2.16-1.75-9 0 0 2.8.45 1-2.91a22.73 22.73 0 01-2.17-5.3s-.57-1.88-1.63-1.43-3.36-9.85-2.6-11-3-8.77-3-8.77 2.64-8.42-4.85-12c0 0 2-2.31-.55-5.11 0 0 .81-4.31-3.12-4.79a8.41 8.41 0 01-4-5.15s-.93-2.23-3.21.34.21 3.2-4.21 1.23-5.66 5.5-5.66 5.5a34.2 34.2 0 01-.68 10 13.22 13.22 0 01-1.2 9.94s2.16 4.57-.2 6.67l-.2 9a26 26 0 01-.62 15.79 25.11 25.11 0 01-1.56 10.84s-.75.31 1.88 9.27c0 0-1.6 0-2.14 5 0 0 .44 2.55-1.74 5.94L73 168.22s1.09 4.39-.14 5 .25 5.17-8.77 7.9z" fill="#dcdedd" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+      <g id="Flecken" stroke="#606060" stroke-miterlimit="10" stroke-width=".25">
+        <path d="M8.91 168.23s2.84 6.08 2.53 7.09c0 0 2.79 3 4.55 1.27s3-5.24-.7-7.53c0 0 3.07-.05 2.5-1.22a7.19 7.19 0 01-2.93-4s1.82-5.59-1.4-6.16-2.93.61-3.24 1.86 1.29 7.69 1.29 7.69.81 3.5-2.6 1z" fill="url(#Unbenannter_Verlauf_12)"/>
+        <path d="M7 146.53s-1.18 6 .62 10.19c0 0 2.36-2.7 4.49-.75s2.7-.15 2.7-.15-1.36-3.27.62-4 6.4-5.2 1.72-4.82c-.04 0-7.4 2.84-10.15-.47z" fill="url(#Unbenannter_Verlauf_19)"/>
+        <path d="M10.45 123.75s-3.06 11.57-2.64 13.93c0 0 1.64.1.73 2.93s-2 3 .75 4.12 6.44 1.07 4-2 2.62-8.1 2.62-8.1 3.16-3.85-1.07-5.85a15 15 0 01-4.39-5.03z" fill="url(#Unbenannter_Verlauf_19-2)"/>
+        <path d="M11.13 114.31s2.18-.73 1.17-4.25c0 0 1.95 6 5.29 1.32s4-4.59 4-4.59 2.28-.65 2.05 2.65.26 4.88-2.87 6.81-4.67 1-5.57 2.82a8.65 8.65 0 00-.59 4.29s-.61 2.61-3-3a5.83 5.83 0 01.63-5 1.35 1.35 0 00-1.11-1.05z" fill="url(#Neues_Verlaufsfeld_1)"/>
+        <path d="M14.73 103s1.35-2.1.8-3.75c0 0 3.66 2.73 4.91 1.9s1.47-1.14 2.74-4S27 99 27.25 99.84s2.15 4.3-1.45 6.43a3.5 3.5 0 01-2.39.33s-2.11-2.68-4.52-1.48c0 0-.63.07-1.94 3.57s-1.08-3.6-2.22-5.69z" fill="url(#Neues_Verlaufsfeld_1-2)"/>
+        <path d="M16.47 93.29s6.28 1.56 3.56 4.62-3-2.32-4.43-1.64.08-3.27.87-2.98z" fill="url(#Neues_Verlaufsfeld_1-3)"/>
+        <path d="M22 92.68a.69.69 0 01-.67-.94c1.08-3 .72-7.46 3-8.09 2.9-.81 1.44 6.14 1.44 6.14s4.11 2.51 2.88 6.3-1.83-2.47-4.8-3.55c-.61-.21-1.34.12-1.85.14z" fill="url(#Neues_Verlaufsfeld_1-4)"/>
+        <path d="M30.48 83.49a1.28 1.28 0 00-1.8.31c-.59.89-1 2.58.8 5.25 2.95 4.29 2.82 1.61 2.82 1.61s.7-5.4-1.82-7.17z" fill="url(#Neues_Verlaufsfeld_1-5)"/>
+        <path d="M19.26 173.87s-2-3.76-.52-4.38 2.3-1.33 3.93 2.58a5.48 5.48 0 011.68 5.08s-.91-1.3-4.64-.12-.45-3.16-.45-3.16z" fill="url(#Neues_Verlaufsfeld_1-6)"/>
+        <path d="M33 172.71a4.45 4.45 0 00-3-2.4c-.88-.24-1.94-1-2.64-3.1-1.41-4.19-5.6-.1-4.94.75 0 0-.19 1.92 4 4.45 0 0 1.28.26 0 3.9S30 176 30 176s4.88 1 3-3.29z" fill="url(#Neues_Verlaufsfeld_1-7)"/>
+        <path d="M24.58 148.06a2.37 2.37 0 00-1.76 1.94c-.24 1.38-.86 3.35-2.43 3.1-2.38-.37-3.4.8-2.21 5.27s.23 5.93.23 5.93.47 3.61 3.61 1.33-2.58-1.73 3.55-3.4-.25-6-.31-7.31 3.26-7.81-.68-6.86z" fill="url(#Unbenannter_Verlauf_21)"/>
+        <path d="M37.55 145.61s1.65-6.57-3.85-4.27-3.18 7.87-3.18 7.87.21 0-2.21 4.07 4.16 5.55 5.4 4.37 1.34-4.54 4.89-7.14a5.09 5.09 0 00-1.05-4.9z" fill="url(#Unbenannter_Verlauf_21-2)"/>
+        <path d="M42 163.56s-9 4.73-10.77 3.17-7.29-2.43-.46-4.2 7.14-7.37 7.14-7.37 4-5 5 1.89c0 0-.62 1.49 2.7.52s2 7.68 2 7.68.67 5.77 3.73 7.14c0 0-1.76 5.12-4.91 3.71s3.75-10.75-4.43-12.54z" fill="url(#Unbenannter_Verlauf_21-3)"/>
+        <path d="M52.93 142.78a9.37 9.37 0 01-2.93 3c-1.11.74-2.33 2.35-1.45 5.77 1.47 5.69-6.6 4.61-5.16-.47 0 0-4.39-2.59-2.48-4.54a5 5 0 014-5.79s3.44-6.24 6.06-4.52c2.36 1.55 6.18-.52 1.96 6.55z" fill="url(#Unbenannter_Verlauf_19-3)"/>
+        <path d="M53.5 169.93s-6 2.39-3.23-8.6c0 0 2.06-2.55.18-7.43s2.54-5 4-11.62 5.94-6.79 5.94-6.79 3.2.32-1.4 8.54-4.3 9.56.18 7 3.37 4.11 3.37 4.11-1.73 5.78 1.36 6.23-.13 3.12-2.62 4.66.91 3.84-.35 8.92-4.46 1.36-4.09-3.1-.24-17.71-3.34-1.92z" fill="url(#Unbenannter_Verlauf_33)"/>
+        <path d="M66.26 153.68s-6.14 4.34.29 5.86-3.42 8.61-3.42 8.61-1.29.13-.83 6.39.71 6.08 5.16 2.65 4.09-3.69 1.74-7.35c0 0 0-1.3 3.79-1.62 0 0 2.42-2.95 2.45-3.76 0 0-5.32-1-2.88-3.23s3.34 1.63 3.34 1.63.31-4.65 1.44-6.28a6.13 6.13 0 01-3.52-7.22c1.28-5.26.22-4.64-1.41-1.4 0 .04-9.41 1.35-6.15 5.72z" fill="url(#Unbenannter_Verlauf_33-2)"/>
+        <path d="M71.13 122.08s4 10.34 0 14-6.26 1.86-6.26 1.86S59.08 147 62 148.31s2.38-1.82 5.19-2.83 4-.23 4-.23 2.27-3.83 4.19-2.67-.93-7 1.91-12.89c0 0-4.28-6.49-1.34-19.48z" fill="url(#Unbenannter_Verlauf_33-3)"/>
+        <path d="M79.62 127.8a36.3 36.3 0 00-1.13-8.34l.3-9.13s2.66-1.42.1-6.57c0 0 3.6-5.06 1.2-9.94 0 0 2.36-6.74.68-10 0 0-1.73-1 .52-4.5 0 0-1-2.59-2.35 6.67s-4.69 11.19-4.69 11.19-2.47 1.9 2.21 5.58 1.88 6.09 1.88 6.09a10 10 0 00-1.92 6.52 45.8 45.8 0 003.2 12.43z" fill="url(#Unbenannter_Verlauf_34)"/>
+        <path d="M74.52 105.8s-3.47-10.52-7.58-3.1c0 0-.35 8.68-7.34 13.17 0 0-3.52 14.8 5.16 10.19 0 0 5.39-3.57 9.76-20.26z" fill="url(#Unbenannter_Verlauf_34-2)"/>
+        <path d="M61.9 103.26s-4.14-.53-3.8 6.45 5.14.8 5.14.8 4.15-6.03-1.34-7.25z" fill="url(#Unbenannter_Verlauf_34-3)"/>
+        <path d="M61.24 93.41s-5.66 3.52-2.28 7.24c0 0 1.45 1.88 5.28-.05 0 0 3.6 3.47.85-2.92 0 0-.62-6.26-3.85-4.27z" fill="url(#Unbenannter_Verlauf_34-4)"/>
+        <path d="M76.45 81.92l-9.7-4.77s2.25 8.41-2.23 13.52a5 5 0 012.34 4.9c-.31 3.53 5.85 2.12 7.06-2.24s-3.14-9.53 2.53-11.41z" fill="url(#Unbenannter_Verlauf_34-5)"/>
+        <path d="M72.7 58.76s1.78-4-1.4-6.24-3.92-2.84-4.83-1.46-4 2.79-3.42 6.39.32 5.84 3.55 8.52c0 0 .42 5.77-.26 6.53s6.09 6.75 8.61 5.83S84 69.59 72.7 58.76z" fill="url(#Unbenannter_Verlauf_34-6)"/>
+        <path d="M82 43a22.38 22.38 0 01.7 6.09c0 1.75-1.43 6.39-1.4 8.42.11 7.13 1.15 14 .79 18.07a30.66 30.66 0 00-3.75-13s-2.76-3.71-2.34-5.06 1.63-7.43 1.91-8.69.24-2.94 2.93-2.94c-.01 0 1.3.26 1.16-2.89z" fill="url(#Unbenannter_Verlauf_34-7)"/>
+        <path d="M48.45 117.89s-9.92-3.68-4.33 2.43-4.28 14.15-4.28 14.15-3.09 9.12 5.45 2.94c0 0 2.8-5.51 5.47-5.94s4.58 2.93 4.58 2.93.08 1.39 5.71-2.38c0 0 1.06-.75 5 3.14s6.4-4.94 4.13-5.9c0 0 2.55-6.52-1.07-4.33 0 0-6.11 8.88-13.15 2.57a10 10 0 01.09-7.67c1.75-4.1-.55-5.75-7.6-1.94z" fill="url(#Unbenannter_Verlauf_35)"/>
+        <path d="M39.74 119s-2-1.08-1.74-4.17c0 0-2.46-2.75-4.17 4.45 0 0 1.17 1.76-4.62 4.55s2.12 10.74 4.28 10.27 7.61 2.16 8.41-8.73c0 .04 1.33-5.86-2.16-6.37z" fill="url(#Unbenannter_Verlauf_35-2)"/>
+        <path d="M27.77 143.07a7.12 7.12 0 014.79-5.07c4.13-1.42-4.43-2.88-5.19-4.18s-.51-8.87-4.69-8.48c0 0-.94.28-4-4.12s-2.17 4.47-.57 8.59-.64 8.59-.64 8.59-4.5 4.29 0 5.15 3.82 2.22 3.82 2.22.05 2.51 2.85-.9c0 0 .11-1.24 2.08.06s1.55-1.86 1.55-1.86z" fill="url(#Unbenannter_Verlauf_35-3)"/>
+        <path d="M54.92 93.56s-4.7-5.33-5.37-7.12-2.73.43.56 5.42 2.33 6.87 4.2 6.38 2.83-.97.61-4.68z" fill="url(#Unbenannter_Verlauf_35-4)"/>
+        <path d="M54.83 89.63a14.56 14.56 0 00-2.6-3.09c-2.81-2.41-7.62-6-6.32-.69 1.81 7.32 1.74 2.38 4.54 13.05 0 0 .63 1.31 4.12 1.35s1.78 10.48.8 11.45c-3.63 3.64-13.4 2.56-17.22-.56 0 0-2.66-1.69 5.32-9.49 0 0 2.28-5.26-2.2-14.41S49 74.34 49 74.34s11.56-3.66 15.18 7.58-7.31 9.23-7.31 9.23-1.01.05-2.04-1.52z" fill="url(#Unbenannter_Verlauf_35-5)"/>
+        <path d="M31.44 100.49s-6.15 11.76-6.8 13.19-5.78 11.39 1.91 10c0 0 4.4-3.28 8.57-14.42s7.36-9.7 3.88-22.16 9.63-15.57 9.63-15.57 6.66-1.16 12 2.07 5.76-6.25-1.16-10.33c0 0-1 .06-1.86-6.24 0 0-1.58-4.1-5.75-1.44S49.4 52.28 46 53.4s-6 3.7-8.36 2.88-2-4.1-2-4.1S30 54.8 31 55.9s3.35-1.21 2.74 3.58 3.9 4.59 7.31 2.79 13.14 2.16 6.14 4.15S38.13 69 35.33 72s-.53 14.07-.53 14.07.96 6.1-3.36 14.42z" fill="url(#Neues_Verlaufsfeld_1-8)"/>
+        <path d="M30.21 72.09s3.48-3.26 11.34-6.17-5.33-1-5.33-1-3.58.6-4.2-2.51a5 5 0 01-2.35-.41s-4.73 7.61-4.61 10.79c0 0 3.39-.91 2.69 2.76 0 0-1.77 6.89-5.6.86l-.54 3.78a5.62 5.62 0 004.21.6 4.34 4.34 0 013.68.44s4.92 1.07.73-6.44c0 .02-1.31-1.68-.02-2.7z" fill="url(#Neues_Verlaufsfeld_1-9)"/>
+        <path d="M58.94 42.44s-.86 4.33-4.14 3.79a11.69 11.69 0 00-5 0s-3.41 2.16 3.81 3.37c0 0 1.74-1.3 4 4.07s5.25-4.34 5.25-4.34 7.17-11.69.76-13.16c-.01.01-2.69.13-4.68 6.27z" fill="url(#Neues_Verlaufsfeld_1-10)"/>
+        <path d="M78.05 26.92s-1.92-4-2.1 2.7c0 0 2.15 1.59 2.27 5.44s1.76 3.23 1.69 1.28 1.49-3.19-1.86-9.42z" fill="url(#Neues_Verlaufsfeld_1-11)"/>
+        <path d="M69 24.49s.3-4.85-2.59-1.65 1.38 2.9 2.2 7.45 1.85 4.28.54 11 1.65 5.73 3.17 7.6 4.24.55 4-3.17c0 0 4.55-2-.72-11.9S70.62 29 69 24.49z" fill="url(#Neues_Verlaufsfeld_1-12)"/>
+        <path d="M75.62 11s-2.9 1.21-1.51 4.94-3 3-1.78 6.37 2.94 2.94 4.23.56c0 0-.92-4.26-.15-7s.72-5.46-.79-4.87z" fill="url(#Neues_Verlaufsfeld_1-13)"/>
+        <path d="M69.43 13s.91-3.77-2.71-4.08-2.25 6.73-2.25 6.73a2.53 2.53 0 011.36 3.25c-.72 2.45-.42 2.57 1 1.4A3.12 3.12 0 0170 20s.56-2.86 1.67-3.65-.92-1.45-2.24-3.35z" fill="url(#Neues_Verlaufsfeld_1-14)"/>
+        <path d="M56.89 17.7s4.35-6.45 5.53-2.64-3.81 2.58-4.92 5.28-3.48 4.77-4 7.81-5.75 3.36-3-2.2a19.05 19.05 0 004.25-7s.91.35 2.14-1.25z" fill="url(#Neues_Verlaufsfeld_1-15)"/>
+        <path d="M64.53 29.84s-2.62-1.12-1.7-6.86-5.72-4-5 1.36c0 0-1.77 5.46-4.78 6.8s-3.85 5.25-.85 6.49 3.62 4.11 6.52-1.73c0 0 0-1.49 6.44-2.94.01.04 2.66-1.77-.63-3.12z" fill="url(#Neues_Verlaufsfeld_1-16)"/>
+        <path d="M47.43 46.82s-.52-3.34.57-3.82 4-1.31.59-6.37c0 0 2.31-7.95-1.16-6S45 37.12 45 37.12a12.25 12.25 0 01-3.16 5.93c-2.58 2.55-2.66 8.72-2.66 8.72s.59 3.4 3.51-.72 3.57.62 3.57.62 4.28 2.8 1.17-4.85z" fill="url(#Neues_Verlaufsfeld_1-17)"/>
+      </g>
+      <g id="Flecken-2" data-name="Flecken" stroke="#606060" stroke-miterlimit="10" stroke-width=".25">
+        <path d="M113.94 183a2.1 2.1 0 01-1-2.48c.57-1.61-1.5-3-3.18-.61s1.32 3 .32 5.22-1.92 3.59-.49 3 5.14-.56 4.35-5.13z" fill="url(#Unbenannter_Verlauf_33-4)"/>
+        <path d="M117 172.15s-.14-4.35-2.19-1.07-3.36 2.95-2.33 4.82 2.45 5.44 4.52-3.75z" fill="url(#Unbenannter_Verlauf_33-5)"/>
+        <path d="M97 184.35s.47-2.31 3.65-1.52 4.72-5.08 4.72-5.08 5.43-6.18 4.31-1-2.72 4.8-2.64 5.89 1.27 2.45.72 3.67-2.1 2.56-4.15.31-4.14.79-5.55.26-1.06-2.53-1.06-2.53z" fill="url(#Unbenannter_Verlauf_33-6)"/>
+        <path d="M92 172.47s.32-6.69-4.55-2.72 1.32 7.92 1.32 7.92 1.17 2.22-.32 3.69 2.24 6.57 4.15 5.64 3.85-1.66 2.08-7 2-3.52.38-5-3.33-.13-3.06-2.53z" fill="url(#Unbenannter_Verlauf_63)"/>
+        <path d="M74 191.67s1.48-1.8-.85-3.38c0 0-.28-.38.2-1.76s-1.76-3.17-3.78-2.34-.32 2.06 0 3.29-1.16 2.25-1.16 2.25a12.36 12.36 0 005.59 1.94z" fill="url(#Unbenannter_Verlauf_33-7)"/>
+        <path d="M69.69 178.85a3.1 3.1 0 001.31 3.94c2.42 1.34 5.88-2.42 5.16-4.75s-1.27-5.45-3-4.86a1.26 1.26 0 01-.64.4 7.69 7.69 0 01-2.83 5.27z" fill="url(#Unbenannter_Verlauf_33-8)"/>
+        <path d="M82.05 169.09s-2.78-1-2.51-3.79-3-2.24-2.85.63-1.9 3.3-1 4.67 5.15 3.93 4 7.63-4.76 8.26-2.94 9.49 2.68 1.8 4.94-2.69.92-4.28 2.86-6.91-1.47-2.63-1.27-4.07 1.72-3.7-1.23-4.96z" fill="url(#Unbenannter_Verlauf_33-9)"/>
+        <path d="M84.41 153s-1.3 1.79-2 0-3.92-.91-2.86 2.38 3 2.77 3 3.92-2.94 1.41-2.28 2.94.33 3 2 3.88c0 0 .52.1 1.69 2.53s4.34-2.2 4.91-2.55 1-2.18 5.17 2.63 6.65-1.91 3.7-4.22-.48-3.53-.48-3.53 4.5-3-1.07-3.21-1.16 5.14-8.46 1.35a3.18 3.18 0 01-1-2.74c.17-1.73.34-4.29-2.32-3.38z" fill="url(#Unbenannter_Verlauf_64)"/>
+        <path d="M105.86 149.47s-1.47-2.62-3.71-.25-3.44-.43-1.52 4c0 0-1.34 3.61 1.29 3.13s6.66 2.17 3.94-6.88z" fill="url(#Unbenannter_Verlauf_33-10)"/>
+        <path d="M119.21 160.48s-4.25.69-2.92 3.43 2.1 1.76 2.1 1.76 3.21-3.48.82-5.19z" fill="url(#Unbenannter_Verlauf_33-11)"/>
+        <path d="M108.46 153.35a2.11 2.11 0 00-.18 1.08c.12 1.09-.08 3.61-4.06 4.57-5.16 1.24-5.73 4.23-2.78 4.54s5.59-2.57 6.61-2 3.93.88 2.21-4.15 2.26-4 2.22-6.69-.25-9.42-2.14-9.08-3.68-.69-2.49 4.85c1.03 4.75 1.09 5.8.61 6.88z" fill="url(#Unbenannter_Verlauf_33-12)"/>
+        <path d="M110.59 163.64s-1.6 2.27-6 1.51-4.59.75-2.19 4.72c0 0 .53 1.58-4.24 7.11s2.75 5.25 3.67 4.18.12-5.64 3.69-6.7 6.82-3.09 7.4-7.37a28.53 28.53 0 012.12-7.57s.88-1.57-.09-4.52 3-1.54 3-1.54.45-9.94-1.34-11.25-4.66-3.14-2.65 2.72.18 6.83.18 6.83-3.42 1.48-1.56 6.24c-.06 0 1.27 1.24-1.99 5.64z" fill="url(#Unbenannter_Verlauf_33-13)"/>
+        <path d="M100.59 142.66s-3.58 1.09-5.35-1.07-4.09.79-2.39 3.8-2.68 8.46-2.68 8.46-2.85 3.45 2.57 3.34 5.41-5.93 5.41-5.93-1.21-4.4 3.88-4.11 5.48-3 2.65-3.77c0 0 .31-3-2.86-2.1 0 0-.65.08-1.23 1.38z" fill="url(#Unbenannter_Verlauf_33-14)"/>
+        <path d="M107.5 126.43s-.84 2.55 3.46 5.47 0 7.66 0 7.66-3.16 1.25-7.62-2.21a7.07 7.07 0 00-5.45 3.32c-2.18 3.29-7-3.16-.23-5.15 0 0 3-1.71 2.72-4.77s2.17-2 2.66-3.37-.24-3.45 2.25-3.76 2.21 2.81 2.21 2.81z" fill="url(#Unbenannter_Verlauf_65)"/>
+        <path d="M93.41 109.07s-1.06.76 1.25 5.32c0 0 .28 1.19-1.49 3.48s-1.33 5.46 3.52 7.1c0 0 4.4 3 4.29.76s-1.92-3.55.92-4.8 4.12-3.52-.86-5.48c-3.87-1.52-3.36-4-2.94-5a3.94 3.94 0 00.28-1.52c-.02-1.81-.61-4.86-4.97.14z" fill="url(#Unbenannter_Verlauf_66)"/>
+        <path d="M92.65 137.73s-4.1 1.57-1.62 8.61-7.09 6.37-8.31.8 1.64-12.55 1.64-12.55 2.47-3.33 1.68-10.27c0 0-2.73-4.16.1-7.13s.34-3.11 4.06-3.74 1.8 4.29 1.8 4.29a7.65 7.65 0 00.76 8.21c3.11 4.21 8.62 4.25-.11 11.78z" fill="url(#Unbenannter_Verlauf_67)"/>
+        <path d="M79.42 129.61s4-1.74 3.57 3.91-2.56 1.32-3 8.52c0 0 1.25 2.76-.6 6.71s-3.15-2.22-3.15-2.22 3-6.75 1.66-11.28a32.92 32.92 0 001.52-5.64z" fill="url(#Unbenannter_Verlauf_68)"/>
+        <path d="M78.67 114.05s4.64-1.28 6.07.15-2.34 6.2-2 6.92 2.31 4.54 1.57 6.44-4.63 1.07-4.7-.29c0 0-.07-5.18-1.12-7.81 0 0 .21-4.14.18-5.41z" fill="url(#Unbenannter_Verlauf_69)"/>
+        <path d="M79.78 102.13s.6.73 3-1.35 2.57.55 3.2 3.89 2.28 1 3.24 3.5 1.52 2.9-3.15 3.92a17.52 17.52 0 01-7.31.34l.07-2.1s2.81-1.64.1-6.57z" fill="url(#Unbenannter_Verlauf_33-15)"/>
+        <path d="M114.11 126.54s-1.48-.37.86 4-2.82-2.38-3.21-1.72 2.58 5.82 3.85 5.71l-1.14-1.71s1.62.82 2-.59a4.85 4.85 0 00-1.24-3 25.94 25.94 0 01-1.12-2.69z" fill="url(#Unbenannter_Verlauf_33-16)"/>
+        <path d="M106.51 103.35s-3.35-1-2 6.53c0 0 .19.46-.45 2.39s1-.28 2 2.79a34.33 34.33 0 011.56 6.22c.58 3.07 2.9 6.16 3.6 5.54s.49-3.15.49-3.15-1.8-2.76-2.24-8.31c0 0-.48-2.51.1-3.26 0 0-1.24-5.69-3.14-8.26z" fill="url(#Unbenannter_Verlauf_33-17)"/>
+        <path d="M86.24 97.1s-1.44 5.19 3 7.14 6.25-.94 7.38-.47 2.4.09 2.27 3.35 1.34 8.43 2.35 5.34 1.25-5.49-.32-10-8.24.64-8.11-.84-3.71-3.38-3.31-8.82-7.61-.68-4.18 1.75a2.33 2.33 0 01.92 2.55z" fill="url(#Unbenannter_Verlauf_33-18)"/>
+        <path d="M100.29 93a5.88 5.88 0 014.59 6.48c-.47 5.48-2.68 3.17-2.68 3.17s-3.63-4.39-5-4.43-.87-2.7.25-4-1.37-6.69-1.37-6.69-1.93-3.11 2.9-4.25c0 0 2.24-1 2 3.51 0 0 2.49 3 .55 5.11 0-.07-3.44-.33-1.24 1.1z" fill="url(#Unbenannter_Verlauf_33-19)"/>
+        <path d="M92.61 80.52s-5.06-1.49-2 3c0 0 3 2.16 0 5 0 0-1.86-.17.1 3.8s1.1 5.93 2.99 4.68 1.27-2.72-.51-7.61c0 0-.54-1.39 1.75-4.59 0-.04 1.06-4.38-2.33-4.28z" fill="url(#Unbenannter_Verlauf_70)"/>
+        <path d="M84.43 79.79s3.18 2.44 1 6.71a6.24 6.24 0 00-2.37 5.55c.32 3.69-1.24 2.74-1.24 2.74a17.14 17.14 0 00.26 2.58c.28 2 2.09-2.64 2.09-2.64s-1.62-2.37 1.61-4.65S90.45 86 88.4 83.4 87 79.18 86 79.15s-2.34-.15-1.57.64z" fill="url(#Unbenannter_Verlauf_73)"/>
+      </g>
+      <g id="Bläschen">
+        <path class="cls-119" d="M2.51 126.18s-2.89 4.82 1.23 3.23S6 124 2.51 126.18zM6.7 103.42s-1.95 1.06.68 3.11 2.41-4.22-.68-3.11zM4 155.09s-2.77 3.18 1 4 1.83-5.94-1-4zM60.53 184.72s-2.21 3 .44 2.24 1.03-3.81-.44-2.24z"/>
+        <path class="cls-120" d="M29.26 44.66s-2.77 1.09-.82 3.25 3.39-.35 3.39-.35 1.66-3.93-2.57-2.9zM35.57 39.23s-2.23 3.29 1.23 3 1.83-5.77-1.23-3zM45.78 20.68s-2.72 2.69.28 3.55 3.46-5.3-.28-3.55zM81 5.48s-2.81 1-1 3 5.29-2.38 1-3zM82.22 14.29s-3.68 1.38-1.67 3.26 7.06-3.09 1.67-3.26zM86.8 29.47s-4.21 1.53-1.45 4.77 7.99-3.58 1.45-4.77zM92.79.13s-4.51 1.58-1.48 5.29 8.55-3.84 1.48-5.29zM85.55 47.26s-2.39 0-.7 2.65 2.67-2.36.7-2.65zM93.14 48.87s-2.46 2.46 0 3.42 3.79-4.94 0-3.42zM87.52 70.41s1-4.16-2.68-2.42.33 4.08.33 4.08 2.26-.07 2.35-1.66zM106.21 88.16s.59-2.7-1.72-1.61.26 2.67.26 2.67 1.42-.04 1.46-1.06zM100.75 59.67s-5.14 1.09-2.51 5.46S105 64 105 64s1.68-5-4.25-4.33zM99.48 70.64s-4 1.55-.67 4.63 7.7-6.39.67-4.63zM109 68.2s-4.9 1.67-2 5.44 8.11-3.81 2-5.44zM102.1 78.55s-1.64 2.17.56 3.43 2.18-3.27 2.18-3.27-.43-1.93-2.74-.16z"/>
+        <path class="cls-119" d="M13.25 179.87s-1.71 1.26 0 2.33 1.56-2.91 0-2.33z"/>
+        <path class="cls-120" d="M110.06 80s-2.67-.51-2.83 2 3.89.51 3.89.51 1.54-1.21-1.06-2.51zM124.65 95.93s-3.31 3.29-.33 4.61 2.04-5.49.33-4.61zM115.24 98.78s-3.38 3.81 1.89 4.52 2.87-7.65-1.89-4.52zM119 107.06s-2.37.42-.82 1.88 3.24-.73.82-1.88zM131 89.55s-1.29 1.67.91 2.17 3.09-4.33-.91-2.17zM137 92.58s-3.76 2.91 1.09 4.2 1.11-6.29-1.09-4.2zM131.74 100.41s-2.83 2 1 2.45.53-3.94-1-2.45zM125.44 106.94s-3.27 1.29.1 2.62 2.32-3.56-.1-2.62zM113.21 111s-3.3.37-1.92 2.88 4.48-2.8 1.92-2.88zM126 115.9s-1 1.94 1.15 1.37-.28-1.78-1.15-1.37zM121.06 118.88s-6.25 1.61-2.9 4 4.83-2 4.83-2-.06-2.67-1.93-2zM127.66 125.73s-3.21 1.76-1.18 2.9 3.51.93 3.37-1-.74-2.25-2.19-1.9zM113 118s-2.59 1.67-.63 2.59 1.13-2.45.63-2.59zM107.55 105.84s3.21-1.88 3.15.57a1.83 1.83 0 01-2.19 2 16 16 0 00-.96-2.57zM124.6 139.48s-3.84 3.37.43 5.67 2.74-8.55-.43-5.67zM121.44 146.18s-3.94 1.68-.29 3.58 2.01-4.51.29-3.58zM125.88 157.12s-4.23 1.68-.5 4.06 4-5.4.5-4.06zM124.66 174.14s-4.59.92-1.32 4 6.88-3.5 1.32-4zM115.79 188s-3.17 1.25.25 2.12 1.35-3.33-.25-2.12zM90.4 77.41s-.05-2.44-3.05-.87.35 2.39.35 2.39 1.13.64 1.38.57.76-2.2 1.32-2.09zM66.3 46s-2.93-.63-2.09 2.94 6.35-1.66 2.09-2.94zM27.86 73.75s-1.73-2.86-4.76.57 3 6.56 4.12 3.11.64-3.68.64-3.68zM29.25 138.39c-1-.15-2 0-1.89 1.19a2.68 2.68 0 003.47 2.2 1.07 1.07 0 00.76-1.52 2.85 2.85 0 00-2.34-1.87zM19 114.23s-3.53 3.31.61 4.82 1.56-6.85-.61-4.82zM24.65 70.24s1.88-3.86-2.07-2.44 1.09 4.93 2.07 2.44z"/>
+        <path class="cls-119" d="M80.55 148.66s3.57 4.54 4-1.21-5.55-.82-4 1.21z"/>
+      </g>
+    </g>
+    <g id="Boden_Zwischenebene">
+      <g id="Büschel-5" data-name="Büschel">
+        <path d="M33.27 238.65a22.75 22.75 0 01-1.12-6.83v-.2c.21-1.51.21-1.51.61-3.5l.08-.2a6.27 6.27 0 013-3.39s-1.33.64-2.24 3.15l-.12.32c-1.51.38-.24 2.52-.63 3.16a2.29 2.29 0 010 .25 30.46 30.46 0 00.42 7.24z" fill="url(#Laub_14)"/>
+        <path d="M34.16 224.11a29.63 29.63 0 01-1 14.33l.53-.13s2.79-9.2.47-14.2z" fill="url(#Laub_18)"/>
+        <path d="M33.94 238.47s-.13-1.33-.15-3.25v-.86c.19-.39-.16-2.11.12-2.77a.86.86 0 000-.44c-.08-.87-.79-2.41.24-2.7q.15-.34.3-.72v-.21a9.78 9.78 0 012.39-4.74 21.58 21.58 0 00-1.74 5.5v.2c0 .07.07.06 0 .23s-.13.41-.18.62-.77 1.61-.17 1.12c0 .17 0 .34-.07.51s0 .36-.07.54l-.06.55c-.06.61-.64 1.92-.14 1.75v.62c-.06 1.26-.08 2.62 0 4.08z" fill="url(#Laub_16-17)"/>
+        <path d="M33.48 239a27.77 27.77 0 001.52-2.9l.09-.19a8.91 8.91 0 001.46-3.79 1.08 1.08 0 000-.21c.09-.29.17-.58.26-.88l.06-.23c.31-1.64.31-1.64.71-3.63v-.26c0-.42.08-.85.11-1.29 0 0 .28.25.19 1.48v.22c.21 2.25-2.24 2.73-.7 3.32 0 .07 0 .15-.07.23-.11.37-.23.77-.37 1.2 0 .09 0 .18-.08.29-.33 1.13-.92 2.44-1.41 3.81l-.07.18q-.5 1.25-1.11 2.7z" fill="url(#Laub_16-18)"/>
+        <path d="M34.76 238.66s.3-3.68.68-6.84v-.23c-.66-2 1.78-2.43.6-3.66l.06-.2a1.29 1.29 0 01.12-.28c.32-.54.4-.41.39-.13v.3c-1.23.7 0 2.84-.69 4.09a1.57 1.57 0 000 .23z" fill="url(#Laub_16-19)"/>
+      </g>
+      <g id="Büschel-6" data-name="Büschel">
+        <path d="M35.42 238.9a23.71 23.71 0 002.22-3.77s0-.09.07-.14c-.72-1.49 1.28-2.49 1.12-3.35a1.49 1.49 0 000-.21c.12-.88.14-1.19.25-2.85v-.22a5.64 5.64 0 00-2.47-3.93s1.33.89 1.62 3.54v.35c1.3.54.18 1.87-.15 2.74a1.46 1.46 0 00-.07.19c1 1.25-1 2.25-.79 3.3 0 .07 0 .15-.08.22a36.83 36.83 0 01-1.72 4.13z" fill="url(#Laub_14-2)"/>
+        <path d="M38.69 224.35a27.28 27.28 0 00-3.12 14.35l-.56-.22s-.42-9.63 3.68-14.13z" fill="url(#Laub_18-2)"/>
+        <path d="M34.71 238.59s.54-1.29 1.13-3.18c.08-.28.17-.56.25-.85-.09-.43.8-2.07.68-2.77a.84.84 0 01.08-.44c.36-.85 1.62-2.23.53-2.72 0-.24-.09-.5-.13-.77v-.21a8.34 8.34 0 00-1.31-5.15 18.26 18.26 0 01.35 5.78 1.41 1.41 0 010 .2c-.07-.07-.09 0-.09.22v.65c0 .21.39 1.74-.14 1.14 0 .17 0 .34-.08.52s0 .36-.08.54l-.09.56c-.11.62.17 2-.36 1.76 0 .2-.09.41-.14.62-.3 1.25-.67 2.6-1.15 4z" fill="url(#Laub_16-20)"/>
+        <path d="M35.07 239.25a24.22 24.22 0 01-.89-3.21v-.2a7.77 7.77 0 01-.55-4 1.77 1.77 0 010-.22V230.46c.13-1.68.13-1.68.27-3.73v-.26c.07-.43.15-.86.25-1.29 0 0-.39.19-.66 1.42v.22c-.9 2.19 1.73 3.13-.19 3.42a1.77 1.77 0 010 .24c0 .39 0 .8.07 1.25v.27c0 1.18.33 2.59.48 4v.19c.13.89.28 1.85.47 2.89z" fill="url(#Laub_16-21)"/>
+        <path d="M33.73 238.62s.74-3.7 1.24-6.9v-.23c1.33-1.81-1.3-2.74.4-3.73a1.34 1.34 0 000-.21 1 1 0 000-.3c-.21-.6-.34-.48-.41-.21a2.84 2.84 0 00-.06.31c1.18.93-.89 2.8-.42 4.17a2 2 0 000 .23z" fill="url(#Laub_16-22)"/>
+      </g>
+      <g id="Büschel-7" data-name="Büschel">
+        <path d="M39.58 235.33s17.4-.07 15.76 8c0 .04 5.55-9.8-15.76-8z" fill="url(#Laub_15-9)"/>
+        <path d="M55 232.49s-10.71-.17-15.41 2.84c-1.39.88-1.35.61-.39-.11 2.29-1.73 9.9-6 15.8-2.73z" fill="url(#Laub_4-9)"/>
+        <path d="M48.48 227.77s-5.3 5.4-10 8.11 11.18-10.61 11.92-10.67-1.14 1.79-1.92 2.56z" fill="url(#Laub_11-9)"/>
+        <path d="M55 230.1s-7.28-.4-9.54 1 5.13-3.44 9.54-1z" fill="url(#Laub_2-9)"/>
+        <path d="M38.86 234.09s7.53-8.71 6.93-11.69-6.93 11.69-6.93 11.69z" fill="url(#Laub_16-23)"/>
+        <path d="M49 222.88s-4.49 4.45-5.61 6.69 1.44-.42 5.61-6.69z" fill="url(#Laub_16-24)"/>
+        <path d="M38.42 235.28s16.28-5.26 17 3.18c-.01 0 2.47-11.3-17-3.18z" fill="url(#Laub_15-10)"/>
+        <path d="M52.07 227.9s-10.07 3-13.65 7.38c-1.05 1.28-1.09 1-.39 0 1.68-2.37 7.62-8.82 14.04-7.38z" fill="url(#Laub_4-10)"/>
+        <path d="M44.68 225.22s-3.48 6.87-7.11 10.92 7.54-13.73 8.21-14-.59 2.1-1.1 3.08z" fill="url(#Laub_11-10)"/>
+        <path d="M51.42 225.56s-6.93 1.78-8.65 3.84 3.85-4.92 8.65-3.84z" fill="url(#Laub_2-10)"/>
+        <path d="M37.41 234.28s4.65-10.78 3.26-13.52-3.26 13.52-3.26 13.52z" fill="url(#Laub_16-25)"/>
+        <path d="M43.76 220.29s-3 5.7-3.41 8.23 1.29-.86 3.41-8.23z" fill="url(#Laub_16-26)"/>
+      </g>
+    </g>
+    <g id="Eierschwammerl">
+      <g id="Schwammerl_rechts">
+        <path d="M28.45 240.1s1.1-12.26 3.56-16.77c0 0-2.94 1.68-5 .64 0 0-.53 3-3.47 2.94s-3.56-2.57-4.69-2.1a22.6 22.6 0 015.82 8.59c1.81 5.12 2.82 7.35 3.09 7.4s.6.2.69-.7z" fill="url(#Unbenannter_Verlauf_113)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+        <path d="M13.47 222.81s.91-1.25-.88-2.86 1.57-4.26 5.42-3.08 3 0 4.38-.6 2.53-2 5.39-.4c0 0 2.31-2 4.94 1.48 0 0 6.18 1.28 5.82 3s-.67 2.11-6.53 3c0 0-2.81 1.8-5 .64 0 0-1.08 6-8.16.84 0 0-7 4-6.61 1.23s1.23-3.25 1.23-3.25z" fill="url(#Unbenannter_Verlauf_124)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+        <path d="M24.49 218.83s-11.34.84-6 3.66 12.51-1.05 12.26-2.19c0 0-1.98-2.12-6.26-1.47z" fill="url(#Unbenannter_Verlauf_126)"/>
+      </g>
+      <g id="Schwammerl_hinten">
+        <path d="M116.71 227.85a40.14 40.14 0 014.77 7.44s3.73 7.73 5.68 8c0 0-1.69-8.07-.2-8.55a21.09 21.09 0 015.06-6.08c2.58-2-2 1.63-5.78 2.41a3.28 3.28 0 01-3-.9 7.25 7.25 0 00-6.53-2.32z" fill="url(#Unbenannter_Verlauf_164)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+        <path d="M116.64 226.68a18.76 18.76 0 015.14 1.08c1.77.85 2.48 2.58 3.35 2.23s-.2-.42-.61-.56c-.23-.08-1.59-1.51-2.62-2.1s-7.44-1.44-5.26-.65z" fill="url(#Unbenannter_Verlauf_254)"/>
+        <path d="M132.76 228s3-2.15-3.2-3.1c0 0-1 .27-2.47-1.45s-8.75.09-8.75.09-6.22 1.24-4.56 3 2.93 1.28 2.93 1.28a6.12 6.12 0 015.58 1.45c2.9 2.36 2.72 2.37 7.51.43a22.43 22.43 0 002.96-1.7z" fill="url(#Unbenannter_Verlauf_257)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+      </g>
+      <g id="Schwammerl_rechts-2" data-name="Schwammerl_rechts" stroke="#606060" stroke-miterlimit="10" stroke-width=".25">
+        <path d="M105.46 234.12s13.91-10.76 19.1-13.38c0 0-2.22-5.91-6.51-5.07a11.68 11.68 0 01-4.23-3.29c-2-2.41-5.63-2.84-6.78-3.25 0 0 3.6 8.63.92 15.24s-3.68 9.65-3.53 9.92.24.71 1.03-.17z" fill="url(#Unbenannter_Verlauf_264)"/>
+        <path d="M114.52 209.19a8.78 8.78 0 01-5.21-3.46c-1.68-2.73-5.88 3.24-2.46 3.47a10.89 10.89 0 015.6 1.94s3.8 5.07 5.6 4.53 5.08 1.24 7.44 5.92c0 0 2.62.9 3.28-1.37s-3-3.32-3-3.32-1.29-.13-1.84-2.22-3.28-.82-3.75-1.46-1.42-4.29-2.77-4.64-1.93.89-2.89.61z" fill="url(#Unbenannter_Verlauf_261)"/>
+      </g>
+      <g id="Schwammerl_vorne">
+        <path d="M45.74 252.84a77.08 77.08 0 013.9-8s-.81.58-2.88-.47c0 0-.66 2.49-4.1 1.41-2.81-.88-2.88-2.55-4-2.08a13.12 13.12 0 014.51 8c.94 5.38.7 5.15 1.4 5.07.26 0 .24-2.29.93-3.43a2.26 2.26 0 00.24-.5z" fill="url(#Unbenannter_Verlauf_139)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+        <path d="M32.4 238.84c-1.79-1.61 1.16-3.76 5-2.57s3.55.16 4.79-1.11c1.06-1.08 2.81-.84 5.67.73 0 0 1.73 0 4.36 3.51 0 0 3.81 4.31-1.34 5.06a4.55 4.55 0 01-4.13-.08s-1 4.49-8.11-.67c0 0-4.54 1.75-4.11-1s-.34-2.25-2.13-3.87z" fill="url(#Unbenannter_Verlauf_128)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+        <path d="M45 238.85a7.31 7.31 0 00-2.15-.13c-2.06.18-5.85.72-2 2.22a9.78 9.78 0 006.31.57c1.13-.35 1.42-1.57.37-2a17.59 17.59 0 00-2.53-.66z" fill="url(#Unbenannter_Verlauf_140)"/>
+      </g>
+      <g id="Schwammerl_Gruppe">
+        <g id="Schwammerl_vorne-2" data-name="Schwammerl_vorne">
+          <path d="M62.25 235.88a82.78 82.78 0 012-8.83s-.64.7-2.79-.11c0 0-.12 2.67-3.56 2-2.81-.54-3.21-2.27-4.17-1.63A15.18 15.18 0 0159.6 235c2 5.48 1.7 5.27 2.35 5.1.23-.06-.25-2.42.17-3.7a2.37 2.37 0 00.13-.52z" fill="url(#Unbenannter_Verlauf_139-2)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M46.89 223.09c-2-1.44.32-4.08 4.17-3.35s3.36-.3 4.26-1.79c.78-1.27 4.2-1.52 7.2-.27a14.7 14.7 0 014.08-1.08c3.17 0 2.78 3.19 2.87 5.53.08 2-2 3.69-4.11 4.34a3.88 3.88 0 01-3.88.47s0 4.81-7.73.38c0 0-3.9 2.42-4.06-.49s-.79-2.3-2.8-3.74z" fill="url(#Unbenannter_Verlauf_158)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M58.69 221.42a6.42 6.42 0 00-2 .15c-1.89.46-5.34 1.53-1.41 2.57a8.46 8.46 0 006-.24c1-.51 1-1.82 0-2.1a15.74 15.74 0 00-2.59-.38z" fill="url(#Unbenannter_Verlauf_140-2)"/>
+        </g>
+        <g id="Schwammerl_hinten-2" data-name="Schwammerl_hinten">
+          <path d="M73.18 230a55.49 55.49 0 011.33-5.77s-.43.46-1.83-.07c0 0-.07 1.75-2.32 1.31-1.84-.35-2.1-1.48-2.73-1.06a9.88 9.88 0 013.82 5c1.29 3.58 1.12 3.44 1.54 3.33.15 0-.17-1.58.11-2.42a1.37 1.37 0 00.08-.32z" fill="url(#Unbenannter_Verlauf_139-3)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M61.73 222.36c-1.31-.94.06-3.38 2.57-2.91s1.36-1.68 2-2.84c.9-1.49 1.7-2.25 2.55-2.47a5.64 5.64 0 015.87 2.21c.42.56 1.75.68 2.13.67 2.07 0 4.45 1.84 4.51 3.37 0 1.31-4.84 3-6.19 3.41a2.55 2.55 0 01-2.54.31s0 3.14-5.05.25c0 0-3.67 1.32-3.78-.59s-.8-.47-2.07-1.41z" fill="url(#Unbenannter_Verlauf_149)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M72.51 219.24a8.19 8.19 0 00-2.3.35c-2.16.64-6.11 2-1.81 2.78a10.64 10.64 0 006.77-.81c1.16-.61 1.3-2 .13-2.16a19.71 19.71 0 00-2.79-.16z" fill="url(#Unbenannter_Verlauf_140-3)"/>
+        </g>
+        <g id="Schwammerl_vorne-3" data-name="Schwammerl_vorne">
+          <path d="M66.17 237a40.05 40.05 0 012.73-4s-.48.25-1.51-.48c0 0-.55 1.28-2.31.43-1.44-.7-1.34-1.6-2-1.44a7.09 7.09 0 011.79 4.64c.07 3 0 2.82.34 2.84.14 0 .31-1.21.78-1.77a1.46 1.46 0 00.18-.22z" fill="url(#Unbenannter_Verlauf_139-4)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M60.13 228.38c-.83-1 .92-1.93 2.89-1s1.9.38 2.66-.2a4.35 4.35 0 014.38.1 6.3 6.3 0 011.56.22 2.32 2.32 0 011 3.89 4.29 4.29 0 01-3.05 1.47 2.46 2.46 0 01-2.21-.37s-.91 2.33-4.3-1c0 0-2.57.57-2.12-.86s.06-1.24-.81-2.25z" fill="url(#Unbenannter_Verlauf_128-2)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M66.89 229.39a4 4 0 00-1.15-.24c-1.12-.07-3.2-.09-1.24 1a5.32 5.32 0 003.34.81c.63-.09.89-.73.35-1a9.93 9.93 0 00-1.3-.57z" fill="url(#Unbenannter_Verlauf_140-4)"/>
+        </g>
+        <g id="Schwammerl_vorne-4" data-name="Schwammerl_vorne">
+          <path d="M78.39 235a52.69 52.69 0 013.34-4.83s-.59.3-1.84-.58c0 0-.68 1.55-2.82.52-1.75-.85-1.63-1.94-2.41-1.74a8.59 8.59 0 012.16 5.63c.08 3.6-.06 3.43.41 3.45.17 0 .38-1.48 1-2.15a1.61 1.61 0 00.16-.3z" fill="url(#Unbenannter_Verlauf_139-5)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M71.05 224.6c-1-1.22 1.13-2.34 3.53-1.2s2.3.45 3.24-.25a5.29 5.29 0 015.33.11 7.93 7.93 0 011.89.26 2.81 2.81 0 011.26 4.73 5.26 5.26 0 01-3.72 1.75 3 3 0 01-2.69-.44s-1.11 2.82-5.23-1.22c0 0-3.14.7-2.59-1s-.01-1.51-1.02-2.74z" fill="url(#Unbenannter_Verlauf_128-3)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M79.28 225.82a4.91 4.91 0 00-1.4-.29c-1.36-.09-3.89-.1-1.51 1.25a6.5 6.5 0 004.06 1c.78-.11 1.09-.88.44-1.25a12.07 12.07 0 00-1.59-.71z" fill="url(#Unbenannter_Verlauf_140-5)"/>
+        </g>
+        <g id="Schwammerl_hinten-3" data-name="Schwammerl_hinten">
+          <path d="M54.81 207.4a47.67 47.67 0 013.34 9.47 14.22 14.22 0 014.37.81 14.23 14.23 0 013.83-1.07s.83-2.4 4.76-4.16c3.26-1.46-2.5 1.25-6.81 1.06a3.72 3.72 0 01-3-1.8 8.26 8.26 0 00-6.49-4.31z" fill="url(#Unbenannter_Verlauf_164-2)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M55 206.1a20.69 20.69 0 015.28 2.6c1.7 1.41 2.05 3.5 3.07 3.35s-.12-.51-.52-.77c-.23-.15-1.36-2.09-2.32-3s-7.65-3.65-5.51-2.18z" fill="url(#Unbenannter_Verlauf_254-2)"/>
+          <path d="M72.06 212s3.75-1.53-2.71-4.27c0 0-1.11 0-2.31-2.27s-9.44-2.3-9.44-2.3-7-.34-5.64 2 2.85 2.21 2.85 2.21 3.11-.27 5.66 3.12 2.35 3.35 8 2.53a22.75 22.75 0 003.59-1.02z" fill="url(#Unbenannter_Verlauf_257-2)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+        </g>
+      </g>
+      <g id="Schwammerl_Gruppe_klein">
+        <g id="Schwammerl_vorne-5" data-name="Schwammerl_vorne">
+          <path d="M96.2 253.94a34.55 34.55 0 01.5-3.94s-.26.36-1.28.24c0 0 .07 1.14-1.53 1.2-1.31.06-1.58-.63-2-.27a5.72 5.72 0 013 2.67c1.17 2.12 1 2.06 1.32 1.93.11-.05-.23-1-.1-1.59a1 1 0 00.09-.24z" fill="url(#Unbenannter_Verlauf_139-6)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M88.57 250.07c-1-.41 0-1.76 1.75-1.84s1.51-.46 1.85-1.18a3.63 3.63 0 013.23-1.63 5.17 5.17 0 011.21-.44 1.87 1.87 0 012.22 2.41 3.6 3.6 0 01-1.67 2.25 2 2 0 01-1.74.6s.21 2-3.52.93c0 0-1.66 1.42-1.87.2s-.47-.89-1.46-1.3z" fill="url(#Unbenannter_Verlauf_128-4)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M93.88 248.18a3.18 3.18 0 00-.93.27c-.84.38-2.36 1.18-.52 1.23a4.44 4.44 0 002.74-.71c.43-.32.38-.88-.13-.88a6.5 6.5 0 00-1.16.09z" fill="url(#Unbenannter_Verlauf_140-6)"/>
+        </g>
+        <g id="Schwammerl_vorne-6" data-name="Schwammerl_vorne">
+          <path d="M106.27 256.12a38.11 38.11 0 011.94-3.47s-.37.24-1.27-.26c0 0-.36 1.09-1.87.55-1.23-.44-1.22-1.18-1.74-1a5.66 5.66 0 011.82 3.61c.28 2.4.18 2.3.5 2.28.12 0 .16-1 .5-1.51a.72.72 0 00.12-.2z" fill="url(#Unbenannter_Verlauf_139-7)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M100.66 249.68c-.76-.75.61-1.65 2.3-1.06s1.58.14 2.17-.4a3.64 3.64 0 013.6-.3 5 5 0 011.27.08 1.87 1.87 0 011.15 3.07 3.66 3.66 0 01-2.39 1.46 2.06 2.06 0 01-1.84-.11s-.57 2-3.61-.44c0 0-2.07.69-1.81-.52s-.08-1.04-.84-1.78z" fill="url(#Unbenannter_Verlauf_128-5)" stroke="#606060" stroke-miterlimit="10" stroke-width=".25"/>
+          <path d="M106.28 249.91a3.33 3.33 0 00-1-.1c-.92 0-2.63.21-.94.95a4.43 4.43 0 002.81.37c.51-.14.67-.67.21-.87a7.55 7.55 0 00-1.08-.35z" fill="url(#Unbenannter_Verlauf_140-7)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Boden_Vordergrund">
+      <g id="Büschel-8" data-name="Büschel">
+        <path d="M61.94 240.43c-1.24-.06-2.55-1.75-3.72-2l-.29-.15-2.27-1.19 2.37 1 .3.13a12.9 12.9 0 013.76 1.89z" fill="url(#Laub_16-27)"/>
+        <path d="M56.18 234.44s4.51 5.81 5.57 5.68-5.57-5.68-5.57-5.68z" fill="url(#Laub_2-11)"/>
+        <path d="M56.47 232a5.61 5.61 0 001.31 1.14v.16a1.16 1.16 0 00.19.42.27.27 0 00.08.07 1.17 1.17 0 01.58 0h.15c2.08-1.06 0 .72-.27 1.32v.17c2.09-1.21 1 .58 2 .38l.07.14a.31.31 0 010 .2l.14.08.11.06.09.07c-.71.7-.45 1-.08 1.33l.13.12a10.1 10.1 0 01.84 1.82l.06.2c.62.13.62.13-.26.46l-.11-.09c-.4-.37.18-.38-.61-1.57 0-.06-1-.94-1-1 .89-.72.08-.89-.39-1.16l-.08-.05c-.34-.78-.41-.94-.69-.66a.68.68 0 00-.12.12c-.41.17-.85-.39-.61-.5l.1-.11c.66-.74 1.41-1.5.14-.84a1.19 1.19 0 01-.09-.15 1.51 1.51 0 01-.13-.25l-.02-.08a3 3 0 01-.34-.37l-.1-.12c-.25-.27-.69-.83-1-1.28z" fill="url(#Laub_11-11)"/>
+        <path d="M63 239.47c-1.24-.06-2.55-1.75-3.73-1.95l-.28-.15-2.27-1.19 2.37 1 .3.13a12.94 12.94 0 013.76 1.9z" fill="url(#Laub_16-28)"/>
+        <path d="M57.27 233.48s4.51 5.81 5.57 5.68-5.57-5.68-5.57-5.68z" fill="url(#Laub_2-12)"/>
+        <path d="M57.56 231a5.83 5.83 0 001.31 1.15c0 .05 0 .1.05.16a1.11 1.11 0 00.19.41l.07.07a1.35 1.35 0 01.59 0h.15c2.08-1.06 0 .73-.27 1.32v.18c2.09-1.22 1 .57 2 .38a.83.83 0 01.07.13.31.31 0 010 .2l.14.08a.41.41 0 01.11.07l.09.07c-.71.69-.45 1-.08 1.32l.13.12a10.1 10.1 0 01.84 1.82q0 .09.06.21c.61.12.61.12-.26.46l-.11-.1c-.4-.37.18-.38-.62-1.57 0-.06-1-.94-1-1 .89-.73.07-.9-.39-1.16l-.08-.06c-.34-.78-.41-.94-.69-.66a.68.68 0 00-.12.12c-.41.18-.85-.39-.61-.49l.1-.12c.66-.74 1.41-1.5.13-.83l-.08-.16a1 1 0 01-.13-.25l-.09-.08a3.92 3.92 0 01-.34-.37l-.1-.12c-.25-.27-.69-.84-1.05-1.29z" fill="url(#Laub_11-12)"/>
+        <path d="M61 241.35c-1.23-.06-2.55-1.76-3.72-2l-.29-.15-2.27-1.19 2.37 1 .31.12a13 13 0 013.75 1.9z" fill="url(#Laub_16-29)"/>
+        <path d="M55.27 235.35s4.51 5.81 5.57 5.69-5.57-5.69-5.57-5.69z" fill="url(#Laub_2-13)"/>
+        <path d="M55.57 232.91a5 5 0 001.31 1.15v.16a1.48 1.48 0 00.19.42l.08.07a1.32 1.32 0 01.58 0l.15.05c2.08-1.06 0 .72-.27 1.32v.17c2.09-1.22 1 .57 2 .38l.06.13a.34.34 0 010 .21l.14.07.11.07a.31.31 0 01.09.07c-.71.69-.45 1-.08 1.33l.13.11a10.45 10.45 0 01.94 1.78l.06.21c.62.12.62.12-.26.46l-.1-.1c-.41-.37.17-.38-.62-1.56 0-.06-1-.95-1-1 .89-.72.08-.89-.39-1.16l-.08-.05c-.34-.79-.41-.94-.69-.67l-.12.13c-.41.17-.84-.39-.61-.5l.1-.11c.66-.74 1.41-1.5.14-.84l-.09-.15a2.08 2.08 0 01-.13-.26l-.09-.08a4 4 0 01-.34-.37l-.1-.12c-.25-.27-.69-.83-1.05-1.28z" fill="url(#Laub_11-13)"/>
+        <path d="M59.94 240.35c-1.33-.17-2.87-2.16-4.14-2.48l-.32-.2-2.48-1.51 2.61 1.28.34.17a16.64 16.64 0 014.12 2.39z" fill="url(#Laub_16-30)"/>
+        <path d="M53.29 233.21s5.3 6.83 6.42 6.78-6.42-6.78-6.42-6.78z" fill="url(#Laub_2-14)"/>
+        <path d="M53.39 230.53a7.61 7.61 0 001.5 1.38l.06.18a1.54 1.54 0 00.24.48l.08.08a1.4 1.4 0 01.62 0 .49.49 0 01.17.06c2.13-1 .06.8-.18 1.44v.19c2.12-1.17 1.06.72 2.18.6l.08.15a.47.47 0 010 .23l.15.1a.57.57 0 01.13.08l.1.08c-.7.71-.39 1.09 0 1.47a1.85 1.85 0 00.14.14 13.62 13.62 0 011 2.09 1.55 1.55 0 01.08.23c.67.19.67.19-.23.49l-.12-.11c-.47-.45.15-.41-.8-1.79 0-.07-1.13-1.14-1.15-1.2.88-.72 0-1-.52-1.32l-.09-.06c-.43-.9-.52-1.08-.79-.8l-.12.13c-.42.16-.93-.51-.69-.6l.1-.12c.63-.77 1.38-1.54.07-.92 0-.06-.07-.12-.11-.17a2.78 2.78 0 01-.15-.3l-.1-.1a3.38 3.38 0 01-.4-.44l-.12-.14c-.29-.32-.8-1-1.23-1.51z" fill="url(#Laub_11-14)"/>
+        <path d="M62.32 240.89c-1.13-.49-2-2.95-3-3.58l-.23-.28-1.83-2.18 2 2 .25.25a15.14 15.14 0 013 3.52z" fill="url(#Laub_16-31)"/>
+        <path d="M58.37 231.83s2.84 8.42 3.85 8.62-3.85-8.62-3.85-8.62z" fill="url(#Laub_2-15)"/>
+        <path d="M59.2 229a7.06 7.06 0 00.95 1.81v.2a2.22 2.22 0 00.08.56l.06.11a1.15 1.15 0 01.55.16.58.58 0 01.12.1c2.18-.55-.16.86-.55 1.48-.06.08-.07.16 0 .2 2.22-.73.75 1 1.78 1.14v.18a.46.46 0 010 .25 1.34 1.34 0 01.11.14l.09.11a.67.67 0 01.06.12c-.81.58-.64 1-.37 1.55l.09.18a16.1 16.1 0 01.36 2.43v.27c.54.36.54.36-.35.46l-.07-.15c-.29-.58.25-.39-.22-2.06 0-.09-.7-1.46-.7-1.53 1-.56.28-1-.1-1.51l-.06-.09c-.13-1-.16-1.25-.49-1l-.13.11c-.42.07-.69-.75-.45-.8l.12-.1c.77-.65 1.65-1.3.31-.94v-.21c0-.06-.05-.26-.06-.35l-.06-.13a4.1 4.1 0 01-.24-.56l-.06-.17c-.17-.4-.45-1.22-.68-1.88z" fill="url(#Laub_11-15)"/>
+      </g>
+      <g id="Büschel-9" data-name="Büschel">
+        <path d="M74.33 249c-1.1-.56-1.6-2.64-2.59-3.31l-.2-.25-1.58-2 1.76 1.86.23.24a13.22 13.22 0 012.64 3.27z" fill="url(#Laub_16-32)"/>
+        <path d="M71.55 241.12s1.72 7.15 2.74 7.47-2.74-7.47-2.74-7.47z" fill="url(#Laub_2-16)"/>
+        <path d="M72.82 239a5.43 5.43 0 00.72 1.58v.17a1.18 1.18 0 000 .46.36.36 0 000 .09 1.22 1.22 0 01.54.21.63.63 0 01.12.1c2.34-.11-.3.66-.79 1.09-.07.07-.1.12-.06.16 2.41-.25.63.92 1.68 1.18a.75.75 0 010 .15.34.34 0 010 .2l.1.12.07.11v.1c-.93.34-.82.74-.62 1.18a.77.77 0 01.07.16 10.43 10.43 0 010 2v.21c.51.37.51.37-.43.32a.69.69 0 000-.13c-.22-.51.31-.28.08-1.69 0-.06-.52-1.27-.51-1.32 1.11-.29.44-.78.12-1.22l-.05-.08c0-.85 0-1-.36-.89l-.15.06c-.45 0-.61-.7-.35-.7l.13-.06c.9-.41 1.91-.79.47-.71v-.17a1.48 1.48 0 010-.29v-.11c-.06-.15-.11-.31-.16-.48a.83.83 0 000-.15c-.11-.35-.28-1-.43-1.6z" fill="url(#Laub_11-16)"/>
+        <path d="M75.72 248.53c-1.1-.56-1.61-2.65-2.6-3.31l-.2-.26-1.58-2 1.77 1.87.22.23a13.06 13.06 0 012.67 3.26z" fill="url(#Laub_16-33)"/>
+        <path d="M72.93 240.7s1.72 7.15 2.74 7.47-2.74-7.47-2.74-7.47z" fill="url(#Laub_2-17)"/>
+        <path d="M74.2 238.59a6 6 0 00.73 1.59v.16a1.17 1.17 0 000 .46.32.32 0 000 .09 1.47 1.47 0 01.55.21l.12.11c2.33-.11-.3.65-.79 1.09-.08.06-.1.11-.06.16 2.41-.25.63.91 1.68 1.18v.14a.34.34 0 010 .2l.09.13.08.1v.1c-.93.34-.83.74-.62 1.18l.07.16a10.45 10.45 0 010 2v.22c.51.36.51.36-.43.31l-.06-.13c-.21-.51.32-.28.08-1.68 0-.07-.51-1.27-.5-1.33 1.1-.29.43-.78.12-1.22l-.05-.07c0-.86 0-1-.36-.9l-.16.07c-.44 0-.61-.7-.35-.7l.14-.06c.9-.41 1.9-.79.47-.71a1.1 1.1 0 010-.18 1.4 1.4 0 010-.28 1.17 1.17 0 000-.11 4.5 4.5 0 01-.16-.48v-.15c-.12-.35-.28-1.05-.43-1.61z" fill="url(#Laub_11-17)"/>
+        <path d="M73.13 249.42c-1.11-.57-1.61-2.65-2.6-3.32l-.2-.25-1.58-2 1.77 1.86.22.24a13 13 0 012.64 3.27z" fill="url(#Laub_16-34)"/>
+        <path d="M70.34 241.58s1.72 7.15 2.74 7.47-2.74-7.47-2.74-7.47z" fill="url(#Laub_2-18)"/>
+        <path d="M71.61 239.48a5.43 5.43 0 00.72 1.58 1 1 0 010 .17 1.42 1.42 0 000 .46v.09a1.32 1.32 0 01.55.21l.12.1c2.33-.11-.3.66-.8 1.09-.07.07-.09.12 0 .17 2.4-.25.63.91 1.68 1.17v.15a.28.28 0 01-.06.2 1.13 1.13 0 01.1.13.61.61 0 01.07.1.53.53 0 01.06.1c-.93.34-.83.74-.62 1.18 0 .05 0 .1.07.16a10.43 10.43 0 010 2v.21c.51.37.51.37-.43.32l-.06-.13c-.21-.51.32-.28.08-1.68 0-.07-.51-1.27-.5-1.33 1.1-.29.43-.78.11-1.22v-.08c0-.85 0-1-.36-.89l-.16.07c-.44 0-.61-.71-.35-.71l.14-.06c.9-.4 1.9-.78.46-.71v-.17a.91.91 0 010-.28v-.12a3.38 3.38 0 01-.16-.48.83.83 0 010-.15c-.12-.34-.29-1-.43-1.6z" fill="url(#Laub_11-18)"/>
+        <path d="M72.54 248.06c-1.14-.7-1.73-3.15-2.75-4l-.22-.31-1.67-2.41 1.86 2.24.23.29a16.82 16.82 0 012.8 3.92z" fill="url(#Laub_16-35)"/>
+        <path d="M69.41 238.81s2 8.41 3.07 8.82-3.07-8.82-3.07-8.82z" fill="url(#Laub_2-19)"/>
+        <path d="M70.61 236.41a7.83 7.83 0 00.79 1.88v.19a1.53 1.53 0 000 .53.36.36 0 000 .11 1.39 1.39 0 01.56.27l.13.12c2.35 0-.28.76-.76 1.25-.07.06-.1.13 0 .18 2.42-.19.67 1.09 1.74 1.44v.17a.41.41 0 010 .23l.1.15.08.13.06.12c-.93.36-.8.83-.58 1.35 0 .06 0 .12.08.19a15.81 15.81 0 01.1 2.33v.25c.53.45.53.45-.41.35 0-.05-.05-.1-.07-.16-.23-.6.31-.31 0-2 0-.07-.57-1.5-.57-1.56 1.11-.3.41-.89.07-1.42a.41.41 0 000-.09c0-1 0-1.2-.4-1.05l-.15.06c-.45 0-.65-.84-.38-.83l.13-.06c.9-.44 1.89-.85.45-.81v-.21a2 2 0 010-.33.69.69 0 01-.05-.13c-.07-.18-.13-.37-.19-.57s0-.11 0-.17c-.13-.41-.33-1.23-.5-1.89z" fill="url(#Laub_11-19)"/>
+        <path d="M74.49 249.53c-.83-.91-.57-3.49-1.26-4.5l-.1-.35-.77-2.74 1 2.6.13.33a14.91 14.91 0 011.32 4.46z" fill="url(#Laub_16-36)"/>
+        <path d="M74.61 239.64s-.87 8.84 0 9.45 0-9.45 0-9.45z" fill="url(#Laub_2-20)"/>
+        <path d="M76.52 237.44a7.86 7.86 0 00.12 2c0 .06 0 .13-.08.19a1.75 1.75 0 00-.15.55.2.2 0 000 .11 1.06 1.06 0 01.43.37.55.55 0 01.08.15c2.21.39-.51.71-1.11 1.12-.09 0-.14.11-.11.17 2.32.25.27 1.22 1.15 1.77a.84.84 0 010 .17.45.45 0 01-.12.23V244.58a.57.57 0 010 .13c-1 .19-1 .69-1 1.26a1.27 1.27 0 010 .2 15.57 15.57 0 01-.67 2.37c0 .08-.07.16-.11.25.35.55.35.55-.5.27a.92.92 0 000-.16c0-.65.39-.26.66-2v-1.68c1.13-.1.67-.83.53-1.42a.36.36 0 010-.1c.31-1 .37-1.21 0-1.14h-.16c-.41-.11-.33-1-.08-.9h.14c1-.28 2-.5.68-.73a1.55 1.55 0 000-.21c0-.13.06-.25.09-.34v-.14-.61-.18c0-.44.1-1.3.15-2 .07.03.06.01.06-.01z" fill="url(#Laub_11-20)"/>
+      </g>
+      <g id="Büschel-10" data-name="Büschel">
+        <path d="M75.17 237.8c-.41-.3-.47-1.2-.83-1.54l-.07-.12-.5-.93.59.88.08.11a5.41 5.41 0 01.85 1.52z" fill="url(#Laub_16-37)"/>
+        <path d="M74.58 234.35s.2 3.1.6 3.29-.6-3.29-.6-3.29z" fill="url(#Laub_2-21)"/>
+        <path d="M75.25 233.53a2.32 2.32 0 00.18.71v.06a.75.75 0 000 .2.53.53 0 01.21.12.1.1 0 010 .05c1 .07-.17.26-.4.41v.07c1 0 .2.42.61.58v.07a.2.2 0 010 .08v.06c-.4.09-.39.27-.33.46v.07a4.63 4.63 0 01-.13.85v.09c.18.18.18.18-.2.1 0-.23.15-.1.15-.71 0 0-.12-.56-.11-.58.47-.07.23-.31.13-.51.06-.36.08-.43-.09-.39h-.07c-.18 0-.2-.33-.09-.32h.06c.4-.13.84-.23.24-.28v-.07-.38a.17.17 0 000-.07c0-.15 0-.45-.06-.7z" fill="url(#Laub_11-21)"/>
+        <path d="M75.77 237.69c-.41-.29-.47-1.2-.83-1.53l-.07-.12-.5-.94.63.9.08.12a5.28 5.28 0 01.85 1.52z" fill="url(#Laub_16-38)"/>
+        <path d="M75.18 234.24s.2 3.11.6 3.3-.6-3.3-.6-3.3z" fill="url(#Laub_2-22)"/>
+        <path d="M75.85 233.42a2.32 2.32 0 00.18.71v.07a.47.47 0 000 .19.53.53 0 01.21.12c1 .08-.17.26-.4.42v.06c1 0 .2.42.61.59v.2c-.4.1-.39.27-.34.47v.07a4.55 4.55 0 01-.13.84v.09c.18.18.18.18-.2.11v-.06c0-.22.15-.1.15-.7 0 0-.12-.56-.11-.59.47-.06.23-.3.13-.5.06-.36.07-.43-.09-.39h-.07c-.18 0-.2-.33-.09-.31h.06c.4-.12.84-.23.24-.27a.22.22 0 010-.08.45.45 0 010-.12v-.26-.06c0-.06 0-.46-.06-.7z" fill="url(#Laub_11-22)"/>
+        <path d="M74.64 237.93c-.41-.3-.47-1.21-.83-1.54l-.06-.12-.51-.93.59.88.08.11a5.05 5.05 0 01.85 1.52z" fill="url(#Laub_16-39)"/>
+        <path d="M74.05 234.48s.2 3.1.6 3.29-.6-3.29-.6-3.29z" fill="url(#Laub_2-23)"/>
+        <path d="M74.72 233.66a2.13 2.13 0 00.19.71v.06a.51.51 0 000 .2.53.53 0 01.21.12.1.1 0 010 .05c1 .07-.16.26-.4.41v.07c1 0 .19.42.6.58a.15.15 0 010 .07.19.19 0 010 .08v.06c-.4.09-.38.27-.33.46v.07a4.85 4.85 0 01-.14.85v.09c.19.18.19.18-.19.1v-.05c0-.23.15-.1.15-.71 0 0-.12-.56-.11-.58.48-.07.23-.31.14-.51.07-.36.08-.43-.08-.39h-.07c-.18 0-.2-.33-.1-.32h.06c.4-.12.84-.22.25-.27v-.07a.37.37 0 010-.12v-.05a1.55 1.55 0 010-.21v-.07c0-.15 0-.45-.07-.7z" fill="url(#Laub_11-23)"/>
+        <path d="M74.5 237.32c-.42-.35-.49-1.42-.85-1.82l-.07-.14-.51-1.1.6 1 .08.13a7.25 7.25 0 01.87 1.81z" fill="url(#Laub_16-40)"/>
+        <path d="M73.87 233.26s.23 3.65.63 3.88-.63-3.88-.63-3.88z" fill="url(#Laub_2-24)"/>
+        <path d="M74.53 232.31a2.89 2.89 0 00.19.84v.08a.58.58 0 000 .22.43.43 0 000 .05.7.7 0 01.21.14v.06c1 .11-.16.31-.39.48 0 0-.05.06 0 .08 1 .05.2.49.62.7a.2.2 0 000 .07.19.19 0 010 .1v.18c-.4.1-.39.3-.33.53v.09a6.23 6.23 0 01-.13 1 .44.44 0 010 .1c.18.22.18.22-.2.12v-.07c-.06-.26.14-.11.14-.82 0 0-.13-.66-.12-.69.47-.06.23-.35.13-.59.06-.42.08-.51-.09-.47h-.07c-.18 0-.2-.39-.09-.37h.06c.4-.14.83-.25.24-.32v-.08a.46.46 0 010-.14v-.31-.08c0-.18 0-.53-.07-.82z" fill="url(#Laub_11-24)"/>
+        <path d="M75.19 238.05c-.27-.43 0-1.5-.2-2v-.15l-.13-1.19.23 1.15v.14a6.82 6.82 0 01.23 1.95z" fill="url(#Laub_16-41)"/>
+        <path d="M75.94 233.89s-1 3.68-.68 4 .68-4 .68-4z" fill="url(#Laub_2-25)"/>
+        <path d="M76.88 233.06a3.36 3.36 0 00-.09.87l-.05.07a.61.61 0 00-.1.22.11.11 0 000 .05.4.4 0 01.15.18.19.19 0 010 .07c.88.28-.25.27-.53.41 0 0-.06 0-.06.07.94.22 0 .53.35.8v.07a.17.17 0 01-.07.09v.19c-.42 0-.47.24-.49.48a.28.28 0 000 .09 8.7 8.7 0 01-.45 1l-.06.1c.11.25.11.25-.22.08a.2.2 0 010-.07c0-.27.17-.08.4-.79 0 0 .1-.68.12-.71.47 0 .33-.31.32-.57.19-.41.23-.49.06-.48h-.07c-.16-.07-.06-.43 0-.39h.07c.42-.06.87-.1.33-.27v-.09l.06-.14v-.06-.25a.24.24 0 010-.08c0-.18.13-.54.2-.83z" fill="url(#Laub_11-25)"/>
+      </g>
+      <g id="Büschel-11" data-name="Büschel">
+        <path d="M64 240.2c-.69-.44-.85-1.76-1.46-2.26l-.11-.17-.89-1.37 1 1.29.13.16a8.18 8.18 0 011.49 2.24z" fill="url(#Laub_16-42)"/>
+        <path d="M62.85 235.14s.53 4.55 1.19 4.83-1.19-4.83-1.19-4.83z" fill="url(#Laub_2-26)"/>
+        <path d="M63.9 233.94a3.51 3.51 0 00.34 1v.1a.73.73 0 000 .28v.06a1 1 0 01.35.18l.07.07c1.59.12-.26.38-.63.61 0 0-.07.06 0 .09 1.65 0 .34.62 1 .86v.1a.17.17 0 01-.06.11l.06.09a.43.43 0 000 .07.19.19 0 010 .07c-.65.13-.62.39-.52.68a.3.3 0 010 .1 6.18 6.18 0 01-.17 1.24.93.93 0 010 .13c.32.26.32.26-.31.16v-.09c-.1-.33.24-.14.2-1 0 0-.23-.83-.22-.86.77-.09.36-.45.19-.74v-.06c.08-.52.1-.63-.16-.57h-.12c-.29 0-.35-.48-.17-.46h.1c.64-.17 1.35-.33.38-.4v-.11a.79.79 0 010-.17.25.25 0 010-.07 1.73 1.73 0 01-.07-.31.38.38 0 010-.1c0-.22-.1-.67-.16-1z" fill="url(#Laub_11-26)"/>
+        <path d="M65 240.05c-.7-.44-.85-1.77-1.46-2.26l-.12-.17-.89-1.37 1 1.29.13.16a7.85 7.85 0 011.5 2.24z" fill="url(#Laub_16-43)"/>
+        <path d="M63.83 235s.53 4.55 1.19 4.83-1.19-4.83-1.19-4.83z" fill="url(#Laub_2-27)"/>
+        <path d="M64.87 233.79a3.32 3.32 0 00.35 1v.1a.73.73 0 000 .28.14.14 0 000 .06.88.88 0 01.35.17l.07.08c1.59.12-.26.38-.63.61q-.09 0-.06.09c1.65 0 .35.62 1 .86a.31.31 0 010 .1.16.16 0 010 .11.41.41 0 010 .09.25.25 0 010 .07v.07c-.66.13-.62.39-.52.68v.1a6 6 0 01-.16 1.24v.13c.31.26.31.26-.32.15v-.08c-.1-.33.24-.15.21-1 0 0-.24-.83-.23-.86.78-.09.37-.45.19-.74v-.06c.09-.52.1-.63-.16-.58h-.11c-.3 0-.35-.48-.17-.46h.09c.65-.18 1.36-.33.38-.4v-.11a.72.72 0 010-.17v-.08a2.38 2.38 0 01-.07-.31v-.09c-.05-.22-.1-.67-.15-1z" fill="url(#Laub_11-27)"/>
+        <path d="M63.19 240.39c-.7-.44-.85-1.77-1.46-2.26l-.12-.17-.88-1.38 1 1.3.13.16a7.85 7.85 0 011.5 2.24z" fill="url(#Laub_16-44)"/>
+        <path d="M62 235.32s.53 4.56 1.19 4.84-1.19-4.84-1.19-4.84z" fill="url(#Laub_2-28)"/>
+        <path d="M63 234.13a3.32 3.32 0 00.35 1v.1a.7.7 0 000 .28.14.14 0 000 .06.88.88 0 01.35.17l.07.08c1.59.12-.26.38-.63.61q-.09 0-.06.09c1.65 0 .35.62 1 .86a.64.64 0 010 .09v.12a.41.41 0 010 .09.25.25 0 010 .07v.06c-.66.14-.62.4-.52.68v.11a5.93 5.93 0 01-.16 1.23v.13c.31.27.31.27-.32.16a.19.19 0 010-.08c-.1-.33.23-.15.2-1 0 0-.24-.83-.23-.86.78-.09.37-.45.19-.75v-.05c.09-.53.1-.63-.16-.58h-.11c-.3 0-.35-.48-.17-.46h.09c.65-.18 1.36-.33.38-.4v-.11-.17a.24.24 0 000-.08 2.82 2.82 0 01-.07-.31v-.09c-.05-.23-.1-.67-.15-1z" fill="url(#Laub_11-28)"/>
+        <path d="M62.91 239.5c-.71-.52-.89-2.08-1.51-2.67l-.12-.21-.91-1.62 1.05 1.53.14.2a10.36 10.36 0 011.54 2.64z" fill="url(#Laub_16-45)"/>
+        <path d="M61.61 233.54s.63 5.35 1.3 5.69-1.3-5.69-1.3-5.69z" fill="url(#Laub_2-29)"/>
+        <path d="M62.64 232.15a3.89 3.89 0 00.37 1.23v.11a1 1 0 000 .34.64.64 0 010 .07.84.84 0 01.36.21.27.27 0 01.07.08c1.59.17-.25.45-.62.71-.05 0-.07.07-.05.11 1.65.07.36.73 1.05 1v.1a.27.27 0 010 .14.93.93 0 010 .1l.05.09a.19.19 0 010 .08c-.65.14-.61.44-.5.78v.13a8.55 8.55 0 01-.14 1.44 1.24 1.24 0 010 .16c.32.32.32.32-.31.18v-.1c-.11-.39.24-.17.18-1.21 0-.05-.25-1-.24-1 .77-.1.36-.52.17-.87a.14.14 0 010-.06c.07-.62.08-.74-.18-.69h-.11c-.3-.05-.36-.57-.18-.54h.09c.65-.2 1.35-.37.37-.46v-.13a1.25 1.25 0 010-.21.31.31 0 010-.08 2.21 2.21 0 01-.08-.37v-.11c-.06-.26-.12-.78-.17-1.21a.05.05 0 01-.13-.02z" fill="url(#Laub_11-29)"/>
+        <path d="M64.1 240.56c-.48-.63-.08-2.2-.46-2.87v-.23l-.28-1.75.44 1.69.06.21a8.75 8.75 0 01.5 2.86z" fill="url(#Laub_16-46)"/>
+        <path d="M65.05 234.47s-1.37 5.39-.86 5.83.86-5.83.86-5.83z" fill="url(#Laub_2-30)"/>
+        <path d="M66.54 233.26a4.18 4.18 0 00-.1 1.27l-.07.11a1 1 0 00-.15.32.22.22 0 000 .08.65.65 0 01.26.26.42.42 0 010 .1c1.45.42-.41.4-.85.6-.07 0-.1.06-.09.1 1.54.33.07.77.62 1.18v.1a.24.24 0 01-.1.13v.2a.19.19 0 010 .08c-.68 0-.75.35-.77.7v.13a10.29 10.29 0 01-.66 1.41l-.1.14c.19.37.19.37-.36.13a.34.34 0 010-.1c0-.41.28-.13.61-1.17 0 0 .12-1 .14-1 .78 0 .53-.45.49-.83a.13.13 0 000-.06c.3-.6.36-.72.09-.71h-.12c-.27-.1-.13-.63 0-.57h.1c.69-.09 1.42-.14.52-.39v-.13a1.29 1.29 0 01.09-.2v-.09a2.38 2.38 0 01.06-.37v-.11c0-.27.18-.8.28-1.22z" fill="url(#Laub_11-30)"/>
+      </g>
+      <g id="Büschel-12" data-name="Büschel">
+        <path d="M88.71 235c-1.18-.52-2-3.22-3.09-3.91l-.24-.3-1.88-2.38 2 2.13.26.27a15.59 15.59 0 013.13 3.85z" fill="url(#Laub_16-47)"/>
+        <path d="M84.71 225s2.84 9.3 3.9 9.5-3.9-9.5-3.9-9.5z" fill="url(#Laub_2-31)"/>
+        <path d="M85.63 221.88a8.85 8.85 0 001 2 1.77 1.77 0 010 .23 2.3 2.3 0 00.07.62l.06.12a1 1 0 01.57.16.74.74 0 01.13.12c2.29-.67-.19.95-.61 1.64 0 .1-.07.18 0 .24 2.34-.87.77 1.09 1.85 1.22v.2a.57.57 0 010 .28l.12.15.09.12a.83.83 0 01.07.13 1.16 1.16 0 00-.42 1.73l.09.2a20.26 20.26 0 01.34 2.7v.3c.56.38.56.38-.37.51 0-.05 0-.1-.08-.16-.29-.64.27-.44-.19-2.29 0-.09-.71-1.61-.71-1.68 1-.64.31-1.16-.08-1.68l-.06-.09c-.12-1.16-.15-1.39-.49-1.13l-.15.12c-.44.09-.71-.82-.45-.87l.12-.11c.83-.75 1.75-1.49.35-1.06v-.24a2 2 0 010-.38c0-.05 0-.09-.07-.14s-.16-.4-.23-.61a1.59 1.59 0 01-.07-.2c-.17-.44-.44-1.35-.68-2.07z" fill="url(#Laub_11-31)"/>
+        <path d="M90 234.1c-1.17-.52-2-3.22-3.09-3.91l-.24-.3-1.88-2.38 2 2.13.26.27a15.59 15.59 0 013.13 3.85z" fill="url(#Laub_16-48)"/>
+        <path d="M86 224.12s2.84 9.3 3.9 9.5-3.9-9.5-3.9-9.5z" fill="url(#Laub_2-32)"/>
+        <path d="M86.93 221a8.18 8.18 0 001 2v.23a1.94 1.94 0 00.08.62.61.61 0 000 .12 1 1 0 01.57.16.5.5 0 01.13.12c2.29-.67-.19 1-.6 1.65-.06.09-.08.18 0 .23 2.33-.87.76 1.09 1.84 1.22v.2a.76.76 0 010 .28l.11.15.09.12.07.13a1.16 1.16 0 00-.42 1.73l.09.2a18.7 18.7 0 01.34 2.7v.3c.57.38.57.38-.37.51 0-.05 0-.1-.08-.16-.29-.64.27-.44-.18-2.29 0-.09-.71-1.61-.72-1.68 1.05-.64.31-1.15-.07-1.68l-.07-.09c-.12-1.16-.15-1.39-.49-1.13l-.15.12c-.43.09-.71-.81-.45-.87l.12-.11c.83-.75 1.76-1.48.35-1.06 0-.08 0-.16-.05-.23a2.08 2.08 0 010-.39l-.07-.14c-.08-.19-.16-.4-.23-.61l-.06-.2c-.18-.44-.45-1.34-.69-2.07z" fill="url(#Laub_11-32)"/>
+        <path d="M87.6 235.87c-1.18-.52-2-3.23-3.09-3.91l-.24-.3-1.88-2.39 2 2.14.26.27a15.63 15.63 0 013.13 3.85z" fill="url(#Laub_16-49)"/>
+        <path d="M83.6 225.89s2.84 9.29 3.9 9.5-3.9-9.5-3.9-9.5z" fill="url(#Laub_2-33)"/>
+        <path d="M84.51 222.76a8.39 8.39 0 001 2v.24a2.28 2.28 0 00.08.62.61.61 0 000 .12 1 1 0 01.57.16l.14.11c2.29-.66-.19 1-.61 1.65-.06.1-.08.18 0 .23 2.34-.86.77 1.1 1.85 1.22a1.68 1.68 0 010 .2.62.62 0 010 .29l.12.15.08.12a.75.75 0 01.07.12 1.18 1.18 0 00-.42 1.74 1.74 1.74 0 00.1.19 19.2 19.2 0 01.33 2.71 2.71 2.71 0 010 .29c.56.39.56.39-.37.52 0 0 0-.1-.08-.16-.29-.64.27-.45-.19-2.29 0-.1-.71-1.61-.71-1.69 1-.63.3-1.15-.08-1.67l-.06-.09c-.13-1.16-.15-1.4-.5-1.13l-.14.12c-.44.09-.72-.82-.46-.87l.12-.12c.83-.74 1.76-1.48.35-1.06v-.23a3.63 3.63 0 01-.06-.38l-.06-.14a5 5 0 01-.24-.62l-.06-.19c-.17-.44-.45-1.35-.68-2.07z" fill="url(#Laub_11-33)"/>
+        <path d="M86.8 234.16c-1.23-.7-2.21-3.88-3.35-4.76l-.26-.37-2-2.9 2.19 2.63.28.34a21 21 0 013.34 4.69z" fill="url(#Laub_16-50)"/>
+        <path d="M82.24 222.34s3.34 10.93 4.43 11.26-4.43-11.26-4.43-11.26z" fill="url(#Laub_2-34)"/>
+        <path d="M83 218.83a11.59 11.59 0 001.08 2.37v.26a3 3 0 00.11.72.35.35 0 00.06.14 1 1 0 01.59.24 1 1 0 01.15.14c2.31-.57-.16 1.08-.55 1.84-.06.11-.08.2 0 .27 2.36-.8.84 1.32 2 1.56v.23a.64.64 0 010 .32l.13.18c0 .06.07.11.09.16a.64.64 0 01.08.14 1.36 1.36 0 00-.35 2c0 .07.07.15.1.23a26.2 26.2 0 01.47 3.14v.34c.59.49.59.49-.36.56 0-.06-.05-.12-.08-.19-.33-.76.25-.49-.3-2.65 0-.11-.8-1.91-.81-2 1-.64.26-1.29-.16-1.93l-.06-.11c-.19-1.34-.22-1.61-.56-1.34a1.53 1.53 0 00-.15.13c-.44.06-.77-1-.5-1a.68.68 0 01.12-.12c.81-.79 1.73-1.56.3-1.19a1.86 1.86 0 000-.27 3.33 3.33 0 01-.08-.45c0-.05-.05-.11-.07-.17a6.74 6.74 0 01-.27-.72 2 2 0 01-.07-.23c-.2-.53-.52-1.59-.8-2.44a.59.59 0 01-.11-.16z" fill="url(#Laub_11-34)"/>
+        <path d="M89 235.72c-1-1.05-1.12-4.59-2-5.8-.06-.15-.11-.3-.16-.45l-1.2-3.53 1.4 3.29.18.42a24.05 24.05 0 012 5.74z" fill="url(#Laub_16-51)"/>
+        <path d="M87.5 222.33s.55 12.15 1.47 12.78-1.47-12.78-1.47-12.78z" fill="url(#Laub_2-35)"/>
+        <path d="M89 218.93a13.51 13.51 0 00.45 2.72v.28a3.55 3.55 0 00-.07.77v.16a1 1 0 01.49.4 1.14 1.14 0 01.1.19c2.24 0-.39 1.07-.92 1.75a.26.26 0 00-.08.26c2.33-.18.46 1.59 1.42 2.14a1.79 1.79 0 010 .24.92.92 0 01-.08.33c0 .08 0 .15.07.22l.06.19v.17c-.94.48-.9 1.16-.77 1.91v.28c-.08.77 0 1.84-.29 3.35l-.06.36c.43.66.43.66-.46.48v-.23c-.13-.86.34-.43.33-2.8 0-.12-.3-2.18-.28-2.27 1.1-.38.53-1.27.3-2v-.14c.14-1.43.17-1.72-.2-1.53l-.16.1c-.42-.06-.48-1.24-.23-1.22l.14-.08c.92-.6 1.93-1.14.55-1.14v-.3V222.85a7.12 7.12 0 01-.08-.82v-.25c-.06-.6-.11-1.78-.17-2.73a.29.29 0 00-.06-.12z" fill="url(#Laub_11-35)"/>
+      </g>
+      <g id="Büschel-13" data-name="Büschel">
+        <path d="M91.12 234.64c1.17-.52 2-3.23 3.08-3.92a3.15 3.15 0 00.24-.3l1.89-2.42-2 2.13-.26.28a15.34 15.34 0 00-3.13 3.84z" fill="url(#Laub_16-52)"/>
+        <path d="M95.12 224.65s-2.85 9.3-3.9 9.51 3.9-9.51 3.9-9.51z" fill="url(#Laub_2-36)"/>
+        <path d="M94.2 221.53a8.18 8.18 0 01-1 2v.23a1.94 1.94 0 01-.08.62.43.43 0 01-.05.12 1 1 0 00-.57.16l-.14.12c-2.28-.66.2 1 .61 1.65.06.1.08.18 0 .23-2.33-.87-.77 1.09-1.84 1.22v.2a.59.59 0 000 .28l-.11.15a.51.51 0 00-.09.13.75.75 0 00-.07.12 1.16 1.16 0 01.42 1.73l-.09.2a18.9 18.9 0 00-.34 2.7v.3c-.57.38-.57.38.37.52 0-.06 0-.11.07-.17.3-.63-.27-.44.19-2.29 0-.09.71-1.6.71-1.68-1-.64-.3-1.15.08-1.67l.06-.1c.13-1.16.15-1.39.5-1.13l.14.12c.44.09.72-.81.46-.87l-.12-.11c-.83-.75-1.76-1.48-.35-1.06a1.55 1.55 0 010-.23 2.08 2.08 0 000-.39l.07-.14c.08-.19.16-.4.23-.61l.06-.19c.17-.45.45-1.35.69-2.08z" fill="url(#Laub_11-36)"/>
+        <path d="M89.81 233.76c1.18-.52 2-3.23 3.09-3.91l.24-.31 1.86-2.38-2 2.14-.25.27a15.41 15.41 0 00-3.13 3.85z" fill="url(#Laub_16-53)"/>
+        <path d="M93.82 223.77s-2.85 9.3-3.9 9.51 3.9-9.51 3.9-9.51z" fill="url(#Laub_2-37)"/>
+        <path d="M92.9 220.65a8.39 8.39 0 01-1 2v.22a2.28 2.28 0 01-.08.62.33.33 0 010 .12 1 1 0 00-.57.17l-.14.11c-2.28-.66.19 1 .61 1.65.06.1.08.18 0 .23-2.33-.87-.77 1.09-1.84 1.22a1.62 1.62 0 000 .2.59.59 0 000 .28l-.11.15a.51.51 0 00-.09.13.75.75 0 00-.07.12 1.17 1.17 0 01.42 1.73l-.09.2a18.9 18.9 0 00-.34 2.7v.3c-.57.38-.57.38.36.52a.89.89 0 00.08-.17c.3-.63-.27-.44.19-2.29 0-.09.71-1.6.71-1.68-1-.64-.3-1.15.08-1.67l.06-.1c.13-1.16.15-1.39.5-1.13l.14.13c.44.08.72-.82.46-.88l-.12-.11c-.83-.75-1.76-1.48-.35-1.06v-.23a3.77 3.77 0 00.06-.39l.06-.14a5.53 5.53 0 00.24-.61l.06-.19c.17-.45.45-1.35.69-2.08a.21.21 0 01.08-.07z" fill="url(#Laub_11-37)"/>
+        <path d="M92.23 235.52c1.18-.52 2-3.22 3.09-3.91l.24-.3 1.88-2.38-2 2.13-.26.27a15.82 15.82 0 00-3.18 3.85z" fill="url(#Laub_16-54)"/>
+        <path d="M96.23 225.54s-2.84 9.3-3.9 9.5 3.9-9.5 3.9-9.5z" fill="url(#Laub_2-38)"/>
+        <path d="M95.31 222.42a7.7 7.7 0 01-1 2v.23a2.28 2.28 0 01-.08.62v.12a1 1 0 00-.58.16.74.74 0 00-.13.12c-2.29-.67.19.95.61 1.64.06.1.08.18 0 .24-2.34-.87-.77 1.09-1.85 1.22a1.5 1.5 0 000 .2.48.48 0 000 .28l-.12.15-.09.12a1.39 1.39 0 00-.06.13 1.17 1.17 0 01.42 1.73l-.1.2a20.26 20.26 0 00-.34 2.7v.3c-.56.38-.56.38.37.51l.08-.16c.29-.64-.27-.44.19-2.29 0-.09.71-1.61.71-1.68-1-.64-.31-1.16.08-1.68l.06-.09c.12-1.16.15-1.39.5-1.13l.14.12c.44.09.71-.81.46-.87a.69.69 0 00-.13-.11c-.82-.75-1.75-1.49-.34-1.06v-.24a2 2 0 000-.38.61.61 0 00.07-.14 5.53 5.53 0 00.24-.61l.06-.2c.17-.44.45-1.34.68-2.07a.21.21 0 00.15-.08z" fill="url(#Laub_11-38)"/>
+        <path d="M93 233.82c1.23-.7 2.21-3.89 3.35-4.77l.26-.36 2-2.9-2.19 2.63-.28.33a21 21 0 00-3.39 4.69z" fill="url(#Laub_16-55)"/>
+        <path d="M97.59 222s-3.34 10.93-4.43 11.26S97.59 222 97.59 222z" fill="url(#Laub_2-39)"/>
+        <path d="M96.79 218.49a11.33 11.33 0 01-1.08 2.36v.26a3 3 0 01-.11.72l-.06.14a1.09 1.09 0 00-.59.24 1 1 0 00-.15.14c-2.31-.56.16 1.08.55 1.85a.23.23 0 010 .26c-2.36-.8-.84 1.32-2 1.56a2.08 2.08 0 000 .23.64.64 0 000 .32l-.13.19-.1.15a1 1 0 00-.07.15 1.36 1.36 0 01.35 1.95c0 .08-.07.15-.11.24a27.8 27.8 0 00-.47 3.13v.34c-.6.49-.6.49.35.56l.09-.19c.33-.76-.25-.49.3-2.65 0-.11.8-1.91.81-2-1.05-.65-.26-1.3.15-1.93a.75.75 0 00.07-.12c.18-1.34.22-1.61.56-1.34l.14.13c.45.06.78-1 .51-1l-.12-.12c-.81-.79-1.73-1.55-.31-1.19l.06-.27a3.24 3.24 0 00.07-.44c0-.06 0-.12.08-.17.09-.23.19-.48.27-.73 0-.07.05-.15.07-.23.2-.52.52-1.58.8-2.44z" fill="url(#Laub_11-39)"/>
+        <path d="M90.87 235.38c1-1.06 1.12-4.6 2-5.81l.16-.45 1.19-3.53-1.39 3.29-.18.42a24.14 24.14 0 00-2 5.75z" fill="url(#Laub_16-56)"/>
+        <path d="M92.33 222s-.55 12.15-1.48 12.78S92.33 222 92.33 222z" fill="url(#Laub_2-40)"/>
+        <path d="M90.8 218.58a13.47 13.47 0 01-.45 2.73c0 .09 0 .18.05.27a3.66 3.66 0 01.07.77v.16a1.06 1.06 0 00-.48.4.69.69 0 00-.1.19c-2.24 0 .38 1.07.92 1.75.08.1.11.19.08.26-2.33-.18-.46 1.59-1.42 2.14a2 2 0 000 .25.7.7 0 00.08.32c0 .08-.05.16-.07.23l-.06.18v.17c.93.48.89 1.16.76 1.92v.27a31.52 31.52 0 00.29 3.35l.06.36c-.43.66-.43.66.45.48a1.43 1.43 0 000-.22c.13-.87-.34-.43-.33-2.81 0-.11.29-2.18.28-2.27-1.1-.38-.54-1.27-.3-2a.74.74 0 010-.14c-.15-1.43-.17-1.71.2-1.52l.16.09c.42-.06.48-1.24.23-1.21l-.14-.09c-.92-.59-1.94-1.13-.55-1.14v-.3V222.5c0-.26.06-.54.08-.82v-.25c0-.6.11-1.77.16-2.73z" fill="url(#Laub_11-40)"/>
+      </g>
+      <g id="Büschel-14" data-name="Büschel">
+        <path d="M43.37 256c-.92-.39-2.11-2.87-3-3.42l-.23-.27-1.82-2.08 1.87 1.77.24.24a17.86 17.86 0 013 3.35z" fill="url(#Laub_16-57)"/>
+        <path d="M38.35 246.9s4.07 8.53 4.84 8.63-4.84-8.63-4.84-8.63z" fill="url(#Laub_2-41)"/>
+        <path d="M38.25 243.86a11.05 11.05 0 001.11 1.79l.06.22a2.82 2.82 0 00.19.58l.06.1a.63.63 0 01.43.1l.12.1c1.39-.83.09.92 0 1.61v.23c1.38-1 .77 1 1.53 1 0 .07 0 .13.06.19a.64.64 0 010 .27l.12.13.09.11.07.11a1.38 1.38 0 00.12 1.68c0 .06.07.11.11.18.19.58.54 1.34.85 2.52 0 .09.05.19.07.28.47.31.47.31-.13.52l-.09-.14c-.35-.58.08-.45-.66-2.15 0-.09-.85-1.46-.87-1.53.56-.7-.06-1.12-.44-1.58l-.06-.08c-.36-1.08-.43-1.3-.6-1l-.07.13c-.28.12-.67-.71-.51-.79l.06-.11c.38-.79.84-1.57 0-1 0-.07-.06-.15-.09-.21s-.09-.26-.12-.36l-.08-.13c-.1-.17-.2-.36-.3-.56l-.09-.18c-.22-.4-.61-1.23-.94-1.89z" fill="url(#Laub_11-41)"/>
+        <path d="M44 255c-.92-.39-2.1-2.87-3-3.42l-.23-.27-1.77-2.05 1.88 1.83.23.24a17.53 17.53 0 013 3.35z" fill="url(#Laub_16-58)"/>
+        <path d="M39 246s4.07 8.53 4.83 8.63S39 246 39 246z" fill="url(#Laub_2-42)"/>
+        <path d="M38.92 242.91A12.08 12.08 0 0040 244.7c0 .07 0 .14.05.22a3.56 3.56 0 00.2.58l.06.1a.64.64 0 01.43.1.52.52 0 01.11.1c1.4-.83.09.92 0 1.62a.26.26 0 000 .22c1.39-1 .78 1 1.54 1l.06.19a.64.64 0 010 .27l.11.13a.44.44 0 01.09.11l.08.11a1.39 1.39 0 00.11 1.68 1.08 1.08 0 01.11.18 25.61 25.61 0 01.86 2.52 2.86 2.86 0 00.07.28c.47.31.47.31-.13.52l-.09-.14c-.35-.58.08-.45-.66-2.15 0-.09-.85-1.46-.87-1.53.56-.7-.06-1.12-.44-1.58l-.07-.08c-.35-1.08-.42-1.3-.59-1 0 0 0 .08-.07.13-.28.12-.67-.71-.51-.79l.05-.11c.39-.79.85-1.57 0-1a1.31 1.31 0 00-.08-.21 3 3 0 01-.12-.36l-.08-.13A5.85 5.85 0 0140 245l-.09-.17c-.22-.41-.61-1.24-.94-1.9z" fill="url(#Laub_11-42)"/>
+        <path d="M42.82 256.92c-.92-.39-2.11-2.87-3-3.42l-.23-.27-1.82-2.08 1.87 1.85.24.24a17.87 17.87 0 013 3.35z" fill="url(#Laub_16-59)"/>
+        <path d="M37.8 247.84s4.07 8.53 4.84 8.63-4.84-8.63-4.84-8.63z" fill="url(#Laub_2-43)"/>
+        <path d="M37.7 244.8a11.05 11.05 0 001.11 1.79l.06.22a2.82 2.82 0 00.19.58l.06.1a.59.59 0 01.43.11l.12.09c1.39-.83.09.92 0 1.62a.26.26 0 000 .22c1.38-1 .77 1 1.53 1a1.27 1.27 0 01.06.18.64.64 0 01.05.27l.12.13.09.11.07.11a1.38 1.38 0 00.12 1.68c0 .06.07.11.11.18.19.58.54 1.34.85 2.52 0 .09 0 .19.07.28.47.31.47.31-.13.52l-.09-.14c-.35-.58.08-.45-.66-2.15 0-.09-.85-1.46-.87-1.53.56-.7-.06-1.12-.44-1.57l-.06-.09c-.36-1.08-.43-1.3-.6-1l-.07.13c-.28.12-.67-.71-.51-.79l.06-.11c.38-.79.84-1.56 0-1l-.09-.21q-.08-.21-.12-.36l-.08-.13c-.1-.17-.2-.36-.3-.56l-.09-.17c-.22-.41-.61-1.24-.94-1.9z" fill="url(#Laub_11-43)"/>
+        <path d="M41.88 255.37c-1-.54-2.39-3.47-3.37-4.2l-.26-.32-2-2.56 2.09 2.29.27.29a25.3 25.3 0 013.33 4.13z" fill="url(#Laub_16-60)"/>
+        <path d="M36.06 244.61s4.79 10 5.61 10.25-5.61-10.25-5.61-10.25z" fill="url(#Laub_2-44)"/>
+        <path d="M35.79 241.22a14.94 14.94 0 001.28 2.14c0 .08 0 .16.07.24a4 4 0 00.24.67.54.54 0 00.07.13.73.73 0 01.46.17l.13.12c1.43-.74.14 1 .05 1.79a.35.35 0 000 .26c1.41-1 .87 1.17 1.68 1.3 0 .07 0 .15.08.21a.87.87 0 01.06.31 1.83 1.83 0 01.13.16 1.13 1.13 0 01.1.13l.09.14a1.66 1.66 0 00.21 1.88 2.39 2.39 0 00.13.21c.23.68.65 1.57 1 2.92l.09.32c.52.41.52.41-.11.57l-.1-.18c-.4-.68.06-.48-.82-2.48 0-.1-1-1.73-1-1.81.56-.7-.12-1.25-.55-1.81a.86.86 0 00-.07-.1c-.43-1.26-.52-1.51-.69-1.22l-.07.13c-.28.1-.75-.87-.58-.94v-.12c.37-.82.82-1.62-.06-1.15l-.1-.25c-.07-.16-.12-.3-.16-.42l-.09-.15-.35-.66a2 2 0 00-.1-.21c-.25-.48-.72-1.45-1.1-2.24z" fill="url(#Laub_11-44)"/>
+        <path d="M43.7 256.65c-.89-.9-1.82-4.24-2.67-5.31l-.21-.41-1.62-3.23 1.71 3 .21.38a33.77 33.77 0 012.7 5.25z" fill="url(#Laub_16-61)"/>
+        <path d="M39.62 244.12s3.18 11.44 4 11.95-4-11.95-4-11.95z" fill="url(#Laub_2-45)"/>
+        <path d="M39.87 240.76a18.25 18.25 0 00.93 2.54v.26a4.71 4.71 0 00.13.74l.06.15a1 1 0 01.42.34l.11.16c1.52-.16 0 1.05-.22 1.74a.33.33 0 000 .26c1.53-.39.68 1.46 1.45 1.89 0 .08 0 .16.05.23a1.35 1.35 0 010 .32c0 .07.07.14.1.2s0 .12.08.17l.06.16c-.52.54-.34 1.18-.08 1.88a2.77 2.77 0 00.1.26c.12.74.4 1.75.58 3.2v.34c.44.59.44.59-.2.49 0-.06 0-.13-.07-.2-.29-.81.13-.44-.43-2.69 0-.11-.7-2-.71-2.12.65-.46.06-1.25-.27-2L42 249c-.23-1.37-.28-1.64-.49-1.43l-.09.1c-.29 0-.6-1.13-.43-1.12a.61.61 0 00.07-.1c.49-.64 1-1.25.11-1.13l-.06-.28a3.33 3.33 0 01-.08-.45 1.34 1.34 0 01-.07-.18c-.08-.25-.17-.51-.24-.77a2.17 2.17 0 01-.07-.24c-.18-.56-.49-1.67-.75-2.56z" fill="url(#Laub_11-45)"/>
+      </g>
+      <g id="Büschel-15" data-name="Büschel">
+        <path d="M107.47 235.38c1-.32 1.61-2 2.49-2.44l.19-.19 1.52-1.49-1.67 1.33-.21.17a10.75 10.75 0 00-2.52 2.41z" fill="url(#Laub_16-62)"/>
+        <path d="M110.69 229.14s-2.29 5.81-3.14 5.94 3.14-5.94 3.14-5.94z" fill="url(#Laub_2-46)"/>
+        <path d="M110 227.19a4.62 4.62 0 01-.78 1.24v.14a.94.94 0 01-.06.39.43.43 0 010 .07 1.05 1.05 0 00-.47.11l-.1.07c-1.85-.42.15.59.49 1 .05.06.06.11 0 .14-1.88-.54-.62.69-1.49.77a.5.5 0 010 .12.32.32 0 000 .18l-.09.09-.07.08-.06.08c.7.41.56.74.34 1.08l-.08.12a10.63 10.63 0 00-.27 1.69v.19c-.45.24-.45.24.3.32l.06-.1c.24-.4-.22-.28.15-1.43 0-.06.58-1 .58-1-.85-.4-.25-.72.06-1.05v-.06c.1-.73.12-.87.4-.71l.12.08c.35.05.57-.51.36-.55l-.1-.07c-.66-.46-1.41-.92-.28-.66a1 1 0 000-.14 1.32 1.32 0 000-.24l.06-.09c.07-.12.13-.25.19-.38a.69.69 0 01.05-.13c.14-.27.36-.84.55-1.29z" fill="url(#Laub_11-46)"/>
+        <path d="M106.42 234.83c1-.32 1.61-2 2.49-2.44l.19-.19 1.52-1.49L109 232l-.21.17a11 11 0 00-2.52 2.41z" fill="url(#Laub_16-63)"/>
+        <path d="M109.64 228.59s-2.29 5.81-3.14 5.94 3.14-5.94 3.14-5.94z" fill="url(#Laub_2-47)"/>
+        <path d="M108.9 226.64a4.62 4.62 0 01-.78 1.24v.12a.94.94 0 01-.06.39.43.43 0 010 .07 1 1 0 00-.46.11.41.41 0 00-.11.07c-1.84-.42.15.59.49 1 0 .06.06.11 0 .14-1.88-.54-.62.69-1.48.77v.12a.44.44 0 000 .18l-.09.09-.07.08-.06.08c.7.41.56.74.34 1.08l-.07.12a9.4 9.4 0 00-.28 1.69v.19c-.45.24-.45.24.3.32l.06-.1c.24-.4-.22-.28.15-1.43 0-.06.58-1 .58-1.05-.84-.4-.25-.72.06-1.05v-.06c.1-.73.12-.87.4-.7l.12.07c.35.05.57-.51.36-.54l-.09-.07c-.67-.47-1.42-.93-.29-.67a1 1 0 000-.14 1.48 1.48 0 000-.24.41.41 0 010-.09c.07-.12.13-.25.19-.38s0-.08 0-.13c.14-.27.36-.84.55-1.29z" fill="url(#Laub_11-47)"/>
+        <path d="M108.37 235.94c.94-.33 1.61-2 2.49-2.45l.19-.19 1.51-1.49-1.64 1.34-.21.17a10.7 10.7 0 00-2.52 2.4z" fill="url(#Laub_16-64)"/>
+        <path d="M111.59 229.7s-2.29 5.81-3.14 5.94 3.14-5.94 3.14-5.94z" fill="url(#Laub_2-48)"/>
+        <path d="M110.85 227.74a4.33 4.33 0 01-.78 1.24v.15a1 1 0 01-.06.39v.07a1.06 1.06 0 00-.47.1l-.1.07c-1.85-.41.15.6.49 1 0 .07.06.12 0 .15-1.88-.54-.62.68-1.49.76v.13a.28.28 0 000 .17l-.09.1-.08.07a.56.56 0 010 .08c.7.42.56.74.34 1.08l-.08.13a10.24 10.24 0 00-.27 1.69v.18c-.46.24-.46.24.3.33l.06-.11c.24-.39-.22-.27.15-1.43 0-.06.57-1 .58-1.05-.85-.4-.25-.72.06-1v-.06c.1-.72.12-.87.4-.7l.11.08c.36 0 .58-.52.37-.55l-.1-.07c-.66-.47-1.41-.93-.28-.66v-.15a1.2 1.2 0 000-.24l.06-.09c.06-.12.13-.25.19-.38a.61.61 0 010-.12c.13-.28.36-.84.55-1.3z" fill="url(#Laub_11-48)"/>
+        <path d="M109 234.87c1-.44 1.78-2.43 2.7-3l.21-.23 1.64-1.81-1.76 1.64-.23.21a13.93 13.93 0 00-2.73 2.94z" fill="url(#Laub_16-65)"/>
+        <path d="M112.69 227.48s-2.7 6.83-3.58 7 3.58-7 3.58-7z" fill="url(#Laub_2-49)"/>
+        <path d="M112 225.29a6.56 6.56 0 01-.87 1.47v.17a1.29 1.29 0 01-.09.45.41.41 0 010 .09.93.93 0 00-.47.14l-.12.09c-1.87-.35.12.68.44 1.16 0 .06.06.12 0 .16-1.9-.5-.68.83-1.57 1v.14a.26.26 0 000 .2l-.11.12-.07.09a.24.24 0 00-.06.09c.69.43.53.82.28 1.23a.64.64 0 00-.08.14 11.46 11.46 0 00-.38 2v.22c-.48.3-.48.3.29.35l.07-.12c.27-.48-.21-.31.24-1.66 0-.07.65-1.19.65-1.25-.84-.4-.21-.81.13-1.2a.35.35 0 00.05-.08c.15-.84.18-1 .45-.83l.12.08c.36 0 .62-.63.41-.65l-.1-.08c-.65-.49-1.4-1-.25-.74v-.17a2 2 0 00.06-.28l.06-.1c.08-.15.15-.3.22-.46s0-.09 0-.14c.16-.33.42-1 .64-1.53z" fill="url(#Laub_11-49)"/>
+        <path d="M107.27 235.85c.77-.66.9-2.88 1.58-3.63l.12-.28 1-2.21-1.13 2.06-.14.26a13 13 0 00-1.63 3.59z" fill="url(#Laub_16-66)"/>
+        <path d="M108.44 227.47s-.44 7.6-1.19 8 1.19-8 1.19-8z" fill="url(#Laub_2-50)"/>
+        <path d="M107.21 225.35a6.42 6.42 0 01-.36 1.7v.17a1.38 1.38 0 010 .48.3.3 0 010 .1.94.94 0 00-.39.25l-.08.12c-1.8 0 .31.67.75 1.09a.16.16 0 01.06.17c-1.88-.11-.37 1-1.15 1.33v.16a.31.31 0 00.07.2l-.06.14v.12a.36.36 0 000 .1.87.87 0 01.61 1.2v.17a16.07 16.07 0 00.23 2.1c0 .07 0 .15.05.22-.35.42-.35.42.37.3a.59.59 0 000-.14c.11-.54-.27-.27-.26-1.75 0-.07.24-1.36.22-1.42-.88-.24-.43-.79-.24-1.27v-.08c-.11-.9-.13-1.08.17-1l.13.06c.34 0 .38-.78.18-.76l-.11-.06c-.75-.37-1.56-.7-.45-.71a1.09 1.09 0 000-.18 2.36 2.36 0 000-.3.5.5 0 010-.12 4.18 4.18 0 00.06-.51v-.16c0-.37.09-1.11.13-1.71z" fill="url(#Laub_11-50)"/>
+      </g>
+      <g id="Büschel-16" data-name="Büschel">
+        <path d="M105.19 239.83c.59-1.07.19-3.42.67-4.54v-.35l.41-2.76-.6 2.69-.08.34a18.28 18.28 0 00-.72 4.51z" fill="url(#Laub_16-67)"/>
+        <path d="M104.32 230.6s1.39 8.06.76 8.84-.76-8.84-.76-8.84z" fill="url(#Laub_2-51)"/>
+        <path d="M102.6 229a7.76 7.76 0 01.06 1.94 1.19 1.19 0 01.08.16 1.58 1.58 0 01.17.47.41.41 0 010 .11 1.27 1.27 0 00-.33.46v.15c-1.75.93.47.54 1 .76.08 0 .12.08.1.14-1.86.82-.12 1.21-.79 1.95v.15a.39.39 0 00.12.18V235.78a.24.24 0 000 .12c.8-.06.88.39.89.93v.2a16.75 16.75 0 00.73 2l.11.21c-.24.6-.24.6.43.13v-.16c0-.61-.34-.14-.68-1.68 0-.07-.1-1.52-.12-1.57-.93.19-.61-.61-.54-1.19v-.11c-.32-.86-.39-1-.07-1.06h.14c.33-.2.19-1 0-.87h-.12c-.82 0-1.69 0-.61-.52 0-.06 0-.12-.05-.18a1.9 1.9 0 00-.1-.29.61.61 0 000-.14 5.62 5.62 0 00-.06-.56.88.88 0 000-.17c0-.41-.18-1.19-.28-1.83z" fill="url(#Laub_11-51)"/>
+        <path d="M104 240c.6-1.06.19-3.41.67-4.53v-.35l.41-2.76-.6 2.68-.08.35a18.28 18.28 0 00-.72 4.51z" fill="url(#Laub_16-68)"/>
+        <path d="M103.14 230.79s1.4 8.05.77 8.83-.77-8.83-.77-8.83z" fill="url(#Laub_2-52)"/>
+        <path d="M101.43 229.21a8.76 8.76 0 01.06 1.93.8.8 0 00.08.16 1.87 1.87 0 01.16.47.45.45 0 010 .11 1.33 1.33 0 00-.32.46 1 1 0 000 .16c-1.76.92.46.53 1 .76.07 0 .11.07.1.14-1.86.81-.12 1.21-.8 1.94l.06.15a.29.29 0 00.11.18 1.1 1.1 0 000 .18.59.59 0 000 .14v.12c.81-.07.88.39.89.93v.19a13.91 13.91 0 00.73 2.05l.1.2c-.24.6-.24.6.43.13a.92.92 0 000-.16c0-.61-.33-.14-.68-1.67 0-.07-.09-1.53-.12-1.58-.92.19-.61-.6-.54-1.19v-.1c-.33-.87-.39-1-.07-1.07h.14c.32-.21.18-1 0-.87h-.12c-.81 0-1.69 0-.6-.51l-.06-.19a1.39 1.39 0 00-.1-.29v-.14a5.62 5.62 0 00-.06-.56v-.17c0-.4-.18-1.19-.28-1.82-.12-.03-.11-.06-.11-.08z" fill="url(#Laub_11-52)"/>
+        <path d="M106.24 239.76c.6-1.07.19-3.41.67-4.53v-.35l.41-2.76-.6 2.68-.07.35a17.8 17.8 0 00-.73 4.51z" fill="url(#Laub_16-69)"/>
+        <path d="M105.37 230.54s1.4 8.05.77 8.83-.77-8.83-.77-8.83z" fill="url(#Laub_2-53)"/>
+        <path d="M103.66 229a8.76 8.76 0 01.06 1.93.8.8 0 00.08.16 2.44 2.44 0 01.17.47v.11a1.33 1.33 0 00-.32.46 1 1 0 00-.05.16c-1.75.92.46.53 1 .76.07 0 .11.07.1.14-1.86.81-.12 1.21-.8 1.94a1.16 1.16 0 00.06.15.33.33 0 00.11.18 1.1 1.1 0 000 .18.59.59 0 000 .13v.13c.81-.07.88.39.89.93v.19a13.91 13.91 0 00.73 2.05l.1.2c-.24.6-.24.6.43.13v-.16c0-.61-.34-.14-.69-1.68 0-.06-.09-1.52-.12-1.57-.92.19-.61-.6-.54-1.19v-.1c-.33-.87-.39-1-.07-1.07h.14c.32-.21.19-1 0-.88h-.12c-.81 0-1.69 0-.6-.51l-.06-.19a2 2 0 00-.09-.29.66.66 0 010-.14 5.62 5.62 0 00-.07-.62v-.17c0-.41-.18-1.19-.28-1.82a.2.2 0 00-.06-.01z" fill="url(#Laub_11-53)"/>
+        <path d="M106.17 238.11c.57-1.22.09-4 .54-5.26v-.41l.34-3.21-.53 3.11-.07.4a23.48 23.48 0 00-.59 5.24z" fill="url(#Laub_16-70)"/>
+        <path d="M105 227.3s1.64 9.47 1 10.35-1-10.35-1-10.35z" fill="url(#Laub_2-54)"/>
+        <path d="M103.25 225.38a10.91 10.91 0 01.12 2.27 1.08 1.08 0 01.08.19 2.25 2.25 0 01.19.55v.13a1.44 1.44 0 00-.32.52 1.62 1.62 0 000 .19c-1.74 1 .48.64 1 .92a.17.17 0 01.1.17c-1.85.88-.09 1.41-.74 2.24a1.89 1.89 0 00.06.18.44.44 0 00.12.22 1.36 1.36 0 000 .2.86.86 0 000 .16.65.65 0 000 .14c.81 0 .9.49.92 1.12v.23a20.83 20.83 0 00.79 2.42c0 .08.07.16.11.25-.22.69-.22.69.44.16a1 1 0 010-.18c0-.72-.35-.18-.74-2 0-.08-.14-1.78-.17-1.85-.92.19-.63-.73-.58-1.41v-.12c-.36-1-.43-1.23-.1-1.25h.14c.31-.22.16-1.14 0-1h-.13c-.82 0-1.7 0-.62-.63l-.06-.22a2.28 2.28 0 00-.11-.34.81.81 0 000-.16c0-.22 0-.44-.07-.66v-.2c0-.48-.21-1.4-.33-2.15z" fill="url(#Laub_11-54)"/>
+        <path d="M105.28 240.48c.27-1.3-.87-3.81-.74-5.15l-.06-.39-.48-3.14.23 3.09v.4a22.71 22.71 0 00.69 5.13z" fill="url(#Laub_16-71)"/>
+        <path d="M101.52 230.46s3.93 8.62 3.54 9.61-3.54-9.61-3.54-9.61z" fill="url(#Laub_2-55)"/>
+        <path d="M99.3 229.06a10.37 10.37 0 01.67 2.13 1.83 1.83 0 00.13.16 2.6 2.6 0 01.31.48.5.5 0 010 .13 1.4 1.4 0 00-.18.57v.18c-1.47 1.38.64.5 1.23.64.09 0 .14.06.15.13-1.62 1.28.25 1.37-.19 2.32l.1.15a.42.42 0 00.17.18v.35a.57.57 0 000 .14c.79-.24 1 .25 1.18.84a1.72 1.72 0 01.07.21 18.74 18.74 0 001.38 2.12l.17.21c-.06.71-.06.71.47.05l-.06-.17c-.22-.67-.38-.09-1.21-1.72 0-.07-.57-1.66-.62-1.72-.86.41-.8-.54-.91-1.2v-.12c-.6-.89-.72-1.07-.4-1.16h.14c.26-.29-.12-1.13-.28-1h-.12c-.83.16-1.69.4-.77-.44a2 2 0 01-.11-.2 2.21 2.21 0 00-.2-.3.88.88 0 000-.15 5.05 5.05 0 00-.23-.61l-.08-.18c-.17-.44-.55-1.28-.85-2 .05.03.05.01.04-.02z" fill="url(#Laub_11-55)"/>
+      </g>
+      <g id="Büschel-17" data-name="Büschel">
+        <path d="M96 235.36c1.18-.52 2-3.23 3.09-3.92l.24-.3 1.88-2.38-2 2.13-.26.28a15.57 15.57 0 00-3.2 3.83z" fill="url(#Laub_16-72)"/>
+        <path d="M100 225.37s-2.84 9.3-3.9 9.51 3.9-9.51 3.9-9.51z" fill="url(#Laub_2-56)"/>
+        <path d="M99.05 222.25a7.7 7.7 0 01-1 2v.23a2.28 2.28 0 01-.08.62l-.05.12a1 1 0 00-.58.16l-.13.12c-2.29-.66.19 1 .61 1.65.06.1.08.18 0 .23-2.34-.87-.77 1.09-1.85 1.22a1.5 1.5 0 000 .2.48.48 0 000 .28l-.12.15-.09.13a.67.67 0 00-.06.12 1.17 1.17 0 01.42 1.73l-.1.2a20.5 20.5 0 00-.34 2.7v.3c-.56.38-.56.38.37.51l.08-.16c.29-.63-.27-.44.19-2.29 0-.09.71-1.6.71-1.68-1-.64-.31-1.15.08-1.68l.06-.09c.12-1.16.15-1.39.5-1.13l.14.12c.44.09.71-.81.46-.87l-.13-.11c-.82-.75-1.75-1.48-.34-1.06v-.23a2.08 2.08 0 000-.39.61.61 0 00.07-.14 5.53 5.53 0 00.24-.61l.06-.19c.17-.45.45-1.35.68-2.08z" fill="url(#Laub_11-56)"/>
+        <path d="M94.67 234.48c1.18-.52 2-3.23 3.09-3.92l.24-.3 1.88-2.38-2 2.13-.26.28a15.57 15.57 0 00-3.13 3.84z" fill="url(#Laub_16-73)"/>
+        <path d="M98.67 224.49s-2.84 9.3-3.9 9.51 3.9-9.51 3.9-9.51z" fill="url(#Laub_2-57)"/>
+        <path d="M97.75 221.37a7.7 7.7 0 01-1 2 1.69 1.69 0 010 .23 2 2 0 01-.07.62.45.45 0 01-.06.12 1 1 0 00-.57.16l-.13.12c-2.29-.66.19 1 .61 1.65.06.1.07.18 0 .23-2.34-.87-.77 1.09-1.85 1.22v.2a.57.57 0 000 .28l-.12.15-.09.13a.67.67 0 00-.06.12 1.17 1.17 0 01.42 1.73 1.86 1.86 0 00-.1.2 20.5 20.5 0 00-.34 2.7v.3c-.56.38-.56.38.37.52l.08-.17c.29-.63-.27-.44.19-2.29 0-.09.71-1.6.71-1.68-1-.64-.31-1.15.08-1.67l.06-.1c.12-1.16.15-1.39.49-1.13l.15.13c.44.08.71-.82.45-.88a1.31 1.31 0 00-.12-.11c-.82-.75-1.75-1.48-.35-1.06v-.23a2.08 2.08 0 000-.39.61.61 0 00.07-.14 5.53 5.53 0 00.24-.61l.06-.19c.17-.45.45-1.35.68-2.08z" fill="url(#Laub_11-57)"/>
+        <path d="M97.09 236.24c1.17-.52 2-3.22 3.09-3.91l.23-.3 1.89-2.38-2 2.13-.26.27a15.59 15.59 0 00-3.13 3.85z" fill="url(#Laub_16-74)"/>
+        <path d="M101.09 226.26s-2.84 9.3-3.9 9.5 3.9-9.5 3.9-9.5z" fill="url(#Laub_2-58)"/>
+        <path d="M100.17 223.14a8.55 8.55 0 01-1 2v.23a1.94 1.94 0 01-.08.62.61.61 0 01-.05.12 1 1 0 00-.57.16.53.53 0 00-.14.12c-2.28-.67.2.95.61 1.64.06.1.08.18 0 .24-2.33-.87-.76 1.09-1.84 1.22v.2a.59.59 0 000 .28l-.11.15a.47.47 0 00-.09.12.83.83 0 00-.07.13 1.16 1.16 0 01.42 1.73l-.09.2a18.7 18.7 0 00-.34 2.7v.3c-.57.38-.57.38.37.51 0 0 .05-.1.07-.16.3-.64-.26-.44.19-2.29 0-.09.71-1.61.71-1.68-1-.64-.3-1.16.08-1.68a.47.47 0 00.06-.09c.13-1.16.16-1.39.5-1.13l.15.12c.43.09.71-.82.45-.87l-.12-.11c-.83-.75-1.76-1.49-.35-1.06v-.24a2 2 0 000-.38.91.91 0 01.07-.14c.08-.19.16-.4.23-.61l.06-.2c.18-.44.45-1.35.69-2.07z" fill="url(#Laub_11-58)"/>
+        <path d="M97.88 234.53c1.24-.69 2.21-3.88 3.35-4.76l.26-.36 2-2.9-2.19 2.62-.28.34a20.94 20.94 0 00-3.38 4.69z" fill="url(#Laub_16-75)"/>
+        <path d="M102.45 222.72S99.11 233.64 98 234s4.45-11.28 4.45-11.28z" fill="url(#Laub_2-59)"/>
+        <path d="M101.65 219.21a11.33 11.33 0 01-1.08 2.36v.26a2.53 2.53 0 01-.11.72.58.58 0 010 .14 1.16 1.16 0 00-.6.24.93.93 0 00-.14.14c-2.32-.56.15 1.08.55 1.84 0 .11.07.2 0 .27-2.36-.8-.84 1.32-2 1.56a2.23 2.23 0 000 .23.64.64 0 000 .32c0 .07-.09.13-.13.19l-.09.15a1.09 1.09 0 00-.08.15 1.36 1.36 0 01.36 1.95l-.11.24a25.64 25.64 0 00-.47 3.13v.34c-.59.49-.59.49.36.56l.09-.19c.33-.76-.26-.49.3-2.65 0-.11.8-1.91.8-2-1-.65-.26-1.3.16-1.94l.07-.11c.18-1.34.21-1.61.56-1.34l.14.13c.45.06.77-1 .51-1l-.12-.12c-.82-.79-1.74-1.55-.31-1.19l.06-.27c0-.17.06-.33.07-.45l.07-.16c.1-.23.19-.48.27-.73 0-.07 0-.15.08-.23.19-.52.52-1.58.79-2.44z" fill="url(#Laub_11-59)"/>
+        <path d="M95.72 236.09c1-1.05 1.13-4.59 2-5.8l.15-.45 1.2-3.53-1.4 3.29-.18.42a25.06 25.06 0 00-2 5.75z" fill="url(#Laub_16-76)"/>
+        <path d="M97.18 222.7s-.55 12.15-1.47 12.78 1.47-12.78 1.47-12.78z" fill="url(#Laub_2-60)"/>
+        <path d="M95.65 219.3a14.26 14.26 0 01-.44 2.73v.27a3.1 3.1 0 01.07.77.78.78 0 010 .16 1.09 1.09 0 00-.49.4 1.14 1.14 0 00-.1.19c-2.24 0 .39 1.07.92 1.75.08.1.11.18.08.26-2.33-.18-.46 1.59-1.42 2.14v.25a.86.86 0 00.08.32c0 .08 0 .15-.07.23a1.21 1.21 0 000 .18 1 1 0 000 .17c.94.48.9 1.16.77 1.92v.27a30.92 30.92 0 00.28 3.35c0 .12 0 .24.07.36-.43.66-.43.66.45.48a2.07 2.07 0 010-.22c.12-.87-.35-.43-.34-2.81 0-.11.3-2.18.28-2.27-1.09-.38-.53-1.27-.29-2v-.14c-.14-1.43-.17-1.71.21-1.53l.16.1c.42-.06.47-1.24.22-1.21l-.14-.09c-.92-.59-1.93-1.13-.55-1.14v-.3a3.09 3.09 0 000-.47v-.2c0-.26.06-.54.08-.82v-.25c.06-.6.11-1.78.17-2.73a.29.29 0 000-.12z" fill="url(#Laub_11-60)"/>
+      </g>
+      <g id="Büschel-18" data-name="Büschel">
+        <path d="M74 236.87s-7.42-2.15-7.42 1.44c.02 0-1.51-4.79 7.42-1.44z" fill="url(#Laub_15-11)"/>
+        <path d="M67.68 233.8s4.59 1.2 6.32 3.07c.51.54.52.42.17 0-.81-1-3.69-3.71-6.49-3.07z" fill="url(#Laub_4-11)"/>
+        <path d="M70.87 232.62a28.92 28.92 0 003.56 4.61c1.77 1.71-3.86-5.8-4.17-5.91s.34.89.61 1.3z" fill="url(#Laub_11-61)"/>
+        <path d="M67.89 232.8s3.14.72 4 1.59-1.89-2.07-4-1.59z" fill="url(#Laub_2-61)"/>
+        <path d="M74.43 236.44s-2.47-4.56-2-5.73 2 5.73 2 5.73z" fill="url(#Laub_16-77)"/>
+        <path d="M71.09 230.52a20.65 20.65 0 011.82 3.48c.29 1.08-.6-.35-1.82-3.48z" fill="url(#Laub_16-78)"/>
+        <path d="M74.51 237s-6.51-4.19-7.51-.75c0 0-.1-5.03 7.51.75z" fill="url(#Laub_15-12)"/>
+        <path d="M69.32 232.24s4 2.5 5.19 4.75c.34.67.38.55.17 0-.51-1.15-2.49-4.57-5.36-4.75z" fill="url(#Laub_4-12)"/>
+        <path d="M72.71 232a28.63 28.63 0 002.1 5.44c1.2 2.13-2-6.66-2.31-6.87s.08.98.21 1.43z" fill="url(#Laub_11-62)"/>
+        <path d="M69.8 231.34s2.81 1.59 3.36 2.66-1.16-2.52-3.36-2.66z" fill="url(#Laub_2-62)"/>
+        <path d="M75 236.7s-1-5.08-.23-6.06.23 6.06.23 6.06z" fill="url(#Laub_16-79)"/>
+        <path d="M73.53 230.07a20.72 20.72 0 01.74 3.86c-.03 1.07-.47-.52-.74-3.86z" fill="url(#Laub_16-80)"/>
+      </g>
+      <g id="Büschel-19" data-name="Büschel">
+        <path d="M76.31 236.76s7.42-2.15 7.42 1.44c0 0 1.52-4.79-7.42-1.44z" fill="url(#Laub_15-13)"/>
+        <path d="M82.64 233.69s-4.58 1.24-6.33 3.07c-.51.54-.52.42-.18 0 .87-1 3.72-3.76 6.51-3.07z" fill="url(#Laub_4-13)"/>
+        <path d="M79.46 232.51a28.92 28.92 0 01-3.56 4.61c-1.77 1.7 3.86-5.8 4.17-5.92s-.34.9-.61 1.31z" fill="url(#Laub_11-63)"/>
+        <path d="M82.44 232.69s-3.14.72-4 1.59 1.91-2.07 4-1.59z" fill="url(#Laub_2-63)"/>
+        <path d="M75.9 236.33s2.46-4.57 1.95-5.74-1.95 5.74-1.95 5.74z" fill="url(#Laub_16-81)"/>
+        <path d="M79.24 230.41a20.65 20.65 0 00-1.82 3.48c-.29 1.11.58-.36 1.82-3.48z" fill="url(#Laub_16-82)"/>
+        <path d="M75.81 236.88s6.5-4.19 7.52-.74c0 0 .09-5.03-7.52.74z" fill="url(#Laub_15-14)"/>
+        <path d="M81 232.13s-4 2.49-5.19 4.75c-.33.66-.38.55-.16.05.51-1.2 2.49-4.62 5.35-4.8z" fill="url(#Laub_4-14)"/>
+        <path d="M77.62 231.91a28.39 28.39 0 01-2.1 5.43c-1.2 2.14 2-6.66 2.3-6.86s-.07.96-.2 1.43z" fill="url(#Laub_11-64)"/>
+        <path d="M80.52 231.23s-2.8 1.59-3.36 2.66 1.22-2.53 3.36-2.66z" fill="url(#Laub_2-64)"/>
+        <path d="M75.29 236.59s1.06-5.08.24-6.06-.24 6.06-.24 6.06z" fill="url(#Laub_16-83)"/>
+        <path d="M76.8 230a19.76 19.76 0 00-.74 3.85c.03 1.08.47-.55.74-3.85z" fill="url(#Laub_16-84)"/>
+      </g>
+      <g id="Büschel-20" data-name="Büschel">
+        <path d="M89.27 236.56s7.42-2.15 7.41 1.45c0-.01 1.53-4.8-7.41-1.45z" fill="url(#Laub_15-15)"/>
+        <path d="M95.6 233.5s-4.58 1.23-6.33 3.06c-.52.54-.52.42-.18 0 .84-1 3.72-3.71 6.51-3.06z" fill="url(#Laub_4-15)"/>
+        <path d="M92.42 232.32a28.72 28.72 0 01-3.57 4.6c-1.76 1.71 3.86-5.8 4.17-5.91s-.34.89-.6 1.31z" fill="url(#Laub_11-65)"/>
+        <path d="M95.4 232.5s-3.14.72-4 1.59 1.91-2.09 4-1.59z" fill="url(#Laub_2-65)"/>
+        <path d="M88.85 236.13s2.47-4.56 2-5.73-2 5.73-2 5.73z" fill="url(#Laub_16-85)"/>
+        <path d="M92.2 230.21a19.73 19.73 0 00-1.82 3.49c-.29 1.07.62-.36 1.82-3.49z" fill="url(#Laub_16-86)"/>
+        <path d="M88.77 236.69s6.5-4.19 7.52-.75c0 0 .09-5.03-7.52.75z" fill="url(#Laub_15-16)"/>
+        <path d="M94 231.93s-4 2.5-5.19 4.76c-.34.66-.38.54-.17 0 .48-1.15 2.46-4.58 5.36-4.76z" fill="url(#Laub_4-16)"/>
+        <path d="M90.57 231.71a29 29 0 01-2.09 5.44c-1.21 2.14 2-6.66 2.3-6.87s-.07.96-.21 1.43z" fill="url(#Laub_11-66)"/>
+        <path d="M93.48 231s-2.8 1.59-3.36 2.67 1.22-2.5 3.36-2.67z" fill="url(#Laub_2-66)"/>
+        <path d="M88.25 236.39s1.06-5.08.23-6.06-.23 6.06-.23 6.06z" fill="url(#Laub_16-87)"/>
+        <path d="M89.76 229.76a20.51 20.51 0 00-.75 3.86c.04 1.11.48-.52.75-3.86z" fill="url(#Laub_16-88)"/>
+      </g>
+      <g id="Büschel-21" data-name="Büschel">
+        <path d="M45 256.63s7.42-2.15 7.42 1.44c-.03 0 1.5-4.79-7.42-1.44z" fill="url(#Laub_15-17)"/>
+        <path d="M51.3 253.56s-4.58 1.24-6.33 3.07c-.51.54-.52.42-.17 0 .83-1 3.71-3.71 6.5-3.07z" fill="url(#Laub_4-17)"/>
+        <path d="M48.12 252.38a28.92 28.92 0 01-3.56 4.62c-1.77 1.7 3.86-5.8 4.17-5.92s-.34.92-.61 1.3z" fill="url(#Laub_11-67)"/>
+        <path d="M51.1 252.56s-3.14.72-4 1.59 1.9-2.07 4-1.59z" fill="url(#Laub_2-67)"/>
+        <path d="M44.56 256.2s2.47-4.56 1.95-5.73-1.95 5.73-1.95 5.73z" fill="url(#Laub_16-89)"/>
+        <path d="M47.9 250.28a20.65 20.65 0 00-1.82 3.48c-.29 1.08.6-.36 1.82-3.48z" fill="url(#Laub_16-90)"/>
+        <path d="M44.48 256.75S51 252.57 52 256c0 0 .09-5-7.52.75z" fill="url(#Laub_15-18)"/>
+        <path d="M49.67 252s-4 2.5-5.19 4.75c-.34.67-.38.55-.17.05.51-1.2 2.49-4.62 5.36-4.8z" fill="url(#Laub_4-18)"/>
+        <path d="M46.28 251.78a28.63 28.63 0 01-2.1 5.44c-1.2 2.13 2-6.67 2.31-6.87s-.08.96-.21 1.43z" fill="url(#Laub_11-68)"/>
+        <path d="M49.19 251.1s-2.81 1.59-3.37 2.66 1.18-2.53 3.37-2.66z" fill="url(#Laub_2-68)"/>
+        <path d="M44 256.46s1-5.08.23-6.06-.23 6.06-.23 6.06z" fill="url(#Laub_16-91)"/>
+        <path d="M45.46 249.83a19.9 19.9 0 00-.74 3.86c.03 1.11.47-.52.74-3.86z" fill="url(#Laub_16-92)"/>
+      </g>
+      <g id="Büschel-22" data-name="Büschel">
+        <path d="M42.84 256.63s-8.75-2.15-8.75 1.44c0 0-1.8-4.79 8.75-1.44z" fill="url(#Laub_15-19)"/>
+        <path d="M35.37 253.56s5.41 1.24 7.47 3.07c.61.54.62.42.21 0-.98-1-4.38-3.71-7.68-3.07z" fill="url(#Laub_4-19)"/>
+        <path d="M39.13 252.38a29.73 29.73 0 004.2 4.61c2.08 1.7-4.55-5.8-4.92-5.92s.4.93.72 1.31z" fill="url(#Laub_11-69)"/>
+        <path d="M35.61 252.56s3.71.72 4.7 1.59-2.23-2.07-4.7-1.59z" fill="url(#Laub_2-69)"/>
+        <path d="M43.33 256.2s-2.91-4.56-2.31-5.73 2.31 5.73 2.31 5.73z" fill="url(#Laub_16-93)"/>
+        <path d="M39.39 250.28a19.18 19.18 0 012.14 3.48c.34 1.08-.7-.36-2.14-3.48z" fill="url(#Laub_16-94)"/>
+        <path d="M43.43 256.75s-7.66-4.18-8.87-.74c0-.01-.11-5.01 8.87.74z" fill="url(#Laub_15-20)"/>
+        <path d="M37.31 252s4.76 2.5 6.12 4.75c.4.67.45.55.19.05-.62-1.2-2.94-4.62-6.31-4.8z" fill="url(#Laub_4-20)"/>
+        <path d="M41.3 251.78a26.29 26.29 0 002.47 5.44c1.42 2.13-2.4-6.67-2.71-6.87s.08.96.24 1.43z" fill="url(#Laub_11-70)"/>
+        <path d="M37.87 251.1s3.31 1.59 4 2.66-1.47-2.53-4-2.66z" fill="url(#Laub_2-70)"/>
+        <path d="M44 256.46s-1.25-5.08-.27-6.06.27 6.06.27 6.06z" fill="url(#Laub_16-95)"/>
+        <path d="M42.26 249.83a17.59 17.59 0 01.88 3.86c-.04 1.11-.56-.52-.88-3.86z" fill="url(#Laub_16-96)"/>
+      </g>
+      <g id="Büschel-23" data-name="Büschel">
+        <path d="M74.87 248.53s7.42-2.15 7.41 1.45c0 .02 1.53-4.8-7.41-1.45z" fill="url(#Laub_15-21)"/>
+        <path d="M81.2 245.47s-4.58 1.23-6.33 3.06c-.52.54-.52.42-.18 0 .84-1 3.72-3.71 6.51-3.06z" fill="url(#Laub_4-21)"/>
+        <path d="M78 244.29a28.72 28.72 0 01-3.57 4.6c-1.76 1.71 3.86-5.8 4.17-5.91s-.32.89-.6 1.31z" fill="url(#Laub_11-71)"/>
+        <path d="M81 244.47s-3.14.72-4 1.59 1.91-2.06 4-1.59z" fill="url(#Laub_2-71)"/>
+        <path d="M74.45 248.1s2.47-4.56 2-5.73-2 5.73-2 5.73z" fill="url(#Laub_16-97)"/>
+        <path d="M77.8 242.18a19.73 19.73 0 00-1.8 3.49c-.31 1.07.58-.36 1.8-3.49z" fill="url(#Laub_16-98)"/>
+        <path d="M74.37 248.66s6.5-4.19 7.52-.75c0 0 .11-5.03-7.52.75z" fill="url(#Laub_15-22)"/>
+        <path d="M79.56 243.9s-4 2.5-5.19 4.76c-.34.66-.38.54-.17.05.51-1.2 2.5-4.63 5.36-4.81z" fill="url(#Laub_4-22)"/>
+        <path d="M76.17 243.68a29 29 0 01-2.09 5.44c-1.21 2.14 2-6.66 2.3-6.87s-.07.96-.21 1.43z" fill="url(#Laub_11-72)"/>
+        <path d="M79.08 243s-2.8 1.59-3.36 2.67 1.22-2.53 3.36-2.67z" fill="url(#Laub_2-72)"/>
+        <path d="M73.85 248.36s1.06-5.08.23-6.05-.23 6.05-.23 6.05z" fill="url(#Laub_16-99)"/>
+        <path d="M75.36 241.73a20.51 20.51 0 00-.75 3.86c.03 1.11.48-.52.75-3.86z" fill="url(#Laub_16-100)"/>
+      </g>
+      <g id="Büschel-24" data-name="Büschel">
+        <path d="M72.74 248.53S64 246.38 64 250c0 0-1.81-4.82 8.74-1.47z" fill="url(#Laub_15-23)"/>
+        <path d="M65.27 245.47s5.4 1.23 7.47 3.06c.6.54.61.42.2 0-.94-1-4.38-3.71-7.67-3.06z" fill="url(#Laub_4-23)"/>
+        <path d="M69 244.29a29.61 29.61 0 004.21 4.6c2.08 1.71-4.56-5.8-4.92-5.91s.42.89.71 1.31z" fill="url(#Laub_11-73)"/>
+        <path d="M65.5 244.47s3.71.72 4.7 1.59-2.2-2.06-4.7-1.59z" fill="url(#Laub_2-73)"/>
+        <path d="M73.23 248.1s-2.91-4.56-2.31-5.73 2.31 5.73 2.31 5.73z" fill="url(#Laub_16-101)"/>
+        <path d="M69.28 242.18a19.46 19.46 0 012.15 3.49c.34 1.07-.71-.36-2.15-3.49z" fill="url(#Laub_16-102)"/>
+        <path d="M73.32 248.66s-7.66-4.19-8.87-.75c0 0-.1-5.03 8.87.75z" fill="url(#Laub_15-24)"/>
+        <path d="M67.2 243.9s4.76 2.5 6.12 4.76c.4.66.45.54.2.05-.6-1.2-2.94-4.63-6.32-4.81z" fill="url(#Laub_4-24)"/>
+        <path d="M71.2 243.68a26.29 26.29 0 002.47 5.44c1.42 2.14-2.41-6.66-2.72-6.87s.05.96.25 1.43z" fill="url(#Laub_11-74)"/>
+        <path d="M67.77 243s3.3 1.59 4 2.67-1.48-2.53-4-2.67z" fill="url(#Laub_2-74)"/>
+        <path d="M73.94 248.36s-1.25-5.08-.28-6.05.28 6.05.28 6.05z" fill="url(#Laub_16-103)"/>
+        <path d="M72.16 241.73a17.59 17.59 0 01.88 3.86c-.04 1.11-.56-.52-.88-3.86z" fill="url(#Laub_16-104)"/>
+      </g>
+      <g id="Büschel-25" data-name="Büschel">
+        <path d="M26.17 240.55s-9 0-8.16 3.46c-.01-.01-2.88-4.23 8.16-3.46z" fill="url(#Laub_15-25)"/>
+        <path d="M18.19 239.33s5.55-.08 8 1.22c.72.38.7.26.2-.05-1.21-.74-5.15-2.58-8.2-1.17z" fill="url(#Laub_4-25)"/>
+        <path d="M21.56 237.29a29.76 29.76 0 005.17 3.49c2.43 1.17-5.79-4.56-6.17-4.59s.6.81 1 1.1z" fill="url(#Laub_11-75)"/>
+        <path d="M18.18 238.3s3.78-.18 4.95.44-2.66-1.49-4.95-.44z" fill="url(#Laub_2-75)"/>
+        <path d="M26.55 240s-3.91-3.76-3.6-5 3.6 5 3.6 5z" fill="url(#Laub_16-105)"/>
+        <path d="M21.32 235.19a20.12 20.12 0 012.91 2.88c.58.93-.78-.18-2.91-2.88z" fill="url(#Laub_16-106)"/>
+        <path d="M26.77 240.53s-8.43-2.27-8.8 1.37c.03 0-1.28-4.9 8.8-1.37z" fill="url(#Laub_15-26)"/>
+        <path d="M19.7 237.35s5.22 1.3 7.07 3.18c.54.55.56.43.2 0-.87-1.02-3.97-3.8-7.27-3.18z" fill="url(#Laub_4-26)"/>
+        <path d="M23.53 236.2a26.68 26.68 0 003.68 4.7c1.89 1.74-3.9-5.91-4.25-6s.31.88.57 1.3z" fill="url(#Laub_11-76)"/>
+        <path d="M20 236.34s3.59.77 4.48 1.66-1.95-2.12-4.48-1.66z" fill="url(#Laub_2-76)"/>
+        <path d="M27.3 240.1s-2.41-4.64-1.7-5.82 1.7 5.82 1.7 5.82z" fill="url(#Laub_16-107)"/>
+        <path d="M24 234.07a17.54 17.54 0 011.76 3.55c.24 1.08-.65-.37-1.76-3.55z" fill="url(#Laub_16-108)"/>
+      </g>
+      <g id="Büschel-26" data-name="Büschel">
+        <path d="M125.69 243.3s-9 0-8.16 3.46c0 0-2.88-4.23 8.16-3.46z" fill="url(#Laub_15-27)"/>
+        <path d="M117.71 242.08s5.54-.08 8 1.22c.71.38.69.26.2-.05-1.21-.74-5.15-2.58-8.2-1.17z" fill="url(#Laub_4-27)"/>
+        <path d="M121.08 240.05a29.93 29.93 0 005.17 3.49c2.42 1.16-5.79-4.57-6.18-4.6s.6.78 1.01 1.11z" fill="url(#Laub_11-77)"/>
+        <path d="M117.7 241.05s3.77-.17 4.94.44-2.64-1.49-4.94-.44z" fill="url(#Laub_2-77)"/>
+        <path d="M126.06 242.77s-3.9-3.75-3.59-5 3.59 5 3.59 5z" fill="url(#Laub_16-109)"/>
+        <path d="M120.84 237.94a19.68 19.68 0 012.9 2.88c.58.96-.74-.18-2.9-2.88z" fill="url(#Laub_16-110)"/>
+        <path d="M126.29 243.28s-8.44-2.26-8.8 1.37c0 0-1.29-4.87 8.8-1.37z" fill="url(#Laub_15-28)"/>
+        <path d="M119.22 240.1s5.21 1.31 7.07 3.18c.54.55.56.43.2 0-.87-1.02-3.95-3.8-7.27-3.18z" fill="url(#Laub_4-28)"/>
+        <path d="M123.05 239a26.29 26.29 0 003.68 4.7c1.88 1.74-3.91-5.91-4.26-6s.31.83.58 1.3z" fill="url(#Laub_11-78)"/>
+        <path d="M119.55 239.09s3.59.77 4.49 1.66-2.04-2.12-4.49-1.66z" fill="url(#Laub_2-78)"/>
+        <path d="M126.81 242.85s-2.41-4.64-1.69-5.82 1.69 5.82 1.69 5.82z" fill="url(#Laub_16-111)"/>
+        <path d="M123.52 236.82a18 18 0 011.77 3.55c.22 1.09-.67-.37-1.77-3.55z" fill="url(#Laub_16-112)"/>
+      </g>
+      <g id="Büschel-27" data-name="Büschel">
+        <path d="M126.94 242.94s7.84-4.57 8.85-1.12c0 0 .38-5.11-8.85 1.12z" fill="url(#Laub_15-29)"/>
+        <path d="M133.28 237.86s-4.86 2.73-6.34 5.08c-.43.69-.47.58-.2.06.67-1.24 3.18-4.82 6.54-5.14z" fill="url(#Laub_4-29)"/>
+        <path d="M129.33 237.8a30.08 30.08 0 01-2.76 5.63c-1.53 2.22 2.76-6.87 3.08-7.09s-.13.97-.32 1.46z" fill="url(#Laub_11-79)"/>
+        <path d="M132.77 237s-3.37 1.75-4.08 2.87 1.57-2.66 4.08-2.87z" fill="url(#Laub_2-79)"/>
+        <path d="M126.35 242.67s1.52-5.22.61-6.17-.61 6.17-.61 6.17z" fill="url(#Laub_16-113)"/>
+        <path d="M128.49 235.86a19.35 19.35 0 00-1.09 3.95c-.03 1.13.6-.54 1.09-3.95z" fill="url(#Laub_16-114)"/>
+        <path d="M126.41 243.22s6.21-6.2 8.35-3.24c0 .02-1.32-4.86-8.35 3.24z" fill="url(#Laub_15-30)"/>
+        <path d="M131 236.91s-3.89 3.76-4.57 6.31c-.19.75-.27.66-.17.11.22-1.33 1.51-5.28 4.74-6.42z" fill="url(#Laub_4-30)"/>
+        <path d="M127.06 237.84a26.11 26.11 0 01-.85 5.93c-.77 2.45.44-7.09.69-7.37s.18.94.16 1.44z" fill="url(#Laub_11-80)"/>
+        <path d="M130.18 236.21s-2.74 2.47-3.07 3.69.67-2.84 3.07-3.69z" fill="url(#Laub_2-80)"/>
+        <path d="M125.74 243.12s-.23-5.24-1.44-5.89 1.44 5.89 1.44 5.89z" fill="url(#Laub_16-115)"/>
+        <path d="M125.59 236.24a17.52 17.52 0 00.23 4c.35 1.01.4-.7-.23-4z" fill="url(#Laub_16-116)"/>
+      </g>
+      <g id="Büschel-28" data-name="Büschel">
+        <path d="M99.48 235.49s7.84-4.57 8.85-1.12c0 0 .38-5.11-8.85 1.12z" fill="url(#Laub_15-31)"/>
+        <path d="M105.82 230.41s-4.86 2.73-6.34 5.08c-.43.69-.47.57-.19.06.71-1.25 3.17-4.82 6.53-5.14z" fill="url(#Laub_4-31)"/>
+        <path d="M101.87 230.35a30.49 30.49 0 01-2.75 5.65c-1.53 2.23 2.75-6.87 3.07-7.08s-.13.94-.32 1.43z" fill="url(#Laub_11-81)"/>
+        <path d="M105.31 229.52s-3.37 1.75-4.08 2.87 1.57-2.63 4.08-2.87z" fill="url(#Laub_2-81)"/>
+        <path d="M98.89 235.21s1.52-5.21.61-6.16-.61 6.16-.61 6.16z" fill="url(#Laub_16-117)"/>
+        <path d="M101 228.4a19.3 19.3 0 00-1.09 4c0 1.09.61-.59 1.09-4z" fill="url(#Laub_16-118)"/>
+        <path d="M99 235.77s6.21-6.21 8.35-3.25c-.05 0-1.35-4.85-8.35 3.25z" fill="url(#Laub_15-32)"/>
+        <path d="M103.52 229.46s-3.89 3.76-4.57 6.31c-.19.75-.27.66-.17.11.22-1.33 1.53-5.28 4.74-6.42z" fill="url(#Laub_4-32)"/>
+        <path d="M99.6 230.39a26 26 0 01-.85 5.92c-.77 2.46.44-7.08.69-7.36s.19.94.16 1.44z" fill="url(#Laub_11-82)"/>
+        <path d="M102.72 228.76s-2.74 2.47-3.07 3.69.67-2.84 3.07-3.69z" fill="url(#Laub_2-82)"/>
+        <path d="M98.28 235.66s-.23-5.23-1.44-5.89 1.44 5.89 1.44 5.89z" fill="url(#Laub_16-119)"/>
+        <path d="M98.13 228.79a17.69 17.69 0 00.24 4c.35 1.01.39-.7-.24-4z" fill="url(#Laub_16-120)"/>
+      </g>
+      <g id="Büschel-29" data-name="Büschel">
+        <path d="M106 258.17s5.77-2.64 6.51-.64c.04 0 .32-2.97-6.51.64z" fill="url(#Laub_15-33)"/>
+        <path d="M110.71 255.23s-3.59 1.58-4.67 2.94c-.32.4-.35.34-.15 0a7.2 7.2 0 014.82-2.94z" fill="url(#Laub_4-33)"/>
+        <path d="M107.8 255.19a16.36 16.36 0 01-2 3.26c-1.13 1.29 2-4 2.26-4.1s-.13.56-.26.84z" fill="url(#Laub_11-83)"/>
+        <path d="M110.33 254.71a12.42 12.42 0 00-3 1.66c-.53.63 1.15-1.52 3-1.66z" fill="url(#Laub_2-83)"/>
+        <path d="M105.6 258s1.12-3 .45-3.57-.45 3.57-.45 3.57z" fill="url(#Laub_16-121)"/>
+        <path d="M107.18 254.07a9.61 9.61 0 00-.81 2.29c-.01.64.43-.36.81-2.29z" fill="url(#Laub_16-122)"/>
+        <path d="M105.65 258.34s4.57-3.6 6.14-1.88c0 0-.97-2.82-6.14 1.88z" fill="url(#Laub_15-34)"/>
+        <path d="M109 254.68s-2.86 2.18-3.36 3.66c-.15.43-.2.37-.13.06a5.32 5.32 0 013.49-3.72z" fill="url(#Laub_4-34)"/>
+        <path d="M106.13 255.22a12 12 0 01-.63 3.43c-.57 1.42.33-4.1.51-4.26s.13.54.12.83z" fill="url(#Laub_11-84)"/>
+        <path d="M108.42 254.27s-2 1.43-2.26 2.14.5-1.64 2.26-2.14z" fill="url(#Laub_2-84)"/>
+        <path d="M105.15 258.27s-.16-3-1.06-3.41 1.06 3.41 1.06 3.41z" fill="url(#Laub_16-123)"/>
+        <path d="M105 254.29a8 8 0 00.18 2.29c.29.62.33-.38-.18-2.29z" fill="url(#Laub_16-124)"/>
+      </g>
+      <g id="Büschel-30" data-name="Büschel">
+        <path d="M96.64 255.73s5.77-2.65 6.51-.65c0 0 .28-2.96-6.51.65z" fill="url(#Laub_15-35)"/>
+        <path d="M101.31 252.78s-3.59 1.59-4.67 2.95c-.32.4-.35.33-.15 0a7.2 7.2 0 014.82-2.95z" fill="url(#Laub_4-35)"/>
+        <path d="M98.4 252.75a16.36 16.36 0 01-2 3.26c-1.13 1.29 2-4 2.26-4.11s-.13.57-.26.85z" fill="url(#Laub_11-85)"/>
+        <path d="M100.93 252.27a12.27 12.27 0 00-3 1.66c-.53.65 1.15-1.52 3-1.66z" fill="url(#Laub_2-85)"/>
+        <path d="M96.2 255.57s1.12-3 .45-3.57-.45 3.57-.45 3.57z" fill="url(#Laub_16-125)"/>
+        <path d="M97.77 251.62a9.7 9.7 0 00-.8 2.29c.03.66.43-.31.8-2.29z" fill="url(#Laub_16-126)"/>
+        <path d="M96.25 255.89s4.57-3.59 6.14-1.88c0-.01-.97-2.81-6.14 1.88z" fill="url(#Laub_15-36)"/>
+        <path d="M99.61 252.24s-2.87 2.17-3.36 3.65c-.15.43-.21.38-.13.06a5.3 5.3 0 013.49-3.71z" fill="url(#Laub_4-36)"/>
+        <path d="M96.73 252.77a12.42 12.42 0 01-.63 3.43c-.57 1.43.33-4.1.5-4.26s.14.54.13.83z" fill="url(#Laub_11-86)"/>
+        <path d="M99 251.83s-2 1.43-2.26 2.13.51-1.64 2.26-2.13z" fill="url(#Laub_2-86)"/>
+        <path d="M95.75 255.83s-.16-3-1.06-3.41 1.06 3.41 1.06 3.41z" fill="url(#Laub_16-127)"/>
+        <path d="M95.64 251.85a8 8 0 00.18 2.29c.25.61.28-.38-.18-2.29z" fill="url(#Laub_16-128)"/>
+      </g>
+      <g id="Büschel-31" data-name="Büschel">
+        <path d="M95.61 256.17s-3.31-1.18-3.42.23c0 0-.54-1.95 3.42-.23z" fill="url(#Laub_15-37)"/>
+        <path d="M92.83 254.68a8.84 8.84 0 012.78 1.49c.21.23.22.18.08 0a3.84 3.84 0 00-2.86-1.49z" fill="url(#Laub_4-37)"/>
+        <path d="M94.31 254.35a11.77 11.77 0 001.47 2c.75.74-1.57-2.46-1.71-2.52s.13.35.24.52z" fill="url(#Laub_11-87)"/>
+        <path d="M93 254.29a6.24 6.24 0 011.76.81c.3.38-.85-.9-1.76-.81z" fill="url(#Laub_2-87)"/>
+        <path d="M95.81 256s-1-1.9-.71-2.34.71 2.34.71 2.34z" fill="url(#Laub_16-129)"/>
+        <path d="M94.47 253.54a7.31 7.31 0 01.72 1.45c.1.43-.26-.17-.72-1.45z" fill="url(#Laub_16-130)"/>
+        <path d="M95.83 256.24s-2.82-1.94-3.39-.63c0 0 .11-1.98 3.39.63z" fill="url(#Laub_15-38)"/>
+        <path d="M93.62 254.14a7.94 7.94 0 012.21 2.1c.13.27.15.23.07 0a3.45 3.45 0 00-2.28-2.1z" fill="url(#Laub_4-38)"/>
+        <path d="M95.16 254.2a10.85 10.85 0 00.79 2.23c.48.89-.72-2.71-.83-2.8s0 .37.04.57z" fill="url(#Laub_11-88)"/>
+        <path d="M93.87 253.8a5.57 5.57 0 011.44 1.2c.22.45-.48-1-1.44-1.2z" fill="url(#Laub_2-88)"/>
+        <path d="M96.07 256.14s-.32-2 .09-2.39-.09 2.39-.09 2.39z" fill="url(#Laub_16-131)"/>
+        <path d="M95.6 253.47a7.21 7.21 0 01.21 1.55c-.05.43-.19-.23-.21-1.55z" fill="url(#Laub_16-132)"/>
+      </g>
+    </g>
+  </g>
+</svg>
