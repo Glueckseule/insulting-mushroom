@@ -12,6 +12,6 @@ The json file contains mushrooms with meta information and an array with adjecti
 
 To make the page more visually appealing, I created some mushroom SVGs and animated them. The idea for these mushrooms though comes from eni-art. 
 
-# Get the offense
+# Get offended
 
 Currently, the page only runs locally on my computer with xampp. Not on any server yet. 
